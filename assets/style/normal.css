@@ -4,27 +4,38 @@
   font-weight: normal;
   font-style: normal;
 }
+
 @font-face {
   font-family: "bilderberg";
   src: url(../type/Bilderberg\ OTF.otf);
   font-weight: normal;
   font-style: normal;
 }
+
 @font-face {
   font-family: "laserdisc";
   src: url(../type/Laser-Disc.otf);
   font-weight: normal;
   font-style: normal;
 }
+
 @font-face {
   font-family: "monoton";
   src: url(../type/Monoton-Regular.ttf);
   font-weight: normal;
   font-style: normal;
 }
+
 @font-face {
   font-family: "comoicrelief";
   src: url(../type/ComicRelief-Regular.woff2);
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "sfretro";
+  src: url(../type/SFRetroSpliceSC.ttf);
   font-weight: normal;
   font-style: normal;
 }
@@ -40,6 +51,7 @@ main {
   animation-timeline: scroll();
   animation-range: 0vh 75vh;
 }
+
 @keyframes --main-ani {
   0% {
     translate: 0 100em;
@@ -110,9 +122,9 @@ h2:nth-of-type(1) {
   text-align: center;
   margin: 0;
   margin-bottom: 0.5em;
-  animation: --tekstkleurh2 linear forwards;
+  animation: --tekstkleur70s linear forwards;
   animation-timeline: view();
-  animation-range: 30vh 130vh;
+  animation-range: 30vh 140vh;
 }
 
 h2:nth-of-type(2) {
@@ -120,13 +132,48 @@ h2:nth-of-type(2) {
   font-size: 8em;
   text-align: center;
   margin: 0;
-  margin-bottom: 0.5em;
-  animation: --tekstkleurh2 linear forwards;
+  margin-bottom: 0.2em;
+  animation: --tekstkleur80s linear forwards;
   animation-timeline: view();
-  animation-range: 30vh 120vh;
+  animation-range: 30vh 140vh;
 }
 
-@keyframes --tekstkleurh2 {
+h2:nth-of-type(3) {
+  font-family: sfretro;
+  font-size: 8em;
+  text-align: center;
+  margin: 0;
+  margin-bottom: 0.2em;
+  animation: --tekstkleur80s linear forwards;
+  animation-timeline: view();
+  animation-range: 30vh 140vh;
+}
+
+@keyframes --tekstkleur70s {
+  0% {
+  }
+
+  20% {
+    /*    position: fixed; */
+    text-shadow:
+      0px 0px 2px rgb(19, 224, 29),
+      0px 0px 2px rgb(238, 238, 10),
+      0px 0px 2px rgb(235, 20, 20),
+      0px 0px 2px rgb(189, 49, 140),
+      0px 0px 2px rgb(19, 185, 210);
+  }
+
+  100% {
+    text-shadow:
+      0px 20px 4px rgb(19, 224, 29),
+      0px 40px 4px rgb(238, 238, 10),
+      0px 60px 4px rgb(235, 20, 20),
+      0px 80px 4px rgb(189, 49, 140),
+      0px 100px 4px rgb(19, 185, 210);
+  }
+}
+
+@keyframes --tekstkleur80s {
   0% {
   }
 
