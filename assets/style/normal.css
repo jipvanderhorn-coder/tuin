@@ -1,14 +1,151 @@
-/* HIER KOMT JOUW CSS */
 @font-face {
-  font-family: "Comic Relief";
+  font-family: "astroz";
+  src: url(../type/Astroz\ Trial.ttf);
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "bilderberg";
+  src: url(../type/Bilderberg\ OTF.otf);
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "laserdisc";
+  src: url(../type/Laser-Disc.otf);
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "monoton";
+  src: url(../type/Monoton-Regular.ttf);
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "comoicrelief";
   src: url(../type/ComicRelief-Regular.woff2);
-  font-weight: 400;
+  font-weight: normal;
   font-style: normal;
 }
 
-body {
-  font-family: "Comic Relief", system-ui;
-  background-color: Canvas;
-  color: CanvasText;
+html {
   color-scheme: light dark;
+  max-width: 30em;
+  margin: auto;
+}
+
+main {
+  animation: --main-ani linear forwards;
+  animation-timeline: scroll();
+  animation-range: 0vh 75vh;
+}
+@keyframes --main-ani {
+  0% {
+    translate: 0 100em;
+  }
+  100% {
+    translate: 0 8em;
+  }
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+h1 {
+  text-align: center;
+  font-size: 5em;
+  margin: 0;
+  font-family: comicrelief;
+  margin-bottom: 5em;
+
+  em {
+    font-family: monoton;
+    font-size: calc(8 / 5 * 1em);
+
+    animation: --tekstkleur linear forwards;
+    animation-timeline: scroll();
+    animation-range: 0vh 70vh;
+  }
+}
+
+@keyframes --tekstkleur {
+  0% {
+  }
+
+  20% {
+    /*    position: fixed; */
+    text-shadow:
+      0px 100px 2px rgb(228, 241, 196),
+      0px 200px 2px rgb(79, 153, 98),
+      0px 300px 2px rgb(216, 216, 101),
+      0px 400px 2px rgb(62, 62, 167),
+      0px 500px 2px rgb(231, 81, 26);
+  }
+
+  90% {
+    text-shadow:
+      0px 200px 8px rgb(228, 241, 196),
+      0px 300px 8px rgb(79, 153, 98),
+      0px 400px 8px rgb(216, 216, 101),
+      0px 500px 8px rgb(62, 62, 167),
+      0px 600px 8px rgb(231, 81, 26);
+  }
+  100% {
+    text-shadow:
+      0px 280px 8px rgb(228, 241, 196),
+      0px 290px 8px rgb(79, 153, 98),
+      0px 300px 8px rgb(216, 216, 101),
+      0px 310px 8px rgb(62, 62, 167),
+      0px 320px 8px rgb(231, 81, 26);
+  }
+}
+
+h2:nth-of-type(1) {
+  font-family: astroz;
+  font-size: 8em;
+  text-align: center;
+  margin: 0;
+  margin-bottom: 0.5em;
+  animation: --tekstkleurh2 linear forwards;
+  animation-timeline: scroll();
+  animation-range: 80vh 190vh;
+}
+
+h2:nth-of-type(2) {
+  font-family: laserdisc;
+  font-size: 8em;
+  text-align: center;
+  margin: 0;
+  margin-bottom: 0.5em;
+  animation: --tekstkleurh2 linear forwards;
+  animation-timeline: scroll();
+  animation-range: 130vh 250vh;
+}
+
+@keyframes --tekstkleurh2 {
+  0% {
+  }
+
+  20% {
+    /*    position: fixed; */
+    text-shadow:
+      0px 0px 2px rgb(185, 86, 43),
+      0px 0px 2px rgb(152, 206, 209),
+      0px 0px 2px rgb(235, 235, 20),
+      0px 0px 2px rgb(67, 183, 90),
+      0px 0px 2px rgb(43, 50, 51);
+  }
+
+  100% {
+    text-shadow:
+      0px 20px 4px rgb(185, 86, 43),
+      0px 40px 4px rgb(152, 206, 209),
+      0px 60px 4px rgb(235, 235, 20),
+      0px 80px 4px rgb(67, 183, 90),
+      0px 100px 4px rgb(43, 50, 51);
+  }
 }
