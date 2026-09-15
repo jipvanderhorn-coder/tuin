@@ -49,15 +49,15 @@ html {
 main {
   animation: --main-ani linear forwards;
   animation-timeline: scroll();
-  animation-range: 0vh 80vh;
+  animation-range: 0vh 100vh;
 }
 
 @keyframes --main-ani {
   0% {
-    translate: 0 50em;
+    translate: 0 25em;
   }
   100% {
-    translate: 0 20em;
+    translate: 0 35em;
   }
 }
 
@@ -80,7 +80,7 @@ h1 {
 
     animation: --tekstkleur linear forwards;
     animation-timeline: scroll();
-    animation-range: 0vh 60vh;
+    animation-range: 0vh 87vh;
   }
 }
 
