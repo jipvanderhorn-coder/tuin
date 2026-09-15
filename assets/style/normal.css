@@ -6,8 +6,35 @@
 }
 
 @font-face {
+  font-family: "alviona";
+  src: url(../type/Alviona.ttf);
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "boldstorm";
+  src: url(../type/Boldstrom\ D.otf);
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
   font-family: "bilderberg";
   src: url(../type/Bilderberg\ OTF.otf);
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "zaddick";
+  src: url(../type/thezaddick-Regular.ttf);
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "fundamental";
+  src: url(../type/Fundamental\ Brigade\ Schwer.ttf);
   font-weight: normal;
   font-style: normal;
 }
@@ -92,7 +119,7 @@ h2:nth-of-type(1) {
   margin-bottom: 0.5em;
   animation: --tekstkleur70s linear forwards;
   animation-timeline: view();
-  animation-range: 30vh 200vh;
+  animation-range: 70vh 200vh;
 }
 
 h2:nth-of-type(2) {
@@ -103,7 +130,7 @@ h2:nth-of-type(2) {
   margin-bottom: 0.2em;
   animation: --tekstkleur80s linear forwards;
   animation-timeline: view();
-  animation-range: 30vh 200vh;
+  animation-range: 70vh 200vh;
 }
 
 h2:nth-of-type(3) {
@@ -113,6 +140,50 @@ h2:nth-of-type(3) {
   margin: 0;
   margin-bottom: 0.2em;
   animation: --tekstkleur90s linear forwards;
+  animation-timeline: view();
+  animation-range: 70vh 200vh;
+}
+
+h2:nth-of-type(4) {
+  font-family: zaddick;
+  font-size: 10em;
+  text-align: center;
+  margin: 0;
+  margin-bottom: 0.2em;
+  animation: --tekstkleur00s linear forwards;
+  animation-timeline: view();
+  animation-range: 70vh 200vh;
+}
+
+h2:nth-of-type(5) {
+  font-family: fundamental;
+  font-size: 11em;
+  text-align: center;
+  margin-bottom: 0.2em;
+  margin-top: 0em;
+  animation: --tekstkleur10s linear forwards;
+  animation-timeline: view();
+  animation-range: 30vh 200vh;
+}
+
+h2:nth-of-type(6) {
+  font-family: boldstorm;
+  font-size: 11em;
+  text-align: center;
+  margin-bottom: 0.2em;
+  margin-top: 0em;
+  animation: --tekstkleur20s linear forwards;
+  animation-timeline: view();
+  animation-range: 30vh 200vh;
+}
+
+h2:nth-of-type(7) {
+  font-family: alviona;
+  font-size: 11em;
+  text-align: center;
+  margin-bottom: 0.2em;
+  margin-top: 0em;
+  animation: --tekstkleurnu linear forwards;
   animation-timeline: view();
   animation-range: 30vh 200vh;
 }
@@ -204,19 +275,115 @@ h2:nth-of-type(3) {
   20% {
     /*    position: fixed; */
     text-shadow:
-      0px 0px 2px rgb(185, 86, 43),
-      0px 0px 2px rgb(152, 206, 209),
+      0px 0px 2px rgb(164, 150, 133),
+      0px 0px 2px rgb(101, 119, 42),
       0px 0px 2px rgb(235, 235, 20),
-      0px 0px 2px rgb(67, 183, 90),
-      0px 0px 2px rgb(43, 50, 51);
+      0px 0px 2px rgb(243, 161, 79),
+      0px 0px 2px rgb(35, 154, 205);
   }
 
   100% {
     text-shadow:
-      0px 20px 4px rgb(185, 86, 43),
-      0px 40px 4px rgb(152, 206, 209),
+      0px 20px 4px rgb(164, 150, 133),
+      0px 40px 4px rgb(101, 119, 42),
       0px 60px 4px rgb(235, 235, 20),
-      0px 80px 4px rgb(67, 183, 90),
-      0px 100px 4px rgb(43, 50, 51);
+      0px 80px 4px rgb(243, 161, 79),
+      0px 100px 4px rgb(35, 154, 205);
+  }
+}
+
+@keyframes --tekstkleur00s {
+  0% {
+  }
+
+  20% {
+    /*    position: fixed; */
+    text-shadow:
+      0px 0px 2px rgb(240, 240, 240),
+      0px 0px 2px rgb(2, 127, 0),
+      0px 0px 2px rgb(235, 52, 20),
+      0px 0px 2px rgb(228, 237, 236),
+      0px 0px 2px rgb(203, 227, 22);
+  }
+
+  100% {
+    text-shadow:
+      0px 20px 4px rgb(240, 240, 240),
+      0px 40px 4px rgb(2, 127, 0),
+      0px 60px 4px rgb(235, 52, 20),
+      0px 80px 4px rgb(228, 237, 236),
+      0px 100px 4px rgb(203, 227, 22);
+  }
+}
+
+@keyframes --tekstkleur10s {
+  0% {
+  }
+
+  20% {
+    /*    position: fixed; */
+    text-shadow:
+      0px 0px 2px rgb(158, 80, 58),
+      0px 0px 2px rgb(173, 173, 173),
+      0px 0px 2px rgb(255, 255, 255),
+      0px 0px 2px rgb(0, 0, 0),
+      0px 0px 2px rgb(19, 29, 88);
+  }
+
+  100% {
+    text-shadow:
+      0px 20px 4px rgb(158, 80, 58),
+      0px 40px 4px rgb(173, 173, 173),
+      0px 60px 4px rgb(255, 255, 255),
+      0px 80px 4px rgb(0, 0, 0),
+      0px 100px 4px rgb(19, 29, 88);
+  }
+}
+
+@keyframes --tekstkleur20s {
+  0% {
+  }
+
+  20% {
+    /*    position: fixed; */
+    text-shadow:
+      0px 0px 2px rgb(61, 165, 193),
+      0px 0px 2px rgb(211, 215, 211),
+      0px 0px 2px rgb(246, 106, 106),
+      0px 0px 2px rgb(234, 232, 232),
+      0px 0px 2px rgb(168, 170, 58);
+  }
+
+  100% {
+    text-shadow:
+      0px 20px 4px rgb(61, 165, 193),
+      0px 40px 4px rgb(211, 215, 211),
+      0px 60px 4px rgb(246, 106, 106),
+      0px 80px 4px rgb(234, 232, 232),
+      0px 100px 4px rgb(168, 170, 58);
+  }
+}
+
+@keyframes --tekstkleurnu {
+  0% {
+  }
+
+  20% {
+    /*    position: fixed; */
+    text-shadow:
+      0px 0px 2px rgb(245, 111, 2),
+      0px 0px 2px rgb(18, 164, 200),
+      0px 0px 2px rgb(244, 240, 5),
+      0px 0px 2px rgb(229, 130, 204),
+      0px 0px 2px rgb(231, 231, 231);
+  }
+
+  100% {
+    text-shadow:
+      0px 20px 4px rgb(245, 111, 2),
+      0px 40px 4px rgb(18, 164, 200),
+      0px 60px 4px rgb(244, 240, 5),
+      0px 80px 4px rgb(229, 130, 204),
+      0px 100px 4px rgb(231, 231, 231);
   }
 }
