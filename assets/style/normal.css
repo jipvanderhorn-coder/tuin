@@ -93,6 +93,9 @@ img {
   height: auto;
   display: block;
 }
+img:nth-of-type(7) {
+  margin-bottom: 50em;
+}
 
 h1 {
   text-align: center;
@@ -138,7 +141,8 @@ h2:nth-of-type(3) {
   font-size: 8em;
   text-align: center;
   margin: 0;
-  margin-bottom: 0.2em;
+  margin-bottom: 0.3em;
+  margin-top: 0.3em;
   animation: --tekstkleur90s linear forwards;
   animation-timeline: view();
   animation-range: 70vh 200vh;
@@ -146,7 +150,7 @@ h2:nth-of-type(3) {
 
 h2:nth-of-type(4) {
   font-family: zaddick;
-  font-size: 10em;
+  font-size: 11em;
   text-align: center;
   margin: 0;
   margin-bottom: 0.2em;
