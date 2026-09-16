@@ -104,6 +104,7 @@ button {
   background-color: transparent;
   border: none;
   outline: none;
+  color: white;
 }
 
 img {
@@ -236,6 +237,8 @@ main button {
 section {
   display: grid;
   grid-template-columns: auto;
+  padding-right: 2em;
+  padding-left: 2em;
 }
 main section:nth-of-type(1) button {
   font-family: astroz;
@@ -562,12 +565,14 @@ main figure {
   }
 }
 
+section:has(button:hover) {
+  transition: transform 0.15s ease-out;
+  background-color: rgba(242, 149, 8, 0.11);
+  transform: scale(1.05);
+}
 section:has(button:active) {
   transition: transform 0.1s ease-out;
-  background-color: red;
-}
-
-section:has(button:active) {
+  background-color: rgba(200, 122, 5, 0.727);
   transform: scale(0.95);
-  color: red;
+  color: rgba(255, 255, 255);
 }
