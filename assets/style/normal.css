@@ -68,10 +68,20 @@
   font-style: normal;
 }
 
-/* MARK: KLEURTJES */
+/* MARK: KLEURTJES en andere props */
 
 html {
   color-scheme: light dark;
+
+  --bg: light-dark(rgb(131, 124, 117), rgb(0, 0, 0));
+  color: white;
+  --witruimte-s: 1em;
+  --witruimte-m: 2em;
+
+  @media (width > 50em) {
+    --witruimte-s: 1.5em;
+    --witruimte-m: 3em;
+  }
 }
 
 /* MARK: ALGEMENE STYLING */
@@ -80,6 +90,10 @@ p {
   font-family: Arial, Helvetica, sans-serif;
   font-size: clamp(1rem, 0.875rem + 0.625vw, 1.25rem);
   line-height: 1.4;
+
+  @media (width > 50em) {
+    max-width: 30em;
+  }
 }
 
 a {
@@ -103,8 +117,9 @@ img {
 /* MARK: WRAPPERS */
 
 html {
-  max-width: 30em;
   margin: auto;
+
+  background-color: var(--bg);
 }
 
 body {
@@ -145,6 +160,9 @@ h1 {
     @media (width > 50em) {
       font-size: 2.5em;
     }
+    @media (width > 80em) {
+      font-size: 4em;
+    }
   }
 }
 
@@ -159,6 +177,8 @@ main {
   grid-auto-flow: dense;
 
   margin-bottom: 40em;
+  max-width: 30em;
+  margin-inline: auto;
 
   @media (width > 32em) {
     /* grid-template-columns: 1fr 1fr; */
@@ -167,6 +187,10 @@ main {
   }
 
   @media (width > 50em) {
+    max-width: 45em;
+  }
+  @media (width > 80em) {
+    max-width: 75em;
   }
 }
 
@@ -291,7 +315,7 @@ main figure {
     display: grid;
     grid-template-columns: 1fr 1fr;
     grid-template-areas: "tekst foto";
-    gap: 1em;
+    gap: var(--witruimte-m);
 
     &:nth-of-type(odd) {
       grid-template-areas: "foto tekst";
