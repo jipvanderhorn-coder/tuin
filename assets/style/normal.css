@@ -135,7 +135,8 @@ h1 {
     animation: --tekstkleur linear forwards;
     animation-timeline: scroll();
     animation-range: 0vh 87vh;
-    font-size: 2.3em;
+    font-size: 2.6em;
+    content: 1.3em;
 
     @media (width > 32em) {
       font-size: calc(8 / 3 * 1em);
