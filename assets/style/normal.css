@@ -78,7 +78,7 @@ html {
   --witruimte-s: 1em;
   --witruimte-m: 2em;
 
-  @media (width > 50em) {
+  @media (width > 48em) {
     --witruimte-s: 1.5em;
     --witruimte-m: 3em;
   }
@@ -91,7 +91,7 @@ p {
   font-size: clamp(1rem, 0.875rem + 0.625vw, 1.25rem);
   line-height: 1.4;
 
-  @media (width > 50em) {
+  @media (width > 48em) {
     max-width: 30em;
   }
 }
@@ -101,6 +101,9 @@ a {
 
 button {
   cursor: pointer;
+  background-color: transparent;
+  border: none;
+  outline: none;
 }
 
 img {
@@ -139,7 +142,7 @@ h1 {
     font-size: 2.5em;
   }
 
-  @media (width > 50em) {
+  @media (width > 48em) {
     font-size: 3em;
   }
 
@@ -157,7 +160,7 @@ h1 {
       font-size: calc(8 / 3 * 1em);
     }
 
-    @media (width > 50em) {
+    @media (width > 48em) {
       font-size: 2.5em;
     }
     @media (width > 80em) {
@@ -186,8 +189,8 @@ main {
     /* align-items: center; */
   }
 
-  @media (width > 50em) {
-    max-width: 45em;
+  @media (width > 48em) {
+    max-width: 43em;
   }
   @media (width > 80em) {
     max-width: 75em;
@@ -207,7 +210,7 @@ main > p:first-child {
   grid-column: 1/-1;
 }
 
-main h2 {
+main button {
   font-size: 8em;
   text-align: center;
   margin: 0;
@@ -223,28 +226,31 @@ main h2 {
     /* grid-column-start: 1; */
     /* grid-column-end: -1; */
     grid-column: 1/-1;
+    font-size: 10em;
   }
 
-  @media (width > 50em) {
-    /* font-size: 3em; */
+  @media (width > 80em) {
+    font-size: 15em;
   }
 }
-
-main h2:nth-of-type(1) {
+section {
+  display: grid;
+  grid-template-columns: auto;
+}
+main section:nth-of-type(1) button {
   font-family: astroz;
-
   margin-bottom: 0.5em;
   animation-name: --tekstkleur70s;
 }
 
-main h2:nth-of-type(2) {
+main section:nth-of-type(2) button {
   font-family: laserdisc;
 
   margin-bottom: 0.2em;
   animation-name: --tekstkleur80s;
 }
 
-main h2:nth-of-type(3) {
+main section:nth-of-type(3) button {
   font-family: sfretro;
 
   margin-bottom: 0.3em;
@@ -252,39 +258,60 @@ main h2:nth-of-type(3) {
   animation-name: --tekstkleur90s;
 }
 
-main h2:nth-of-type(4) {
+main section:nth-of-type(4) button {
   font-family: zaddick;
-  font-size: 11em;
+  font-size: 8em;
   margin-bottom: 0.2em;
   animation-name: --tekstkleur00s;
+  @media (width > 32em) {
+    font-size: 10em;
+  }
+  @media (width > 80em) {
+    font-size: 20em;
+  }
 }
-
-main h2:nth-of-type(5) {
+main section:nth-of-type(5) button {
   font-family: fundamental;
-  font-size: 11em;
+  font-size: 10em;
   margin-bottom: 0.2em;
   margin-top: 0em;
   animation-name: --tekstkleur10s;
   animation-range: 30vh 200vh;
+  @media (width > 32em) {
+    font-size: 12em;
+  }
+  @media (width > 80em) {
+    font-size: 20em;
+  }
 }
 
-main h2:nth-of-type(6) {
+main section:nth-of-type(6) button {
   font-family: boldstorm;
-  font-size: 11em;
+  font-size: 8em;
   text-align: center;
   margin-bottom: 0.2em;
   animation-name: --tekstkleur20s;
   animation-range: 30vh 200vh;
+  @media (width > 32em) {
+    font-size: 10em;
+  }
+  @media (width > 80em) {
+    font-size: 20em;
+  }
 }
 
-main h2:nth-of-type(7) {
+main section:nth-of-type(7) button {
   font-family: alviona;
-  font-size: 11em;
+  font-size: 10em;
   text-align: center;
   margin-bottom: 0.2em;
   animation-name: --tekstkleurnu;
   animation-timeline: view();
   animation-range: 30vh 200vh;
+
+  @media (width > 80em) {
+    font-size: 20em;
+  }
 }
 
 /* main img {
@@ -317,7 +344,7 @@ main figure {
     grid-template-areas: "tekst foto";
     gap: var(--witruimte-m);
 
-    &:nth-of-type(odd) {
+    section:nth-of-type(odd) & {
       grid-template-areas: "foto tekst";
     }
   }
@@ -326,12 +353,14 @@ main figure {
     grid-template-columns: 1fr 2fr;
     grid-template-areas: "tekst foto";
 
-    &:nth-of-type(odd) {
+    section:nth-of-type(odd) & {
       grid-template-columns: 2fr 1fr;
       grid-template-areas: "foto tekst";
     }
   }
 }
+
+/* MARK: shadows */
 
 @keyframes --tekstkleur70s {
   0% {
@@ -531,4 +560,14 @@ main figure {
       0px 80px 4px rgb(229, 130, 204),
       0px 100px 4px rgb(231, 231, 231);
   }
+}
+
+section:has(button:active) {
+  transition: transform 0.1s ease-out;
+  background-color: red;
+}
+
+section:has(button:active) {
+  transform: scale(0.95);
+  color: red;
 }
