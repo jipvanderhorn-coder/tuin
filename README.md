@@ -47,7 +47,7 @@ de html presentatie wou niet werken, heb uitgezocht op het internet hoe dit kon 
 
 ### WS 3 - 11 September
 
-vandaag...
+vandaag ben ik tot de conclusie gekomen dat ik mij moet gaan focussen op de retro stijl in posters visueel te maken in plaats van bij alles, dit is wel jammer maar dit maakt mijn concept iets haalbaarder.
 
 
 <img width="209" height="498" alt="Scherm­afbeelding 2026-09-17 om 20 33 36" src="https://github.com/user-attachments/assets/00906945-de53-42e0-bd20-0634da263044" />
@@ -71,6 +71,17 @@ responsive gemaakt
 <img width="1512" height="982" alt="Scherm­afbeelding 2026-09-11 om 15 51 23" src="https://github.com/user-attachments/assets/0e8e8ec0-6066-4d18-8cad-bda90a41d26b" />
 <img width="1512" height="982" alt="Scherm­afbeelding 2026-09-11 om 16 12 30" src="https://github.com/user-attachments/assets/87626052-8140-43b5-bc1e-8dfbd6082d84" />
 <img width="1512" height="982" alt="Scherm­afbeelding 2026-09-11 om 16 12 33" src="https://github.com/user-attachments/assets/8e68f72b-46a8-4f68-b430-0c3161a9b3cc" />
+
+
+### ws 5 - 16 september 
+
+
+vandaag de code afgemaakt, als ik meer tijd had zou ik willen dat je horizontaal kan scrollen door de afbeeldingen per tijdperk, ook zou ik een achtergrond tekeningen of vormen willen zodat het er minder plat uitziet. misschien 
+
+<br>
+<img width="530" height="624" alt="Scherm­afbeelding 2026-09-17 om 21 34 30" src="https://github.com/user-attachments/assets/01930c0b-7f52-41cf-9ea6-d76867ece920" />
+<br>
+<img width="469" height="505" alt="Scherm­afbeelding 2026-09-17 om 21 34 20" src="https://github.com/user-attachments/assets/de015e0a-73d9-4a81-adb8-a624d02fe654" />
 
 
 
