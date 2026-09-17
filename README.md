@@ -48,5 +48,13 @@ Mijn onderwerp voor mijn Digital Garden wordt de terugkeer van retro. Ik vind he
 
 ### WS 2 - 9 September
 
+de html presentatie wou niet werken, heb uitgezocht op het internet hoe dit kon maar kwam nergens op uit... AI heeft me helaas ook niet ermee kunnen helpen ermee, daarom is het een powerpoint geworden:
+<br>
+[links presentatie.docx](https://github.com/user-attachments/files/32337164/links.presentatie.docx)
+<br>
+[presentatie, inspiratie digital garden.pptx](https://github.com/user-attachments/files/32337160/presentatie.inspiratie.digital.garden.pptx)
+
+
+
 
 
