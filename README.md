@@ -54,6 +54,13 @@ de html presentatie wou niet werken, heb uitgezocht op het internet hoe dit kon 
 <br>
 [presentatie, inspiratie digital garden.pptx](https://github.com/user-attachments/files/32337160/presentatie.inspiratie.digital.garden.pptx)
 
+<img width="323" height="772" alt="Scherm­afbeelding 2026-09-09 om 13 09 36" src="https://github.com/user-attachments/assets/24f11ac5-ae70-4798-8eaf-10003b2d485c" />
+<img width="348" height="657" alt="Scherm­afbeelding 2026-09-09 om 13 09 22" src="https://github.com/user-attachments/assets/d71c07e8-51c6-43cc-81d2-62f51f133f58" />
+
+
+### WS 3 - 11 September
+
+
 
 
 
