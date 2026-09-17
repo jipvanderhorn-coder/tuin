@@ -1,3 +1,4 @@
+
 ### 31 aug - Kickoff
 
 Een fork van de model repository gemaakt en gepubliceerd via mijn eigen Github omgeving.
@@ -45,6 +46,9 @@ de html presentatie wou niet werken, heb uitgezocht op het internet hoe dit kon 
 
 
 ### WS 3 - 11 September
+
+
+<img width="209" height="498" alt="Scherm­afbeelding 2026-09-17 om 20 33 36" src="https://github.com/user-attachments/assets/00906945-de53-42e0-bd20-0634da263044" />
 
 
 1: van inspiratie verzamelen naar een duidelijk visueel concept voor je eigen Garden.
