@@ -1,17 +1,3 @@
-# Model
-
-Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door studenten worden gemaakt.
-
-## Learning Log
-
-### [...]
-
-[...]
-
-### 3 sept - [Workshop]
-
-[...]
-
 ### 31 aug - Kickoff
 
 Een fork van de model repository gemaakt en gepubliceerd via mijn eigen Github omgeving.
@@ -61,6 +47,9 @@ de html presentatie wou niet werken, heb uitgezocht op het internet hoe dit kon 
 ### WS 3 - 11 September
 
 
+1: van inspiratie verzamelen naar een duidelijk visueel concept voor je eigen Garden.
+2: mijn Garden gaat over de terugkeer van retro in mode, interieur, posters, kleuren en lettertypes. Ik wil dit vooral laten zien met beeld, tekst en animaties.
+3: het liefst het idee met de 3d meubels Enzo maar ik snap dat dat lastig uit te werken is
 
 
 
