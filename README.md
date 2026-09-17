@@ -41,3 +41,12 @@ Mijn onderwerp voor mijn Digital Garden wordt de terugkeer van retro. Ik vind he
 
 <img width="562" height="732" alt="Scherm­afbeelding 2026-09-17 om 14 26 48" src="https://github.com/user-attachments/assets/b50462fa-6044-4948-8044-8a23b044d2ed" />
 
+1: een persoonlijke website die steeds kan veranderen.
+2: als het aan de criteria voldoet en zich houd aan de wet.
+3: de terugkeer van retro in; mode, interieur, posters, kleuren en lettertypes.
+
+
+### WS 2 - 9 September
+
+
+
