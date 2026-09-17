@@ -47,6 +47,8 @@ de html presentatie wou niet werken, heb uitgezocht op het internet hoe dit kon 
 
 ### WS 3 - 11 September
 
+vandaag...
+
 
 <img width="209" height="498" alt="Scherm­afbeelding 2026-09-17 om 20 33 36" src="https://github.com/user-attachments/assets/00906945-de53-42e0-bd20-0634da263044" />
 
@@ -55,6 +57,20 @@ de html presentatie wou niet werken, heb uitgezocht op het internet hoe dit kon 
 2: mijn Garden gaat over de terugkeer van retro in mode, interieur, posters, kleuren en lettertypes. Ik wil dit vooral laten zien met beeld, tekst en animaties.
 3: het liefst het idee met de 3d meubels Enzo maar ik snap dat dat lastig uit te werken is
 
+### ws 4 - 14 september 
+
+
+
+responsive gemaakt
+<img width="1436" height="778" alt="Scherm­afbeelding 2026-09-11 om 14 26 35" src="https://github.com/user-attachments/assets/72cf8c9c-5dae-47c2-b32c-b0ec26e86449" />
+<img width="1512" height="982" alt="Scherm­afbeelding 2026-09-11 om 14 43 26" src="https://github.com/user-attachments/assets/cad21c7e-e71d-432b-ba97-610d47a7a906" />
+<img width="1512" height="982" alt="Scherm­afbeelding 2026-09-11 om 14 43 32" src="https://github.com/user-attachments/assets/9a5b9dc3-d54b-4dde-9b2c-445544856775" />
+<img width="1512" height="982" alt="Scherm­afbeelding 2026-09-11 om 14 44 51" src="https://github.com/user-attachments/assets/863784ce-0c55-4b0e-aef6-1e439a62ac8a" />
+<img width="1512" height="982" alt="Scherm­afbeelding 2026-09-11 om 14 48 27" src="https://github.com/user-attachments/assets/85335fdc-522e-492d-a42b-7e8c26b9eca1" />
+<img width="1512" height="982" alt="Scherm­afbeelding 2026-09-11 om 14 56 37" src="https://github.com/user-attachments/assets/80e60cfd-918b-4b66-8411-655930466fe4" />
+<img width="1512" height="982" alt="Scherm­afbeelding 2026-09-11 om 15 51 23" src="https://github.com/user-attachments/assets/0e8e8ec0-6066-4d18-8cad-bda90a41d26b" />
+<img width="1512" height="982" alt="Scherm­afbeelding 2026-09-11 om 16 12 30" src="https://github.com/user-attachments/assets/87626052-8140-43b5-bc1e-8dfbd6082d84" />
+<img width="1512" height="982" alt="Scherm­afbeelding 2026-09-11 om 16 12 33" src="https://github.com/user-attachments/assets/8e68f72b-46a8-4f68-b430-0c3161a9b3cc" />
 
 
 
