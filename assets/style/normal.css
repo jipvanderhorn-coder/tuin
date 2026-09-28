@@ -82,6 +82,23 @@ html {
     --witruimte-s: 1.5em;
     --witruimte-m: 3em;
   }
+
+  @media (width < 48em) {
+    section:has(img) img {
+      animation-name: grow;
+      animation-timeline: view();
+      animation-range: 30vh 70vh;
+      animation-fill-mode: both;
+    }
+
+    @keyframes grow {
+      0% {
+      }
+
+      100% {
+      }
+    }
+  }
 }
 
 /* MARK: ALGEMENE STYLING */
@@ -315,7 +332,7 @@ main section:nth-of-type(7) button {
   font-family: alviona;
   font-size: 10em;
   text-align: center;
-  margin-bottom: 0.2em;
+
   animation-name: --tekstkleurnu;
   animation-timeline: view();
   animation-range: 30vh 200vh;
@@ -331,10 +348,13 @@ main figure {
   padding: 1em 0;
 
   img {
+    margin-bottom: 0;
+    padding-bottom: 0;
+    border-bottom: 0;
     grid-area: foto;
     filter: saturate(0.8);
     opacity: 0.5;
-    transform: scale(1);
+    transform: scale(0.9);
     transition:
       transform 0.3s ease-out,
       opacity 0.3s ease-out,
@@ -350,7 +370,9 @@ main figure {
     letter-spacing: 0.07em;
     text-transform: uppercase;
     opacity: 0.4;
-    padding: 1em;
+    padding-bottom: 1em;
+    padding-left: 1em;
+    padding-top: 0;
 
     align-self: center;
 
@@ -456,6 +478,11 @@ section:has(button:active) {
       0px 60px 4px rgb(235, 20, 20),
       0px 80px 4px rgb(189, 49, 140),
       0px 100px 4px rgb(19, 185, 210);
+
+    img {
+      transform: scale(1.1);
+      opacity: 1;
+    }
   }
 }
 
