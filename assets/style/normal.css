@@ -181,7 +181,7 @@ main {
   grid-auto-flow: dense;
 
   margin-bottom: 40em;
-  max-width: 30em;
+  max-width: 34em;
   margin-inline: auto;
 
   @media (width > 32em) {
@@ -191,10 +191,10 @@ main {
   }
 
   @media (width > 48em) {
-    max-width: 43em;
+    max-width: 30em;
   }
   @media (width > 80em) {
-    max-width: 75em;
+    max-width: 60em;
   }
 }
 
@@ -240,10 +240,12 @@ section {
   padding-right: 2em;
   padding-left: 2em;
 }
+
 main section:nth-of-type(1) button {
   font-family: astroz;
   margin-bottom: 0.5em;
   animation-name: --tekstkleur70s;
+  z-index: 1;
 }
 
 main section:nth-of-type(2) button {
@@ -251,6 +253,7 @@ main section:nth-of-type(2) button {
 
   margin-bottom: 0.2em;
   animation-name: --tekstkleur80s;
+  z-index: 1;
 }
 
 main section:nth-of-type(3) button {
@@ -259,6 +262,7 @@ main section:nth-of-type(3) button {
   margin-bottom: 0.3em;
   margin-top: 0.3em;
   animation-name: --tekstkleur90s;
+  z-index: 1;
 }
 
 main section:nth-of-type(4) button {
@@ -266,6 +270,7 @@ main section:nth-of-type(4) button {
   font-size: 8em;
   margin-bottom: 0.2em;
   animation-name: --tekstkleur00s;
+  z-index: 1;
   @media (width > 32em) {
     font-size: 10em;
   }
@@ -280,6 +285,8 @@ main section:nth-of-type(5) button {
   margin-top: 0em;
   animation-name: --tekstkleur10s;
   animation-range: 30vh 200vh;
+  z-index: 1;
+
   @media (width > 32em) {
     font-size: 12em;
   }
@@ -295,6 +302,7 @@ main section:nth-of-type(6) button {
   margin-bottom: 0.2em;
   animation-name: --tekstkleur20s;
   animation-range: 30vh 200vh;
+  z-index: 1;
   @media (width > 32em) {
     font-size: 10em;
   }
@@ -311,19 +319,12 @@ main section:nth-of-type(7) button {
   animation-name: --tekstkleurnu;
   animation-timeline: view();
   animation-range: 30vh 200vh;
+  z-index: 1;
 
   @media (width > 80em) {
     font-size: 20em;
   }
 }
-
-/* main img {
-  @media (width > 32em) {
-    &:nth-of-type(odd) {
-      grid-column-start: 2;
-    }
-  }
-} */
 
 main figure {
   margin: 0;
@@ -331,14 +332,33 @@ main figure {
 
   img {
     grid-area: foto;
+    filter: saturate(0.8);
+    opacity: 0.5;
+    transform: scale(1);
+    transition:
+      transform 0.3s ease-out,
+      opacity 0.3s ease-out,
+      filter 0.3s ease-out;
   }
 
   figcaption {
     grid-area: tekst;
 
-    font-family: Arial, Helvetica, sans-serif;
     font-size: clamp(1rem, 0.875rem + 0.625vw, 1.25rem);
-    line-height: 1.4;
+    line-height: 1.1;
+
+    letter-spacing: 0.07em;
+    text-transform: uppercase;
+    opacity: 0.4;
+    padding: 1em;
+
+    align-self: center;
+
+    text-shadow: 2px 2px 0 rgba(255, 255, 255, 0.15);
+
+    transition:
+      transform 0.3s ease,
+      letter-spacing 0.3s ease;
   }
 
   @media (width > 32em) {
@@ -361,6 +381,56 @@ main figure {
       grid-template-areas: "foto tekst";
     }
   }
+}
+
+/* MARK: footer */
+
+footer {
+  span {
+    font-size: 4em;
+    text-align: center;
+    margin: 0;
+
+    animation-timeline: view();
+    animation-range: 70vh 200vh;
+    animation-fill-mode: forwards;
+    animation-timing-function: linear;
+
+    @media (width > 80em) {
+      font-size: 15em;
+    }
+  }
+
+  .webring {
+    display: none;
+  }
+}
+
+/* MARK: hover effecten */
+
+section:has(img:hover) {
+  transition: transform 0.3s ease-out;
+  background-color: rgba(242, 148, 8, 0.055);
+  transform: scale(1.05);
+
+  figcaption {
+    transform: scale(1.2);
+    opacity: 1;
+    letter-spacing: 0.4em;
+  }
+}
+
+section:has(img:hover) img {
+  opacity: 1;
+  transform: scale(1.3);
+  filter: saturate(1.5);
+}
+
+section:has(button:active) {
+  transition: transform 0.1s ease-out;
+  background-color: rgba(200, 122, 5, 0.727);
+  transform: scale(0.95);
+  color: rgba(255, 255, 255);
 }
 
 /* MARK: shadows */
@@ -563,16 +633,4 @@ main figure {
       0px 80px 4px rgb(229, 130, 204),
       0px 100px 4px rgb(231, 231, 231);
   }
-}
-
-section:has(button:hover) {
-  transition: transform 0.15s ease-out;
-  background-color: rgba(242, 149, 8, 0.11);
-  transform: scale(1.05);
-}
-section:has(button:active) {
-  transition: transform 0.1s ease-out;
-  background-color: rgba(200, 122, 5, 0.727);
-  transform: scale(0.95);
-  color: rgba(255, 255, 255);
 }
