@@ -184,12 +184,6 @@ main {
   max-width: 34em;
   margin-inline: auto;
 
-  @media (width > 32em) {
-    /* grid-template-columns: 1fr 1fr; */
-    /* column-gap: 1em; */
-    /* align-items: center; */
-  }
-
   @media (width > 48em) {
     max-width: 30em;
   }
@@ -363,8 +357,6 @@ main figure {
 
     align-self: center;
 
-    text-shadow: 2px 2px 0 rgba(255, 255, 255, 0.15);
-
     transition: transform 0.3s ease;
 
     @media (width < 48em) {
@@ -377,7 +369,7 @@ main figure {
 
   @media (width > 48em) {
     display: grid;
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
     grid-template-areas: "tekst foto";
     gap: var(--witruimte-m);
 
@@ -420,6 +412,50 @@ footer {
   }
 }
 
+/* cookie melding */
+
+#cookieModal {
+  background-color: var(--bg);
+  color: white;
+  border: 3px solid white;
+  max-width: 30em;
+  box-shadow: 10px 10px 0 rgb(200 122 5);
+
+  p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1rem;
+  }
+
+  button {
+    font-family: monoton;
+    font-size: 1.5em;
+    margin: 1em;
+    border: 1px dashed rgb(66, 125, 17);
+  }
+
+  button:hover {
+    text-shadow:
+      3px 3px 0 rgb(235 20 20),
+      6px 6px 0 rgb(19 185 210);
+    transform: rotateZ(10deg);
+    border: 0.001px dashed rgb(66, 125, 17);
+    scale: 1.5;
+  }
+  button:active {
+    background-color: rgb(117, 65, 124);
+    scale: 0.8;
+  }
+
+  button:focus {
+    transform: rotateZ(10deg);
+    border: 3px solid pink;
+    text-shadow:
+      3px 3px 0 rgb(235 20 20),
+      6px 6px 0 rgb(19 185 210);
+    scale: 1.5;
+  }
+}
+
 /* MARK: hover effecten */
 
 section:has(img:hover) {
@@ -434,16 +470,12 @@ section:has(img:hover) {
       opacity: 1;
       letter-spacing: 0.4em;
     }
-
-    background-color: rgba(242, 148, 8, 0.055);
   }
 }
 
 section:has(button:active) {
   transition: transform 0.1s ease-out;
-  background-color: rgb(200 122 5 / 0.727);
-
-  color: rgb(255 255 255);
+  background-color: rgb(200 122 5);
 }
 
 section {
@@ -693,5 +725,19 @@ section {
       0px 60px 4px rgb(244, 240, 5),
       0px 80px 4px rgb(229, 130, 204),
       0px 100px 4px rgb(231, 231, 231);
+  }
+}
+
+@media (width > 48em) {
+  main figure img {
+    box-shadow: 1em 1em 0 black;
+  }
+
+  main figure:nth-of-type(even) img {
+    transform: rotate(5deg);
+  }
+
+  main figure:nth-of-type(odd) img {
+    transform: rotate(-8deg);
   }
 }
