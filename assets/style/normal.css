@@ -393,17 +393,12 @@ main figure {
 
 footer {
   span {
-    font-size: 4em;
-    text-align: center;
-    margin: 0;
+    font-size: 3em;
 
-    animation-timeline: view();
-    animation-range: 70vh 200vh;
-    animation-fill-mode: forwards;
-    animation-timing-function: linear;
+    margin: 4em;
 
     @media (width > 80em) {
-      font-size: 15em;
+      font-size: 4em;
     }
   }
 
