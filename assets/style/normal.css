@@ -862,7 +862,7 @@ section {
   }
 
   main section:nth-of-type(7) button {
-    text-shadow: 5px 5px 0 rgb(251, 116, 5);
+    text-shadow: 5px 5px 0 rgb(250, 115, 5);
   }
 
   #cookieModal button {
