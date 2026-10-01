@@ -106,7 +106,7 @@ button {
 img {
   height: auto;
   max-width: 100%;
-
+  z-index: 0;
   display: block;
 }
 
@@ -208,6 +208,7 @@ main section h2 {
 
   button {
     display: inline-block;
+    z-index: 2;
   }
 }
 
@@ -537,6 +538,7 @@ section:has(img:hover) {
       transform: scale(1.2);
       opacity: 1;
       letter-spacing: 0.4em;
+      z-index: 2;
     }
   }
 }
