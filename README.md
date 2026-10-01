@@ -86,5 +86,27 @@ vandaag de code afgemaakt, als ik meer tijd had zou ik willen dat je horizontaal
 <br>
 <img width="469" height="505" alt="Scherm­afbeelding 2026-09-17 om 21 34 20" src="https://github.com/user-attachments/assets/de015e0a-73d9-4a81-adb8-a624d02fe654" />
 
+<img width="531" height="742" alt="Scherm­afbeelding 2026-10-01 om 20 45 36" src="https://github.com/user-attachments/assets/096a3493-ec51-453f-9ac4-3973155ac75d" />
+
+<img width="853" height="620" alt="Scherm­afbeelding 2026-10-01 om 20 46 00" src="https://github.com/user-attachments/assets/dbb69c22-427a-47c7-972d-9e850ad32a58" />
+
+<img width="561" height="775" alt="Scherm­afbeelding 2026-10-01 om 20 46 18" src="https://github.com/user-attachments/assets/0cc88af7-e0ef-41ee-93de-0806c15db6b0" />
+
+
+### ws 1 - 18 september 
+
+<img width="440" height="709" alt="Scherm­afbeelding 2026-10-01 om 20 46 31" src="https://github.com/user-attachments/assets/8ef021ef-033e-4025-b65a-5f75dfcdb6dc" />
+
+Wat zijn HTML landmark role elements?
+Dit zijn elementen die belangrijke onderdelen van een pagina aangeven, zoals <header>, <nav>, <main>, <section> en <footer>. Ze helpen vooral screenreaders om de pagina beter te begrijpen.
+Wat zijn heading elementen en hoe horen deze 'genest' te worden?
+Heading elementen zijn <h1> t/m <h6> en geven de structuur van een pagina aan. Je begint met één <h1> en gebruikt daarna <h2>, <h3> enzovoort in een logische volgorde. Je hoort niet zomaar van <h2> naar <h4> te springen.
+Hoe ga jij met cookies om? Beschrijf jouw beweegredenen en of die zijn veranderd na het volgen van dit college.
+Ik gebruik alleen cookies als ze echt nodig zijn. Eerst dacht ik er minder over na, maar door de les let ik meer op privacy en wil ik gebruikers zelf laten kiezen welke cookies ze accepteren.
+
+### ws 2 - 21 september 
+
+<img width="499" height="577" alt="Scherm­afbeelding 2026-10-01 om 20 39 55" src="https://github.com/user-attachments/assets/9e236ddd-a9de-40ca-8c78-d61c2061e8d6" />
+
 
 
