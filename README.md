@@ -148,6 +148,11 @@ Human consent component: Zorg dat de gebruiker duidelijk begrijpt waar hij toest
 
 ### ws 4 - 28 september 
 
+<img width="520" height="715" alt="Scherm­afbeelding 2026-10-01 om 23 13 21" src="https://github.com/user-attachments/assets/528ae551-b18f-458f-9669-864af7bf28cd" />
+<img width="489" height="713" alt="Scherm­afbeelding 2026-10-01 om 23 13 41" src="https://github.com/user-attachments/assets/a4f5f69b-132b-4470-95b8-80094ecf7de2" />
+
+
+
 <img width="1512" height="982" alt="Scherm­afbeelding 2026-09-28 om 14 45 19" src="https://github.com/user-attachments/assets/47e1a63d-1e4e-4770-9666-9c62fc7a4e32" />
 <img width="1512" height="982" alt="Scherm­afbeelding 2026-09-28 om 14 45 44" src="https://github.com/user-attachments/assets/387cebb2-014a-4102-b874-3f95d266d0b5" />
 
