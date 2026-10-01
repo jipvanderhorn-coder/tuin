@@ -98,7 +98,7 @@ vandaag de code afgemaakt, als ik meer tijd had zou ik willen dat je horizontaal
 
 
 
-### ws 1 - 18 september 
+### ws 1 - 21 september 
 
 <img width="440" height="709" alt="Scherm­afbeelding 2026-10-01 om 20 46 31" src="https://github.com/user-attachments/assets/8ef021ef-033e-4025-b65a-5f75dfcdb6dc" />
 
@@ -109,7 +109,7 @@ Heading elementen zijn h1 t/m h6 en geven de structuur van een pagina aan. Je be
 Hoe ga jij met cookies om? Beschrijf jouw beweegredenen en of die zijn veranderd na het volgen van dit college.
 Ik gebruik alleen cookies als ze echt nodig zijn. Eerst dacht ik er minder over na, maar door de les let ik meer op privacy en wil ik gebruikers zelf laten kiezen welke cookies ze accepteren.
 
-### ws 2 - 21 september 
+### ws 2 - 23 september 
 
 <img width="1040" height="727" alt="Scherm­afbeelding 2026-10-01 om 20 53 59" src="https://github.com/user-attachments/assets/e6b6ff69-49ce-4111-abe9-4d722ecd0eef" />
 
@@ -122,7 +122,7 @@ Ik gebruik alleen cookies als ze echt nodig zijn. Eerst dacht ik er minder over 
 <img width="499" height="577" alt="Scherm­afbeelding 2026-10-01 om 20 39 55" src="https://github.com/user-attachments/assets/9e236ddd-a9de-40ca-8c78-d61c2061e8d6" />
 
 
-### ws 3 - 23 september 
+### ws 3 - 25 september 
 
 <img width="1468" height="724" alt="Scherm­afbeelding 2026-09-23 om 12 21 56" src="https://github.com/user-attachments/assets/39eb1546-f7e4-4831-a25d-0d8ee4394ab3" />
 <img width="1442" height="781" alt="Scherm­afbeelding 2026-09-23 om 12 23 45" src="https://github.com/user-attachments/assets/0a7719a6-ed13-4a54-81a5-73fb6434b614" />
@@ -135,3 +135,48 @@ Ik gebruik alleen cookies als ze echt nodig zijn. Eerst dacht ik er minder over 
 <img width="1460" height="760" alt="Scherm­afbeelding 2026-09-23 om 12 27 11" src="https://github.com/user-attachments/assets/3f5a973c-dbf9-4778-9d8d-c85a86533ae6" />
 
 <img width="1463" height="789" alt="Scherm­afbeelding 2026-09-23 om 12 20 36" src="https://github.com/user-attachments/assets/f0412581-d1b3-4ed4-823b-73795204f2a5" />
+
+Wireflow: Een wireflow is een combinatie van wireframes en een flow. Je ziet hoe schermen eruitzien én hoe de gebruiker ertussen navigeert. Het helpt om de gebruikersflow en structuur te testen.
+
+Dark UX patterns: Ontwerpkeuzes die gebruikers onbewust of misleidend sturen naar iets wat ze misschien niet willen.
+Een abonnement moeilijk kunnen opzeggen
+Een vooraf aangevinkt vakje voor reclame
+Een grote knop voor accepteren en een kleine/verstopte knop voor weigeren
+
+Human consent component: Zorg dat de gebruiker duidelijk begrijpt waar hij toestemming voor geeft, zelf een keuze kan maken en die keuze ook makkelijk kan wijzigen of intrekken.
+
+
+### ws 4 - 28 september 
+
+<img width="1512" height="982" alt="Scherm­afbeelding 2026-09-28 om 14 45 19" src="https://github.com/user-attachments/assets/47e1a63d-1e4e-4770-9666-9c62fc7a4e32" />
+<img width="1512" height="982" alt="Scherm­afbeelding 2026-09-28 om 14 45 44" src="https://github.com/user-attachments/assets/387cebb2-014a-4102-b874-3f95d266d0b5" />
+
+
+<img width="1103" height="722" alt="Scherm­afbeelding 2026-09-25 om 12 13 26" src="https://github.com/user-attachments/assets/b5283fde-32ac-4bcb-b71e-9e1a673cda74" />
+<img width="1118" height="780" alt="Scherm­afbeelding 2026-09-25 om 12 13 36" src="https://github.com/user-attachments/assets/a8a08995-9f68-43ba-b9fe-6b2ec3d3b707" />
+
+Wat bedoelt Vasilis met de uitspraak: Semantiek doet mij niet zo veel, ik ben liever bezig met de UX van HTML?
+Het maakt hem minder uit wat het betekent en meer wat het doet. Dat is veel belangrijker volgens hem.
+
+Wat voor type beperkingen hebben invloed op het gebruiken van websites?
+Visueel, auditief, cognitief en motorisch  
+
+Noem drie manieren om door een website te navigeren met jouw screenreader.
+Door je pijltjes, tab en enter.
+
+### ws 5 - 30 september 
+
+<img width="1509" height="918" alt="Scherm­afbeelding 2026-09-30 om 11 28 41" src="https://github.com/user-attachments/assets/d2cc3b1b-2971-4863-8d79-f9debacbbf5c" />
+<img width="578" height="748" alt="Scherm­afbeelding 2026-10-01 om 16 28 51" src="https://github.com/user-attachments/assets/0f1d4feb-c46d-4233-be2b-7ad25389e0b7" />
+<img width="578" height="727" alt="Scherm­afbeelding 2026-10-01 om 16 29 00" src="https://github.com/user-attachments/assets/2bee89c7-90ff-4b72-b1be-0c69fe045d87" />
+<img width="1512" height="982" alt="Scherm­afbeelding 2026-09-28 om 14 38 58" src="https://github.com/user-attachments/assets/268b07ea-f8f6-42c4-becf-7df42ca2ca08" />
+<img width="1029" height="307" alt="Scherm­afbeelding 2026-10-01 om 16 28 31" src="https://github.com/user-attachments/assets/e0847af1-ba7b-43c3-a380-156eecae8a2d" />
+<img width="1509" height="918" alt="Scherm­afbeelding 2026-09-30 om 11 28 41" src="https://github.com/user-attachments/assets/fada7ea1-07ad-448c-be4c-798b515995f6" />
+
+Check out wo 30 sept
+
+Waar staat WCAG en A11y voor? dat staat voor Web Content Accessibility Guidelines en a11y= Accessibility want er zitten 11 letters tussen
+
+Wat vind je lastiger? Screenreader of toetsenbord bedienen? toetsenbord want ik heb nu notities voor de screenreader en ik weet volgens mij nog half niet wat je met het toetsenbord allemaal kan
+
+Welke beperking rekening houden vind je het meest lastig? cognitief vind ik het lastigst, mensen die niet kunnen lezen is het lastigst een website voor te maken
