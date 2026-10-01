@@ -1,5 +1,4 @@
 
-
 ### 31 aug - Kickoff
 
 Een fork van de model repository gemaakt en gepubliceerd via mijn eigen Github omgeving.
@@ -106,7 +105,27 @@ Ik gebruik alleen cookies als ze echt nodig zijn. Eerst dacht ik er minder over 
 
 ### ws 2 - 21 september 
 
+<img width="1040" height="727" alt="Scherm­afbeelding 2026-10-01 om 20 53 59" src="https://github.com/user-attachments/assets/e6b6ff69-49ce-4111-abe9-4d722ecd0eef" />
+
+
+<img width="1037" height="677" alt="Scherm­afbeelding 2026-10-01 om 20 54 25" src="https://github.com/user-attachments/assets/165e279a-568e-4294-a968-db3919998976" />
+
+
+
+
 <img width="499" height="577" alt="Scherm­afbeelding 2026-10-01 om 20 39 55" src="https://github.com/user-attachments/assets/9e236ddd-a9de-40ca-8c78-d61c2061e8d6" />
 
 
+### ws 3 - 23 september 
 
+<img width="1468" height="724" alt="Scherm­afbeelding 2026-09-23 om 12 21 56" src="https://github.com/user-attachments/assets/39eb1546-f7e4-4831-a25d-0d8ee4394ab3" />
+<img width="1442" height="781" alt="Scherm­afbeelding 2026-09-23 om 12 23 45" src="https://github.com/user-attachments/assets/0a7719a6-ed13-4a54-81a5-73fb6434b614" />
+<img width="1447" height="739" alt="Scherm­afbeelding 2026-09-23 om 12 23 56" src="https://github.com/user-attachments/assets/f25c0181-03ea-4fa6-b4d3-e656654850c7" />
+<img width="1424" height="770" alt="Scherm­afbeelding 2026-09-23 om 12 24 08" src="https://github.com/user-attachments/assets/90b11175-3f64-4649-9288-ed51184aeb87" />
+<img width="1457" height="790" alt="Scherm­afbeelding 2026-09-23 om 12 25 07" src="https://github.com/user-attachments/assets/7d1acd5a-3b21-4db2-bea9-8950ba9c8af4" />
+<img width="1420" height="759" alt="Scherm­afbeelding 2026-09-23 om 12 26 02" src="https://github.com/user-attachments/assets/9f11f7f3-ce68-4186-af95-073fdf7b1182" />
+<img width="1453" height="776" alt="Scherm­afbeelding 2026-09-23 om 12 26 25" src="https://github.com/user-attachments/assets/3f83c800-4ea9-40da-b6b8-48fda751bbea" />
+<img width="1446" height="760" alt="Scherm­afbeelding 2026-09-23 om 12 26 57" src="https://github.com/user-attachments/assets/ac5f4ecf-86cb-4447-87c7-8764c6f3d11e" />
+<img width="1460" height="760" alt="Scherm­afbeelding 2026-09-23 om 12 27 11" src="https://github.com/user-attachments/assets/3f5a973c-dbf9-4778-9d8d-c85a86533ae6" />
+
+<img width="1463" height="789" alt="Scherm­afbeelding 2026-09-23 om 12 20 36" src="https://github.com/user-attachments/assets/f0412581-d1b3-4ed4-823b-73795204f2a5" />
