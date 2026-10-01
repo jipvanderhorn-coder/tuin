@@ -80,6 +80,8 @@ responsive gemaakt
 
 vandaag de code afgemaakt, als ik meer tijd had zou ik willen dat je horizontaal kan scrollen door meerdere afbeeldingen per tijdperk, dat is helaas (nog) niet gelukt door het beperkte aantal stockfoto's die er te vinden zijn. ik zou de scrollers dan horizontaal maken zoals de bijgevoegde foto mij heeft uitgelegd hoe dat moet, ook zou ik de horizontale scroller willen laten verlopen met 3 rijen foto's waarvan er twee naar links en de middelste rij naar rechts gaat (of andersom), zoals in de andere foto zichtbaar is en waarvan ik de uitleg ervoor heb gevonden. ook zou ik in achtergrond tekeningen of vormen willen toevoegen zodat het er minder plat uitziet.   
 
+
+
 <br>
 <img width="530" height="624" alt="Scherm­afbeelding 2026-09-17 om 21 34 30" src="https://github.com/user-attachments/assets/01930c0b-7f52-41cf-9ea6-d76867ece920" />
 <br>
@@ -90,6 +92,10 @@ vandaag de code afgemaakt, als ik meer tijd had zou ik willen dat je horizontaal
 <img width="853" height="620" alt="Scherm­afbeelding 2026-10-01 om 20 46 00" src="https://github.com/user-attachments/assets/dbb69c22-427a-47c7-972d-9e850ad32a58" />
 
 <img width="561" height="775" alt="Scherm­afbeelding 2026-10-01 om 20 46 18" src="https://github.com/user-attachments/assets/0cc88af7-e0ef-41ee-93de-0806c15db6b0" />
+
+
+<img width="949" height="733" alt="Scherm­afbeelding 2026-10-01 om 20 33 31" src="https://github.com/user-attachments/assets/2dfbad6c-7256-4adc-b8dc-a8e265f1bb43" />
+
 
 
 ### ws 1 - 18 september 
