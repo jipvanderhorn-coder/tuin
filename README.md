@@ -98,9 +98,9 @@ vandaag de code afgemaakt, als ik meer tijd had zou ik willen dat je horizontaal
 <img width="440" height="709" alt="Scherm­afbeelding 2026-10-01 om 20 46 31" src="https://github.com/user-attachments/assets/8ef021ef-033e-4025-b65a-5f75dfcdb6dc" />
 
 Wat zijn HTML landmark role elements?
-Dit zijn elementen die belangrijke onderdelen van een pagina aangeven, zoals <header>, <nav>, <main>, <section> en <footer>. Ze helpen vooral screenreaders om de pagina beter te begrijpen.
+Dit zijn elementen die belangrijke onderdelen van een pagina aangeven, zoals header, nav, main, section en footer. Ze helpen vooral screenreaders om de pagina beter te begrijpen.
 Wat zijn heading elementen en hoe horen deze 'genest' te worden?
-Heading elementen zijn <h1> t/m <h6> en geven de structuur van een pagina aan. Je begint met één <h1> en gebruikt daarna <h2>, <h3> enzovoort in een logische volgorde. Je hoort niet zomaar van <h2> naar <h4> te springen.
+Heading elementen zijn h1 t/m h6 en geven de structuur van een pagina aan. Je begint met één h1 en gebruikt daarna h2, h3 enzovoort in een logische volgorde. Je hoort niet zomaar van h2 naar h4 te springen.
 Hoe ga jij met cookies om? Beschrijf jouw beweegredenen en of die zijn veranderd na het volgen van dit college.
 Ik gebruik alleen cookies als ze echt nodig zijn. Eerst dacht ik er minder over na, maar door de les let ik meer op privacy en wil ik gebruikers zelf laten kiezen welke cookies ze accepteren.
 
