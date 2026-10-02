@@ -185,3 +185,12 @@ Waar staat WCAG en A11y voor? dat staat voor Web Content Accessibility Guideli
 Wat vind je lastiger? Screenreader of toetsenbord bedienen? toetsenbord want ik heb nu notities voor de screenreader en ik weet volgens mij nog half niet wat je met het toetsenbord allemaal kan
 
 Welke beperking rekening houden vind je het meest lastig? cognitief vind ik het lastigst, mensen die niet kunnen lezen is het lastigst een website voor te maken
+
+
+### ws 6 - 2 oktober 
+
+<img width="3024" height="4032" alt="IMG_1111" src="https://github.com/user-attachments/assets/6ae025c7-5659-45f2-8695-4754f9a4011b" />
+<img width="3024" height="4032" alt="IMG_1110" src="https://github.com/user-attachments/assets/bc10ecfb-ad2e-41da-ae09-fd540ce2b60c" />
+<img width="3024" height="4032" alt="IMG_1112" src="https://github.com/user-attachments/assets/75058601-22bf-4000-adf7-d9dfa9b8f13c" />
+
+
