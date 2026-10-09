@@ -174,3 +174,15 @@ de checks gedaan en genoteerd wat er anders moet, alle checks gedaan en verifië
 <img width="1512" height="982" alt="Scherm­afbeelding 2026-10-02 om 11 49 08" src="https://github.com/user-attachments/assets/8bc81980-aa9f-4d65-bdf2-0956c4287b9c" />
 <img width="1512" height="982" alt="Scherm­afbeelding 2026-10-02 om 11 49 13" src="https://github.com/user-attachments/assets/3124c78c-154f-407c-83bf-c73fc33e9137" />
 
+
+### ws 1 - 5 oktober
+
+deze dag was ik ziek maar heb op dinsdag ingehaald wat ik gemist heb
+<img width="365" height="235" alt="Scherm­afbeelding 2026-10-07 om 10 47 23" src="https://github.com/user-attachments/assets/070fc5d8-15af-4936-99d0-0af0b6958813" />
+<img width="888" height="661" alt="Scherm­afbeelding 2026-10-06 om 13 03 30" src="https://github.com/user-attachments/assets/ae381800-8f32-4512-9e3b-71f1947a0e52" />
+<img width="1512" height="857" alt="Scherm­afbeelding 2026-10-06 om 13 09 41" src="https://github.com/user-attachments/assets/b645a737-cd85-4e70-b836-2594cc046fac" />
+<img width="1512" height="845" alt="Scherm­afbeelding 2026-10-06 om 13 07 12" src="https://github.com/user-attachments/assets/f6a7e4d2-802e-49ca-8b19-a9f0d210f7c0" />
+<img width="1512" height="913" alt="Scherm­afbeelding 2026-10-06 om 13 05 47" src="https://github.com/user-attachments/assets/ba0eaa0f-86fa-48e2-94c3-32ba1e484ff8" />
+<img width="1512" height="982" alt="Scherm­afbeelding 2026-10-02 om 11 49 22" src="https://github.com/user-attachments/assets/86406f8a-ae13-4d42-829d-70711bf0e881" />
+<img width="1512" height="887" alt="Scherm­afbeelding 2026-10-07 om 14 04 32" src="https://github.com/user-attachments/assets/0cbb7ff4-aede-4587-a28b-0a719d81336c" />
+
