@@ -200,6 +200,8 @@ deze dag was ik ziek, ik heb dinsdag thuis ingehaald wat ik gemist had
 
 ### ws 2 - 7 oktober 
 
+
+heb geprobeerd de tekst in een rondje te zetten met een YouTube filmpje maar dit was niet gelukt. later heeft Sanne mij geholpen om het toch te maken.
 <img width="365" height="235" alt="Scherm­afbeelding 2026-10-07 om 10 47 23" src="https://github.com/user-attachments/assets/3d9bb527-5cff-4d31-9dce-96c6fea9f7ad" />
 <img width="888" height="661" alt="Scherm­afbeelding 2026-10-06 om 13 03 30" src="https://github.com/user-attachments/assets/ebd8523e-2508-4c28-a232-1137b08ad93b" />
 <img width="1512" height="857" alt="Scherm­afbeelding 2026-10-06 om 13 09 41" src="https://github.com/user-attachments/assets/32891e85-4e3e-44be-b983-e18531f8a964" />
