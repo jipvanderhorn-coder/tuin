@@ -159,3 +159,15 @@ Waar staat WCAG en A11y voor?dat staat voor Web Content Accessibility Guidelines
 Wat vind je lastiger? Screenreader of toetsenbord bedienen?toetsenbord want ik heb nu notities voor de screenreader en ik weet volgens mij nog half niet wat je met het toetsenbord allemaal kan
 
 Welke beperking rekening houden vind je het meest lastig?cognitief vind ik het lastigst, mensen die niet kunnen lezen is het lastigst een website voor te maken
+
+### ws 6 - 2 oktober
+
+<img width="1200" height="1600" alt="2e025020-9e20-4d9e-b711-a0488fb2bd4f" src="https://github.com/user-attachments/assets/ed44649f-b2be-4aee-9ac5-b9be47a17d8b" />
+<img width="1200" height="1600" alt="21a2d47a-7278-4e8a-b2bd-df19615c8205" src="https://github.com/user-attachments/assets/d638b5f1-9c5a-422e-b8ae-241b13675b27" />
+<img width="520" height="715" alt="Scherm­afbeelding 2026-10-01 om 23 13 21" src="https://github.com/user-attachments/assets/2173a05f-2bb4-453e-8911-d309eeeff7ce" />
+<img width="489" height="713" alt="Scherm­afbeelding 2026-10-01 om 23 13 41" src="https://github.com/user-attachments/assets/0aa6d8d1-2880-4840-950f-b620f7572e5c" />
+<img width="1512" height="982" alt="Scherm­afbeelding 2026-10-02 om 11 49 02" src="https://github.com/user-attachments/assets/dd5e3fb5-0c9c-4e27-ac02-7a39b2af8f1e" />
+<img width="1512" height="982" alt="Scherm­afbeelding 2026-10-02 om 11 49 05" src="https://github.com/user-attachments/assets/73f94e7d-e4ac-4584-b1ff-057a2b1ca84b" />
+<img width="1512" height="982" alt="Scherm­afbeelding 2026-10-02 om 11 49 08" src="https://github.com/user-attachments/assets/8bc81980-aa9f-4d65-bdf2-0956c4287b9c" />
+<img width="1512" height="982" alt="Scherm­afbeelding 2026-10-02 om 11 49 13" src="https://github.com/user-attachments/assets/3124c78c-154f-407c-83bf-c73fc33e9137" />
+
