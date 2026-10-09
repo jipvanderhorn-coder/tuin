@@ -198,7 +198,7 @@ deze dag was ik ziek, ik heb dinsdag thuis ingehaald wat ik gemist had
 <img width="3024" height="4032" alt="IMG_1123" src="https://github.com/user-attachments/assets/3116e1be-b2a9-44b6-ada9-0bdff47ebf6a" />
 
 
-### ws 2 - 7
+### ws 2 - 7 oktober 
 
 <img width="365" height="235" alt="Scherm­afbeelding 2026-10-07 om 10 47 23" src="https://github.com/user-attachments/assets/3d9bb527-5cff-4d31-9dce-96c6fea9f7ad" />
 <img width="888" height="661" alt="Scherm­afbeelding 2026-10-06 om 13 03 30" src="https://github.com/user-attachments/assets/ebd8523e-2508-4c28-a232-1137b08ad93b" />
@@ -207,4 +207,4 @@ deze dag was ik ziek, ik heb dinsdag thuis ingehaald wat ik gemist had
 <img width="1512" height="913" alt="Scherm­afbeelding 2026-10-06 om 13 05 47" src="https://github.com/user-attachments/assets/53a4a9d6-982e-4a40-8c3a-403cdd6bf0f0" />
 <img width="1512" height="982" alt="Scherm­afbeelding 2026-10-02 om 11 49 22" src="https://github.com/user-attachments/assets/c15d38d0-50d8-43ec-8286-d6aa092d94ca" />
 <img width="1512" height="887" alt="Scherm­afbeelding 2026-10-07 om 14 04 32" src="https://github.com/user-attachments/assets/5215d21b-09a2-45c0-b35a-413601c4e1c4" />
- oktober 
+
