@@ -1,199 +1,96 @@
 @font-face {
   font-family: seraphs;
-  src: url(/fonts/SeraphsVF.woff2);
-}
-
-body {
-  height: 100vh;
-  margin: 1em;
-
-  background-color: rgb(240, 241, 226);
-  display: grid;
-  place-items: center;
-  margin: 5em;
-}
-
-.grid {
-  display: grid;
-  grid-template-columns: repeat(10, minmax(0, 1fr));
-  grid-template-rows: repeat(20, minmax(0, 1fr));
-  min-height: 0;
-  width: 100%;
-  height: 200%;
-  align-self: start;
-}
-
-p {
-  display: contents;
-
-  font-family: seraphs;
-  margin: 0;
-  text-transform: uppercase;
-}
-
-all {
-  grid-column: 3;
-  grid-row: 3;
-  font-size: 28em;
-  line-height: 0;
-  margin: 0;
-  border: 0;
-
-  font-variation-settings: "wght" 200;
-
-  transition: transform 0.5s ease;
-}
-
-all:hover {
-  transform: scale(1.3);
-  letter-spacing: 0.1em;
-  color: forestgreen;
-}
-
-this {
-  font-variation-settings: "wght" 200;
-  grid-column: 1;
-  grid-row: 6;
-  font-size: 9em;
-  line-height: 0;
-  letter-spacing: 0.8em;
-
-  transition: transform 0.5s ease;
-}
-
-this:hover {
-  transform: scale(1.3);
-  color: forestgreen;
-}
-
-span {
-  font-family: seraphs;
-  font-variation-settings:
-    "wght" 120,
-    "SRFS" 30;
-
-  font-size: 7em;
-
-  grid-column: 8;
-  grid-row: 7;
-
-  place-self: center;
-
-  animation: --rondje 5s infinite linear;
-  animation-delay: calc(sibling-index() * 0.34s - 5s);
-
-  color: blue;
-  text-transform: uppercase;
-
-  transition:
-    font-size 0.7s ease,
-    color 0.3s ease;
-}
-
-span:hover {
-  font-size: 9em;
-  font-variation-settings: "wght" 200;
-  color: forestgreen;
-}
-
-@keyframes --rondje {
-  0% {
-    transform: rotate(0deg) translateY(1.5em);
-  }
-
-  100% {
-    transform: rotate(360deg) translateY(1.5em);
-  }
-}
-
-stukje1 {
-  font-variation-settings: "wght" 50;
-  font-size: 2em;
-  grid-column-start: 7;
-  grid-column-end: 10;
-  grid-row: 11;
-  line-height: 1em;
-  word-spacing: 0em;
-  opacity: 0.5;
-
-  transition:
-    font-variation-settings 0.5s ease,
-    line-height 0.5s ease,
-    font-size 0.5s ease,
-    word-spacing 0.5s ease;
-}
-
-stukje1:hover {
-  font-variation-settings: "wght" 200;
-  line-height: 1.5em;
-  font-size: 2.5em;
-  word-spacing: 0.5em;
-  opacity: 1;
-}
-
-@font-face {
-  font-family: seraphs;
   src: url(../fonts/SeraphsVF.woff2);
 }
-
+/* MARK: ALGEMEEN */
 body {
-  height: 100vh;
-  margin: 1em;
-
-  background-color: rgb(240, 241, 226);
-  display: grid;
-  place-items: center;
   margin: 5em;
+  background-color: rgb(240, 241, 226);
 }
 
 .grid {
   display: grid;
   grid-template-columns: repeat(10, minmax(0, 1fr));
-  grid-template-rows: repeat(20, minmax(0, 1fr));
-  min-height: 0;
+  grid-template-rows: repeat(50, 3em);
   width: 100%;
-  height: 200%;
   align-self: start;
 }
-
 p {
   display: contents;
-
   font-family: seraphs;
   margin: 0;
   text-transform: uppercase;
 }
 
+h1 {
+  font-family: seraphs;
+  position: absolute;
+  top: -1em;
+  left: 50%;
+
+  margin: 0;
+  z-index: 0;
+  pointer-events: none;
+
+  font-size: 18em;
+  line-height: 0.65em;
+  font-variation-settings: "wght" 200;
+
+  color: rgb(30, 50, 35);
+  opacity: 0.09;
+  text-shadow: 0.08em 0.03em 0 rgb(222, 9, 9);
+  text-transform: uppercase;
+  text-align: center;
+
+  animation: achtergrond linear;
+  animation-timeline: scroll();
+  animation-range: 0vh 300vh;
+}
+
+@keyframes achtergrond {
+  from {
+    transform: scaley(0.5) rotate(-2deg);
+  }
+
+  to {
+    transform: scaley(1.5) rotate(7deg);
+  }
+}
+
+/* MARL: ALL */
+
 all {
   grid-column: 3;
   grid-row: 3;
-  font-size: 28em;
+  font-size: 20em;
   line-height: 0;
-  margin: 0;
-  border: 0;
   z-index: 1;
-  font-variation-settings: "wght" 200;
 
-  transition: transform 0.5s ease;
+  font-variation-settings: "wght" 10;
+
+  transition: 0.5s;
 }
 
 all:hover {
   transform: scale(1.3);
   letter-spacing: 0.1em;
-  color: rgb(6, 68, 6);
+  color: forestgreen;
 
-  font-variation-settings: "wght" 100;
+  font-variation-settings: "wght" 20;
 }
 
+/* MARK: THIS */
+
 this {
-  font-variation-settings: "wght" 200;
+  font-variation-settings: "wght" 20;
   grid-column: 1;
   grid-row: 6;
   font-size: 9em;
   line-height: 0;
   letter-spacing: 0.8em;
   z-index: 2;
-  transition: transform 0.5s ease;
+
+  transition: 0.5s;
 }
 
 this:hover {
@@ -202,17 +99,17 @@ this:hover {
   font-variation-settings: "wght" 100;
 }
 
-span {
+/* MARK: RONDJE */
+
+.rondje {
   font-family: seraphs;
   font-variation-settings:
     "wght" 120,
     "SRFS" 30;
 
   font-size: 7em;
-
   grid-column: 8;
   grid-row: 7;
-
   place-self: center;
 
   animation: --rondje 5s infinite linear;
@@ -221,12 +118,10 @@ span {
   color: blue;
   text-transform: uppercase;
 
-  transition:
-    font-size 0.7s ease,
-    color 0.3s ease;
+  transition: 0.5s;
 }
 
-span:hover {
+.rondje:hover {
   font-size: 9em;
   font-variation-settings: "wght" 200;
   color: forestgreen;
@@ -242,13 +137,16 @@ span:hover {
   }
 }
 
+/* MARK: STUKJE1 */
+
 stukje1 {
   font-variation-settings: "wght" 50;
   font-size: 2em;
-  grid-column-start: 5;
-  grid-column-end: 10;
-  grid-row: 11;
+  grid-column-start: 1;
+  grid-column-end: -1;
+  grid-row: 13;
   line-height: 1em;
+  opacity: 0.5;
 
   transition: 0.5s;
 }
@@ -258,53 +156,232 @@ stukje1:hover {
   line-height: 1.5em;
   font-size: 2.5em;
   word-spacing: 0.5em;
+  opacity: 1;
 }
+
+/* MARK: LONGER  */
+
+span.longer {
+  color: black;
+  font-size: 2em;
+  letter-spacing: 0.5em;
+  margin: 0.5em;
+  transition: 0.5s;
+}
+
+span.longer:hover {
+  font-size: 2.2em;
+  color: forestgreen;
+  letter-spacing: 0.8em;
+}
+
+/* MARK: CLOSER */
 
 closer {
   font-size: 7em;
-  grid-column-start: 7;
+  grid-column-start: 4;
   grid-column-end: 10;
-  grid-row: 13;
+  grid-row: 16;
+
   font-variation-settings:
     "wght" 20,
     "SRFS" 0;
-  color: rgba(0, 0, 0, 0.349);
-  grid-column-start: 7;
-  grid-column-end: 11;
 
+  color: rgba(0, 0, 0, 0.349);
   transition: 0.5s;
 }
 
 closer:hover {
-  font-size: 7em;
-  grid-column-start: 7;
-  grid-column-end: 10;
-  grid-row: 13;
   font-variation-settings:
     "wght" 200,
     "SRFS" 30;
+
   color: rgb(222, 9, 9);
 }
 
+/* MARK: STUKJE2 */
+
 stukje2 {
   font-variation-settings: "wght" 50;
-  font-size: 1.5em;
+  font-size: 2em;
   grid-column-start: 2;
-  grid-column-end: 5;
-  grid-row: 16;
-  line-height: 1em;
-  opacity: 0.2;
+  grid-column-end: -1;
+  grid-row: 20;
+  line-height: 2.5em;
+  opacity: 0.35;
   word-spacing: 0.2em;
 
   transition: 0.5s;
 }
 
 stukje2:hover {
-  font-variation-settings: "wght" 100;
-  font-size: 2em;
+  font-variation-settings: "wght" 200;
   opacity: 1;
-  word-spacing: 2em;
-  grid-column-start: 2;
-  grid-column-end: -1;
-  letter-spacing: 0.6em;
+}
+
+/* MARK: FAILS */
+
+.fails {
+  display: inline-block;
+  font-size: 2em;
+  color: #c52c24;
+  font-variation-settings: "wght" 200;
+  rotate: -12deg;
+  transition: 0.5s;
+}
+
+.fails:hover {
+  transform: rotate(12deg) scale(1.3);
+  color: red;
+}
+
+/* MARK: BACK */
+
+.back {
+  display: inline-block;
+  font-size: 2.5em;
+  color: #247b52;
+  font-variation-settings: "wght" 200;
+  transition: 0.5s;
+}
+
+.back:hover {
+  color: #16442d;
+  transform: scaleY(2) scale(1.3);
+  font-variation-settings: "wght" 100;
+}
+
+/* MARK: SORRY */
+
+.sorry {
+  display: inline-block;
+  font-size: 3em;
+  color: #bd3455;
+  font-variation-settings: "wght" 150;
+  opacity: 0.3;
+  transition: 0.5s;
+}
+
+.sorry:hover {
+  color: #e00036;
+  opacity: 1;
+  font-variation-settings: "wght" 20;
+  transform: scale(1.3);
+}
+
+/* MARK: STUKJE3 */
+
+stukje3 {
+  grid-column: 6 / 11;
+  grid-row: 28;
+  font-size: 1.2em;
+  line-height: 1.5;
+  opacity: 0.5;
+  transition: 0.3s;
+}
+
+stukje3:hover {
+  opacity: 1;
+}
+
+/* MARK: STORY */
+
+.story {
+  display: inline-block;
+  font-size: 1.5em;
+  transition: 0.5s;
+}
+
+.story:hover {
+  font-size: 3em;
+  color: #384bb5;
+  transform: rotate(5deg) scale(1.3);
+}
+
+/* MARK: SCARE ME */
+
+.scare {
+  font-size: 1.5em;
+
+  display: inline-block;
+
+  transition: 0.5s;
+}
+
+.scare:hover {
+  font-size: 3em;
+  color: #790785;
+  transform: scaleY(1.9) scale(1.3);
+}
+
+/* MARK: TO IT */
+
+.toit {
+  font-size: 1.5em;
+
+  display: inline-block;
+
+  transition: 0.5s;
+}
+
+.toit:hover {
+  font-size: 3em;
+  color: #247b52;
+  transform: skew(18deg) scale(1.3);
+}
+
+/* MARK: DO IT */
+
+.doit {
+  font-size: 1.5em;
+
+  display: inline-block;
+  transition: 0.5s;
+}
+
+.doit:hover {
+  font-size: 3em;
+  color: #c52c24;
+  transform: skew(-18deg) scale(1.3);
+}
+
+/* MARK: TRAIN */
+
+.train {
+  display: inline-block;
+  font-size: 1.5em;
+  transition: 0.5s;
+}
+
+.train:hover {
+  font-size: 3em;
+  color: #247b52;
+  transform: skew(18deg) scale(1.3);
+}
+
+/* MARK: THINK THAT */
+
+.think {
+  display: inline-block;
+  font-size: 1.5em;
+  transition: 0.5s;
+}
+
+.think:hover {
+  font-size: 3em;
+  color: #c52c24;
+  transform: skew(-18deg) scale(1.3);
+}
+
+stukje4 {
+  grid-column: 2 / 8;
+  grid-row: 35;
+  font-size: 1.2em;
+  line-height: 1.5;
+  opacity: 0.5;
+  transition: 0.3s;
+}
+
+stukje4:hover {
+  opacity: 1;
 }
