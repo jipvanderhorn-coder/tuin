@@ -95,8 +95,8 @@ p {
   font-family: seraphs;
 
   font-variation-settings:
-    "wght" 120,
-    "SRFS" 30;
+    "wght" 110,
+    "SRFS" 25;
 
   font-size: clamp(0.8rem, 0.875rem + 0.9vw, 1.5rem);
   line-height: 1.4;
@@ -137,8 +137,12 @@ body {
 h1 {
   text-align: center;
 
-  font-family: comicrelief;
-  margin-bottom: 5em;
+  font-family: seraphs;
+  margin-bottom: 0em;
+
+  font-variation-settings:
+    "wght" 110,
+    "SRFS" 25;
 
   @media (width > 32em) {
     font-size: 2.5em;
@@ -175,7 +179,7 @@ h1 {
 main {
   animation: --main-ani linear forwards;
   animation-timeline: scroll();
-  animation-range: 0vh 100vh;
+  animation-range: 0vh 20vh;
 
   display: grid;
   grid-auto-flow: dense;
@@ -194,10 +198,10 @@ main {
 
 @keyframes --main-ani {
   0% {
-    translate: 0 25em;
+    translate: 0 3em;
   }
   100% {
-    translate: 0 35em;
+    translate: 0 32em;
   }
 }
 
@@ -822,6 +826,43 @@ section {
   main figure img {
     transform: rotate(5deg);
   }
+}
+
+/* MARK: button leuk liedje */
+
+body > a {
+  display: table;
+  margin: 3em auto;
+  padding: 0.3em;
+  transition: 0.5s;
+  word-spacing: 0.3em;
+
+  font-family: monoton;
+  font-size: clamp(1.5rem, 4vw, 4em);
+  color: white;
+
+  background: transparent;
+  border: 2px solid white;
+  cursor: pointer;
+
+  text-shadow:
+    3px 3px 0 rgb(235 20 20),
+    6px 6px 0 rgb(19 185 210);
+}
+
+body > a:hover {
+  color: black;
+  background-color: white;
+  border-color: rgb(235 20 20);
+
+  scale: 1.2;
+  rotate: -3deg;
+}
+
+body > a:focus-visible {
+  outline: 3px dashed rgb(212 5 244);
+  scale: 1.2;
+  rotate: -3deg;
 }
 
 /* MARK: reduced motion en higher contrast */
