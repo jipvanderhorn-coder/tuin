@@ -865,13 +865,17 @@ body > a:focus-visible {
   rotate: -3deg;
 }
 
+body > a:active {
+  scale: 0.7;
+}
+
 /* MARK: reduced motion en higher contrast */
 
 @media (prefers-reduced-motion: reduce), (prefers-contrast: more) {
   * {
-    animation: none !important;
-    transition: none !important;
-    scroll-behavior: auto !important;
+    animation: none;
+    transition: none;
+    scroll-behavior: auto;
   }
 
   body {
@@ -891,11 +895,11 @@ body > a:focus-visible {
   }
 
   figcaption {
-    opacity: 1 !important;
+    opacity: 1;
   }
 
   img {
-    opacity: 1 !important;
+    opacity: 1;
   }
 
   main section:nth-of-type(1) button {
@@ -927,9 +931,13 @@ body > a:focus-visible {
   }
 
   #cookieModal button {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: seraphs;
   }
   footer span {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: seraphs;
+  }
+
+  body > a {
+    font-family: seraphs;
   }
 }

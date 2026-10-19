@@ -2,19 +2,21 @@
   font-family: seraphs;
   src: url(../fonts/SeraphsVF.woff2);
 }
+
 /* MARK: ALGEMEEN */
+
 body {
-  margin: 5em;
-  background-color: rgb(240, 241, 226);
+  margin: clamp(1em, 5vw, 5em);
+  background-color: rgb(250, 251, 211);
 }
 
 .grid {
   display: grid;
   grid-template-columns: repeat(10, minmax(0, 1fr));
-  grid-template-rows: repeat(50, 3em);
+  grid-template-rows: repeat(50, minmax(0, 3em));
   width: 100%;
-  align-self: start;
 }
+
 p {
   display: contents;
   font-family: seraphs;
@@ -32,7 +34,7 @@ h1 {
   z-index: 0;
   pointer-events: none;
 
-  font-size: 18em;
+  font-size: clamp(15em, 18vw, 18em);
   line-height: 0.65em;
   font-variation-settings: "wght" 200;
 
@@ -62,7 +64,7 @@ h1 {
 all {
   grid-column: 3;
   grid-row: 3;
-  font-size: 20em;
+  font-size: clamp(5em, 20vw, 20em);
   line-height: 0;
   z-index: 1;
 
@@ -85,7 +87,7 @@ this {
   font-variation-settings: "wght" 20;
   grid-column: 1;
   grid-row: 6;
-  font-size: 9em;
+  font-size: clamp(3em, 9vw, 9em);
   line-height: 0;
   letter-spacing: 0.8em;
   z-index: 2;
@@ -107,7 +109,7 @@ this:hover {
     "wght" 120,
     "SRFS" 30;
 
-  font-size: 7em;
+  font-size: clamp(2em, 7vw, 7em);
   grid-column: 8;
   grid-row: 7;
   place-self: center;
@@ -141,7 +143,7 @@ this:hover {
 
 stukje1 {
   font-variation-settings: "wght" 50;
-  font-size: 2em;
+  font-size: clamp(1em, 2vw, 2em);
   grid-column-start: 1;
   grid-column-end: -1;
   grid-row: 13;
@@ -178,7 +180,7 @@ span.longer:hover {
 /* MARK: CLOSER */
 
 closer {
-  font-size: 7em;
+  font-size: clamp(2.5em, 7vw, 7em);
   grid-column-start: 4;
   grid-column-end: 10;
   grid-row: 16;
@@ -203,7 +205,7 @@ closer:hover {
 
 stukje2 {
   font-variation-settings: "wght" 50;
-  font-size: 2em;
+  font-size: clamp(1em, 2vw, 2em);
   grid-column-start: 2;
   grid-column-end: -1;
   grid-row: 20;
@@ -274,7 +276,7 @@ stukje2:hover {
 stukje3 {
   grid-column: 6 / 11;
   grid-row: 28;
-  font-size: 1.2em;
+  font-size: clamp(0.9em, 1.2vw, 1.2em);
   line-height: 1.5;
   opacity: 0.5;
   transition: 0.3s;
@@ -376,7 +378,7 @@ stukje3:hover {
 stukje4 {
   grid-column: 2 / 8;
   grid-row: 35;
-  font-size: 1.2em;
+  font-size: clamp(0.9em, 1.2vw, 1.2em);
   line-height: 1.5;
   opacity: 0.5;
   transition: 0.3s;
