@@ -3,10 +3,20 @@
   src: url(../fonts/SeraphsVF.woff2);
 }
 
+/* MARK: KLEUREN */
+
+:root {
+  --rood: #de0909;
+  --blauw: blue;
+  --groen: forestgreen;
+  --zwart: rgb(30, 50, 35);
+  --roze: rgb(178, 25, 78);
+}
+
 /* MARK: ALGEMEEN */
 
 body {
-  margin: clamp(1em, 5vw, 5em);
+  margin: clamp(2em, 5vw, 5em);
   background-color: rgb(250, 251, 211);
 }
 
@@ -38,7 +48,7 @@ h1 {
   line-height: 0.65em;
   font-variation-settings: "wght" 200;
 
-  color: rgb(30, 50, 35);
+  color: --zwart;
   opacity: 0.09;
   text-shadow: 0.08em 0.03em 0 rgb(222, 9, 9);
   text-transform: uppercase;
@@ -64,9 +74,10 @@ h1 {
 all {
   grid-column: 3;
   grid-row: 3;
-  font-size: clamp(5em, 20vw, 20em);
+  font-size: clamp(10em, 20vw, 20em);
   line-height: 0;
   z-index: 1;
+  color: var(--zwart);
 
   font-variation-settings: "wght" 10;
 
@@ -76,7 +87,7 @@ all {
 all:hover {
   transform: scale(1.3);
   letter-spacing: 0.1em;
-  color: forestgreen;
+  color: var(--groen);
 
   font-variation-settings: "wght" 20;
 }
@@ -87,7 +98,7 @@ this {
   font-variation-settings: "wght" 20;
   grid-column: 1;
   grid-row: 6;
-  font-size: clamp(3em, 9vw, 9em);
+  font-size: clamp(5em, 9vw, 9em);
   line-height: 0;
   letter-spacing: 0.8em;
   z-index: 2;
@@ -97,7 +108,7 @@ this {
 
 this:hover {
   transform: scale(1.3);
-  color: rgb(6, 68, 6);
+  color: var(--groen);
   font-variation-settings: "wght" 100;
 }
 
@@ -117,7 +128,7 @@ this:hover {
   animation: --rondje 5s infinite linear;
   animation-delay: calc(sibling-index() * 0.34s - 5s);
 
-  color: blue;
+  color: var(--blauw);
   text-transform: uppercase;
 
   transition: 0.5s;
@@ -149,6 +160,7 @@ stukje1 {
   grid-row: 13;
   line-height: 1em;
   opacity: 0.5;
+  color: var(--zwart);
 
   transition: 0.5s;
 }
@@ -156,7 +168,7 @@ stukje1 {
 stukje1:hover {
   font-variation-settings: "wght" 200;
   line-height: 1.5em;
-  font-size: 2.5em;
+  font-size: clamp(1.5em, 2vw, 2.5em);
   word-spacing: 0.5em;
   opacity: 1;
 }
@@ -164,7 +176,7 @@ stukje1:hover {
 /* MARK: LONGER  */
 
 span.longer {
-  color: black;
+  color: var(--zwart);
   font-size: 2em;
   letter-spacing: 0.5em;
   margin: 0.5em;
@@ -173,7 +185,7 @@ span.longer {
 
 span.longer:hover {
   font-size: 2.2em;
-  color: forestgreen;
+  color: var(--roze);
   letter-spacing: 0.8em;
 }
 
@@ -189,7 +201,7 @@ closer {
     "wght" 20,
     "SRFS" 0;
 
-  color: rgba(0, 0, 0, 0.349);
+  color: var(--zwart);
   transition: 0.5s;
 }
 
@@ -198,7 +210,7 @@ closer:hover {
     "wght" 200,
     "SRFS" 30;
 
-  color: rgb(222, 9, 9);
+  color: var(--rood);
 }
 
 /* MARK: STUKJE2 */
@@ -212,6 +224,7 @@ stukje2 {
   line-height: 2.5em;
   opacity: 0.35;
   word-spacing: 0.2em;
+  color: var(--zwart);
 
   transition: 0.5s;
 }
@@ -226,7 +239,7 @@ stukje2:hover {
 .fails {
   display: inline-block;
   font-size: 2em;
-  color: #c52c24;
+  color: var(--rood);
   font-variation-settings: "wght" 200;
   rotate: -12deg;
   transition: 0.5s;
@@ -234,7 +247,6 @@ stukje2:hover {
 
 .fails:hover {
   transform: rotate(12deg) scale(1.3);
-  color: red;
 }
 
 /* MARK: BACK */
@@ -242,13 +254,12 @@ stukje2:hover {
 .back {
   display: inline-block;
   font-size: 2.5em;
-  color: #247b52;
+  color: var(--groen);
   font-variation-settings: "wght" 200;
   transition: 0.5s;
 }
 
 .back:hover {
-  color: #16442d;
   transform: scaleY(2) scale(1.3);
   font-variation-settings: "wght" 100;
 }
@@ -258,14 +269,13 @@ stukje2:hover {
 .sorry {
   display: inline-block;
   font-size: 3em;
-  color: #bd3455;
+  color: var(--roze);
   font-variation-settings: "wght" 150;
   opacity: 0.3;
   transition: 0.5s;
 }
 
 .sorry:hover {
-  color: #e00036;
   opacity: 1;
   font-variation-settings: "wght" 20;
   transform: scale(1.3);
@@ -286,17 +296,19 @@ stukje3:hover {
   opacity: 1;
 }
 
-/* MARK: STORY */
+/* MARK: STORY1 */
 
-.story {
+.story1 {
   display: inline-block;
   font-size: 1.5em;
   transition: 0.5s;
+  color: var(--blauw);
+  transform: scaleX(1.3);
 }
 
-.story:hover {
+.story1:hover {
   font-size: 3em;
-  color: #384bb5;
+
   transform: rotate(5deg) scale(1.3);
 }
 
@@ -312,7 +324,7 @@ stukje3:hover {
 
 .scare:hover {
   font-size: 3em;
-  color: #790785;
+  color: var(--roze);
   transform: scaleY(1.9) scale(1.3);
 }
 
@@ -328,7 +340,7 @@ stukje3:hover {
 
 .toit:hover {
   font-size: 3em;
-  color: #247b52;
+  color: var(--groen);
   transform: skew(18deg) scale(1.3);
 }
 
@@ -343,8 +355,20 @@ stukje3:hover {
 
 .doit:hover {
   font-size: 3em;
-  color: #c52c24;
+  color: var(--rood);
   transform: skew(-18deg) scale(1.3);
+}
+
+.story {
+  display: inline-block;
+  font-size: 1.5em;
+  transition: 0.5s;
+}
+
+.story:hover {
+  font-size: 3em;
+  color: var(--blauw);
+  transform: rotate(5deg) scale(1.3);
 }
 
 /* MARK: TRAIN */
@@ -357,7 +381,7 @@ stukje3:hover {
 
 .train:hover {
   font-size: 3em;
-  color: #247b52;
+  color: var(--roze);
   transform: skew(18deg) scale(1.3);
 }
 
@@ -371,7 +395,7 @@ stukje3:hover {
 
 .think:hover {
   font-size: 3em;
-  color: #c52c24;
+  color: var(--rood);
   transform: skew(-18deg) scale(1.3);
 }
 
@@ -382,6 +406,7 @@ stukje4 {
   line-height: 1.5;
   opacity: 0.5;
   transition: 0.3s;
+  color: var(--zwart);
 }
 
 stukje4:hover {
