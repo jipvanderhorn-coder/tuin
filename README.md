@@ -186,3 +186,23 @@ deze dag was ik ziek maar heb op dinsdag ingehaald wat ik gemist heb <br/>
 <img width="1512" height="982" alt="Scherm­afbeelding 2026-10-02 om 11 49 22" src="https://github.com/user-attachments/assets/86406f8a-ae13-4d42-829d-70711bf0e881" />
 <img width="1512" height="887" alt="Scherm­afbeelding 2026-10-07 om 14 04 32" src="https://github.com/user-attachments/assets/0cbb7ff4-aede-4587-a28b-0a719d81336c" />
 naar GitHub sturen stopte alleen helaas met werken
+
+
+### ws 3 - 9 oktober 
+
+
+
+
+### ws 4 - 19 oktober 
+
+
+
+
+### ws 5 - 21 oktober 
+
+
+
+
+### ws 6 - 23 oktober 
+
+
