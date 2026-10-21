@@ -3,7 +3,7 @@
 Een fork van de model repository gemaakt en gepubliceerd via mijn eigen Github omgeving.
 
 <img width="1512" height="982" alt="Scherm­afbeelding 2026-08-31 om 13 18 20" src="https://github.com/user-attachments/assets/2fa049fd-fe67-4fb7-8f9b-00993d3a8c3e" />
-
+checkout
 vraag 1: ik heb visual studio code gekozen, het is een programma waarin je je website op de GitHub server kan aanpassen. <br>
 vraag 2: de domeinnaam is: jipvdhorn.nl en die heb ik gekoppeld via de DNS server aan GitHub. <br>
 vraag 3: dat kan in Visual studio code, dit wordt via GitHub op het web gepubliceerd.<br>
@@ -23,7 +23,7 @@ vraag 3: dat kan in Visual studio code, dit wordt via GitHub op het web gepublic
 Mijn onderwerp voor mijn Digital Garden wordt de terugkeer van retro. Ik vind het interessant dat retro op dit moment weer overal terugkomt, bijvoorbeeld in lettertypes, kleuren, posters, interieur, mode en grafisch ontwerp. Tijdens mijn het onderzoeken kwam ik er eigenlijk achter dat er niet echt websites waren die al deze verschillende vormen van retro bij elkaar brengen. Ik kon alleen maar interieur websites vinden. Daarom leek het me juist leuk om zelf zo’n website te maken. Ik wil verschillende voorbeelden verzamelen en laten zien hoe oude stijlen weer terugkomen, de website wil ik vooral visueel maken met leuke css trucjes erin.
 
 <img width="562" height="732" alt="Scherm­afbeelding 2026-09-17 om 14 26 48" src="https://github.com/user-attachments/assets/b50462fa-6044-4948-8044-8a23b044d2ed" />
-
+checkout
 1: een persoonlijke website die steeds kan veranderen.
 2: als het aan de criteria voldoet en zich houd aan de wet.
 3: de terugkeer van retro in; mode, interieur, posters, kleuren en lettertypes.
@@ -38,6 +38,13 @@ de html presentatie wou niet werken, heb uitgezocht op het internet hoe dit kon 
 
 <img width="323" height="772" alt="Scherm­afbeelding 2026-09-09 om 13 09 36" src="https://github.com/user-attachments/assets/24f11ac5-ae70-4798-8eaf-10003b2d485c" />
 <img width="348" height="657" alt="Scherm­afbeelding 2026-09-09 om 13 09 22" src="https://github.com/user-attachments/assets/d71c07e8-51c6-43cc-81d2-62f51f133f58" />
+
+checkout
+1: het werkt van zoveel mogelijk voorbeelden zoeken, naar abstracte voorbeelden, naar schetsen 
+<br>
+2: het gaat over retro, ik wil veel met animatie gaan doen
+<br> 
+3: het liefst met 3d objecten maar het meest haalbare is met grote letters
 
 ### WS 3 - 11 September
 
