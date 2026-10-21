@@ -53,7 +53,7 @@ checkout
 vandaag ben ik tot de conclusie gekomen dat ik mij moet gaan focussen op de retro stijl in posters visueel te maken in plaats van bij alles, dit is wel jammer maar dit maakt mijn concept iets haalbaarder.
 
 <img width="209" height="498" alt="Scherm­afbeelding 2026-09-17 om 20 33 36" src="https://github.com/user-attachments/assets/00906945-de53-42e0-bd20-0634da263044" />
-
+checkout
 1: van inspiratie verzamelen naar een duidelijk visueel concept voor je eigen Garden.
 <br>
 2: mijn Garden gaat over de terugkeer van retro in mode, interieur, posters, kleuren en lettertypes. Ik wil dit vooral laten zien met beeld, tekst en animaties.
@@ -72,6 +72,10 @@ responsive gemaakt
 <img width="1512" height="982" alt="Scherm­afbeelding 2026-09-11 om 15 51 23" src="https://github.com/user-attachments/assets/0e8e8ec0-6066-4d18-8cad-bda90a41d26b" />
 <img width="1512" height="982" alt="Scherm­afbeelding 2026-09-11 om 16 12 30" src="https://github.com/user-attachments/assets/87626052-8140-43b5-bc1e-8dfbd6082d84" />
 <img width="1512" height="982" alt="Scherm­afbeelding 2026-09-11 om 16 12 33" src="https://github.com/user-attachments/assets/8e68f72b-46a8-4f68-b430-0c3161a9b3cc" />
+
+grid deepdive was last en handig
+
+<br>
 checkout 
 1: het wordt lelijk als het niet leesbaar is en als er geen visuele hiërarchie is
 <br>
@@ -97,7 +101,9 @@ vandaag de code afgemaakt, als ik meer tijd had zou ik willen dat je horizontaal
 <img width="561" height="775" alt="Scherm­afbeelding 2026-10-01 om 20 46 18" src="https://github.com/user-attachments/assets/0cc88af7-e0ef-41ee-93de-0806c15db6b0" />
 
 <img width="949" height="733" alt="Scherm­afbeelding 2026-10-01 om 20 33 31" src="https://github.com/user-attachments/assets/2dfbad6c-7256-4adc-b8dc-a8e265f1bb43" />
+repository sprint1
 
+<br>
 bron voor de afbeeldingen binnen de website: unsplash
 
 ### ws 1 - 21 september
@@ -157,11 +163,19 @@ checkout
 <img width="520" height="715" alt="Scherm­afbeelding 2026-10-01 om 23 13 21" src="https://github.com/user-attachments/assets/528ae551-b18f-458f-9669-864af7bf28cd" />
 <img width="489" height="713" alt="Scherm­afbeelding 2026-10-01 om 23 13 41" src="https://github.com/user-attachments/assets/a4f5f69b-132b-4470-95b8-80094ecf7de2" />
 
+de bi weekly geek
+
 <img width="1512" height="982" alt="Scherm­afbeelding 2026-09-28 om 14 45 19" src="https://github.com/user-attachments/assets/47e1a63d-1e4e-4770-9666-9c62fc7a4e32" />
 <img width="1512" height="982" alt="Scherm­afbeelding 2026-09-28 om 14 45 44" src="https://github.com/user-attachments/assets/387cebb2-014a-4102-b874-3f95d266d0b5" />
 
+met screen reader en toetsenbord een reis geboekt
+
 <img width="1103" height="722" alt="Scherm­afbeelding 2026-09-25 om 12 13 26" src="https://github.com/user-attachments/assets/b5283fde-32ac-4bcb-b71e-9e1a673cda74" />
 <img width="1118" height="780" alt="Scherm­afbeelding 2026-09-25 om 12 13 36" src="https://github.com/user-attachments/assets/a8a08995-9f68-43ba-b9fe-6b2ec3d3b707" />
+<br>
+letterspacing toegepast bij hover
+
+<br>
 checkout
 <br>
 Wat bedoelt Vasilis met de uitspraak: Semantiek doet mij niet zo veel, ik ben liever bezig met de UX van HTML?
@@ -203,16 +217,24 @@ de checks gedaan en genoteerd wat er anders moet, alle checks gedaan en verifië
 <img width="1512" height="982" alt="Scherm­afbeelding 2026-10-02 om 11 49 05" src="https://github.com/user-attachments/assets/73f94e7d-e4ac-4584-b1ff-057a2b1ca84b" />
 <img width="1512" height="982" alt="Scherm­afbeelding 2026-10-02 om 11 49 08" src="https://github.com/user-attachments/assets/8bc81980-aa9f-4d65-bdf2-0956c4287b9c" />
 <img width="1512" height="982" alt="Scherm­afbeelding 2026-10-02 om 11 49 13" src="https://github.com/user-attachments/assets/3124c78c-154f-407c-83bf-c73fc33e9137" />
+colorblindly check
 
-
+<br>
+<br>
+### HIER MOET EEN RETROSPECT!!!!
+<br><br>
 ### ws 1 - 5 oktober en ws 2 - 7 oktober
 
-deze dag was ik ziek maar heb op dinsdag ingehaald wat ik gemist heb <br/>
+deze dag was ik ziek maar heb op dinsdag ingehaald wat ik gemist heb <br/><br>
 <img width="365" height="235" alt="Scherm­afbeelding 2026-10-07 om 10 47 23" src="https://github.com/user-attachments/assets/070fc5d8-15af-4936-99d0-0af0b6958813" />
 <img width="888" height="661" alt="Scherm­afbeelding 2026-10-06 om 13 03 30" src="https://github.com/user-attachments/assets/ae381800-8f32-4512-9e3b-71f1947a0e52" />
 <img width="1512" height="857" alt="Scherm­afbeelding 2026-10-06 om 13 09 41" src="https://github.com/user-attachments/assets/b645a737-cd85-4e70-b836-2594cc046fac" />
 <img width="1512" height="845" alt="Scherm­afbeelding 2026-10-06 om 13 07 12" src="https://github.com/user-attachments/assets/f6a7e4d2-802e-49ca-8b19-a9f0d210f7c0" />
 <img width="1512" height="913" alt="Scherm­afbeelding 2026-10-06 om 13 05 47" src="https://github.com/user-attachments/assets/ba0eaa0f-86fa-48e2-94c3-32ba1e484ff8" />
+<br>
+ik wou met een YouTube video de letters in een rondje laten gaan, door middel van text path maar dit lukte niet. met hulp van Sanne was dit later wel gelukt
+<br>
+
 <img width="1512" height="982" alt="Scherm­afbeelding 2026-10-02 om 11 49 22" src="https://github.com/user-attachments/assets/86406f8a-ae13-4d42-829d-70711bf0e881" />
 <img width="1512" height="887" alt="Scherm­afbeelding 2026-10-07 om 14 04 32" src="https://github.com/user-attachments/assets/0cbb7ff4-aede-4587-a28b-0a719d81336c" />
 naar GitHub sturen stopte alleen helaas met werken
@@ -222,11 +244,16 @@ naar GitHub sturen stopte alleen helaas met werken
 
 <img width="3024" height="4032" alt="IMG_1110 2" src="https://github.com/user-attachments/assets/6813f27f-a428-45fe-8ffe-dc942d174104" />
 <img width="3024" height="4032" alt="IMG_1111 2" src="https://github.com/user-attachments/assets/57433886-7fc6-4305-8490-175b2ec606c6" />
+
+<br>
+schetsen voor de songtekst
+<br>
+
 <img width="3024" height="4032" alt="IMG_1123 2" src="https://github.com/user-attachments/assets/fd8cf9b4-9936-40db-94df-d7983b9e8ef4" />
 <img width="3024" height="4032" alt="IMG_1112 2" src="https://github.com/user-attachments/assets/a7be62d1-c9b1-4ec5-942c-c1ac925b19e5" />
 <img width="3024" height="4032" alt="IMG_1158" src="https://github.com/user-attachments/assets/b23ae532-2a89-4d07-856f-a2ef6bc1f827" />
 
-
+Webby checklist uitgebreid ingevuld
 
 ### ws 4 - 19 oktober 
 
