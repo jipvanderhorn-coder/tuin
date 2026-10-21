@@ -1067,7 +1067,6 @@ body.deny-mode {
 
   section:has(img:hover) figcaption {
     transform: none;
-    letter-spacing: 0.07em;
   }
 
   footer {
@@ -1088,7 +1087,7 @@ body.deny-mode {
 
   #cookieModal button:hover {
     transform: none;
-    scale: 1;
+    scale: 1.2;
   }
 
   body {
@@ -1146,8 +1145,6 @@ body.deny-mode {
     text-shadow: 5px 5px 0 rgb(245, 114, 6);
 
     animation: none;
-    animation-timeline: auto;
-    animation-range: normal;
   }
 
   #cookieModal button {
