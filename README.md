@@ -219,4 +219,6 @@ naar GitHub sturen stopte alleen helaas met werken
 
 ### ws 6 - 23 oktober 
 
+<img width="3024" height="4032" alt="IMG_1166" src="https://github.com/user-attachments/assets/c7a3e784-a65b-46d5-bd1f-562c53c8fad8" />
+<img width="4032" height="3024" alt="IMG_1165" src="https://github.com/user-attachments/assets/f7e0c79a-2b1e-41ea-bf7b-04c58d884a89" />
 
