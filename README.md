@@ -25,7 +25,9 @@ Mijn onderwerp voor mijn Digital Garden wordt de terugkeer van retro. Ik vind he
 <img width="562" height="732" alt="Scherm­afbeelding 2026-09-17 om 14 26 48" src="https://github.com/user-attachments/assets/b50462fa-6044-4948-8044-8a23b044d2ed" />
 checkout
 1: een persoonlijke website die steeds kan veranderen.
+<br>
 2: als het aan de criteria voldoet en zich houd aan de wet.
+<br>
 3: de terugkeer van retro in; mode, interieur, posters, kleuren en lettertypes.
 
 ### WS 2 - 9 September
@@ -53,7 +55,9 @@ vandaag ben ik tot de conclusie gekomen dat ik mij moet gaan focussen op de retr
 <img width="209" height="498" alt="Scherm­afbeelding 2026-09-17 om 20 33 36" src="https://github.com/user-attachments/assets/00906945-de53-42e0-bd20-0634da263044" />
 
 1: van inspiratie verzamelen naar een duidelijk visueel concept voor je eigen Garden.
+<br>
 2: mijn Garden gaat over de terugkeer van retro in mode, interieur, posters, kleuren en lettertypes. Ik wil dit vooral laten zien met beeld, tekst en animaties.
+<br>
 3: het liefst het idee met de 3d meubels Enzo maar ik snap dat dat lastig uit te werken is
 
 ### ws 4 - 14 september
@@ -68,6 +72,12 @@ responsive gemaakt
 <img width="1512" height="982" alt="Scherm­afbeelding 2026-09-11 om 15 51 23" src="https://github.com/user-attachments/assets/0e8e8ec0-6066-4d18-8cad-bda90a41d26b" />
 <img width="1512" height="982" alt="Scherm­afbeelding 2026-09-11 om 16 12 30" src="https://github.com/user-attachments/assets/87626052-8140-43b5-bc1e-8dfbd6082d84" />
 <img width="1512" height="982" alt="Scherm­afbeelding 2026-09-11 om 16 12 33" src="https://github.com/user-attachments/assets/8e68f72b-46a8-4f68-b430-0c3161a9b3cc" />
+checkout 
+1: het wordt lelijk als het niet leesbaar is en als er geen visuele hiërarchie is
+<br>
+2: met media queries ga ik de afbeeldingen laten reageren, de p gaat met clamp
+<br>
+3: ja het is best Webby, het is responsive en toegankelijk
 
 ### ws 5 - 16 september
 
