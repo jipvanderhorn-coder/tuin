@@ -18,11 +18,17 @@ vraag 3: dat kan in Visual studio code, dit wordt via GitHub op het web gepublic
 <img width="1503" height="869" alt="Scherm­afbeelding 2026-09-04 om 12 43 36" src="https://github.com/user-attachments/assets/1371c014-4d8c-4b75-a9d1-4b42807150ee" />
 <img width="903" height="473" alt="Scherm­afbeelding 2026-09-02 om 12 36 40" src="https://github.com/user-attachments/assets/153efc80-db46-4391-9c7b-735b6bdc7ee2" />
 
+deep Dives eerste dag afgemaakt
+
 ### WS 1 - 7 September
 
 Mijn onderwerp voor mijn Digital Garden wordt de terugkeer van retro. Ik vind het interessant dat retro op dit moment weer overal terugkomt, bijvoorbeeld in lettertypes, kleuren, posters, interieur, mode en grafisch ontwerp. Tijdens mijn het onderzoeken kwam ik er eigenlijk achter dat er niet echt websites waren die al deze verschillende vormen van retro bij elkaar brengen. Ik kon alleen maar interieur websites vinden. Daarom leek het me juist leuk om zelf zo’n website te maken. Ik wil verschillende voorbeelden verzamelen en laten zien hoe oude stijlen weer terugkomen, de website wil ik vooral visueel maken met leuke css trucjes erin.
 
 <img width="562" height="732" alt="Scherm­afbeelding 2026-09-17 om 14 26 48" src="https://github.com/user-attachments/assets/b50462fa-6044-4948-8044-8a23b044d2ed" />
+<br>
+Webby andere tuintjes bekeken
+<br>
+
 checkout
 1: een persoonlijke website die steeds kan veranderen.
 <br>
@@ -40,6 +46,10 @@ de html presentatie wou niet werken, heb uitgezocht op het internet hoe dit kon 
 
 <img width="323" height="772" alt="Scherm­afbeelding 2026-09-09 om 13 09 36" src="https://github.com/user-attachments/assets/24f11ac5-ae70-4798-8eaf-10003b2d485c" />
 <img width="348" height="657" alt="Scherm­afbeelding 2026-09-09 om 13 09 22" src="https://github.com/user-attachments/assets/d71c07e8-51c6-43cc-81d2-62f51f133f58" />
+online les veel beeldmateriaal verzameld en bekeken waarmee ik door kan gaan, de "40" poster vind ik interessant met die gekleurde schaduwen en hier wil ik mee door
+
+<br>
+
 
 checkout
 1: het werkt van zoveel mogelijk voorbeelden zoeken, naar abstracte voorbeelden, naar schetsen 
@@ -53,6 +63,8 @@ checkout
 vandaag ben ik tot de conclusie gekomen dat ik mij moet gaan focussen op de retro stijl in posters visueel te maken in plaats van bij alles, dit is wel jammer maar dit maakt mijn concept iets haalbaarder.
 
 <img width="209" height="498" alt="Scherm­afbeelding 2026-09-17 om 20 33 36" src="https://github.com/user-attachments/assets/00906945-de53-42e0-bd20-0634da263044" />
+een schets van hoe het eruit moet gaan zien ongeveer, lange scroll en veel bewegende en verassende elementen 
+<br>
 checkout
 1: van inspiratie verzamelen naar een duidelijk visueel concept voor je eigen Garden.
 <br>
@@ -62,7 +74,7 @@ checkout
 
 ### ws 4 - 14 september
 
-responsive gemaakt
+vandaag heb ik mijn website responsive gemaakt, grid responsive met media query en clamp op de letters. nu is het mobile first
 <img width="1436" height="778" alt="Scherm­afbeelding 2026-09-11 om 14 26 35" src="https://github.com/user-attachments/assets/72cf8c9c-5dae-47c2-b32c-b0ec26e86449" />
 <img width="1512" height="982" alt="Scherm­afbeelding 2026-09-11 om 14 43 26" src="https://github.com/user-attachments/assets/cad21c7e-e71d-432b-ba97-610d47a7a906" />
 <img width="1512" height="982" alt="Scherm­afbeelding 2026-09-11 om 14 43 32" src="https://github.com/user-attachments/assets/9a5b9dc3-d54b-4dde-9b2c-445544856775" />
@@ -73,7 +85,7 @@ responsive gemaakt
 <img width="1512" height="982" alt="Scherm­afbeelding 2026-09-11 om 16 12 30" src="https://github.com/user-attachments/assets/87626052-8140-43b5-bc1e-8dfbd6082d84" />
 <img width="1512" height="982" alt="Scherm­afbeelding 2026-09-11 om 16 12 33" src="https://github.com/user-attachments/assets/8e68f72b-46a8-4f68-b430-0c3161a9b3cc" />
 
-grid deepdive was last en handig
+grid deepdive was lastig maar wel handig
 
 <br>
 checkout 
@@ -86,7 +98,9 @@ checkout
 ### ws 5 - 16 september
 
 <img width="558" height="460" alt="Scherm­afbeelding 2026-09-18 om 08 12 13" src="https://github.com/user-attachments/assets/9f1ad9b4-f89e-4feb-8873-0f9d75c38cca" />
-
+<br>
+deze design pinciples wil ik meer rekening mee houden, ik denk vooral de hiërarchie en de scale
+<br>
 vandaag de code afgemaakt, als ik meer tijd had zou ik willen dat je horizontaal kan scrollen door meerdere afbeeldingen per tijdperk, dat is helaas (nog) niet gelukt door het beperkte aantal stockfoto's die er te vinden zijn. ik zou de scrollers dan horizontaal maken zoals de bijgevoegde foto mij heeft uitgelegd hoe dat moet, ook zou ik de horizontale scroller willen laten verlopen met 3 rijen foto's waarvan er twee naar links en de middelste rij naar rechts gaat (of andersom), zoals in de andere foto zichtbaar is en waarvan ik de uitleg ervoor heb gevonden. ook zou ik in achtergrond tekeningen of vormen willen toevoegen zodat het er minder plat uitziet.
 
 <br>
@@ -103,21 +117,19 @@ vandaag de code afgemaakt, als ik meer tijd had zou ik willen dat je horizontaal
 <img width="949" height="733" alt="Scherm­afbeelding 2026-10-01 om 20 33 31" src="https://github.com/user-attachments/assets/2dfbad6c-7256-4adc-b8dc-a8e265f1bb43" />
 repository sprint1
 
-<br>
+<br><br>
 bron voor de afbeeldingen binnen de website: unsplash
 
 ### ws 1 - 21 september
 
 <img width="440" height="709" alt="Scherm­afbeelding 2026-10-01 om 20 46 31" src="https://github.com/user-attachments/assets/8ef021ef-033e-4025-b65a-5f75dfcdb6dc" />
 checkout
-Wat zijn HTML landmark role elements?
-Dit zijn elementen die belangrijke onderdelen van een pagina aangeven, zoals header, nav, main, section en footer. Ze helpen vooral screenreaders om de pagina beter te begrijpen.
+1: HTML landmark role elements zijn elementen die belangrijke onderdelen van een pagina aangeven, zoals header, nav, main, section en footer.
 <br>
-Wat zijn heading elementen en hoe horen deze 'genest' te worden?
-Heading elementen zijn h1 t/m h6 en geven de structuur van een pagina aan. Je begint met één h1 en gebruikt daarna h2, h3 enzovoort in een logische volgorde. Je hoort niet zomaar van h2 naar h4 te springen.
+2: heading elementen zijn h1 t/m h6 Je begint met één h1 en gebruikt daarna h2, h3 enzovoort je mag niet zomaar van h2 naar h4 te springen.
 <br>
-Hoe ga jij met cookies om? Beschrijf jouw beweegredenen en of die zijn veranderd na het volgen van dit college.
-Ik gebruik alleen cookies als ze echt nodig zijn. Eerst dacht ik er minder over na, maar door de les let ik meer op privacy en wil ik gebruikers zelf laten kiezen welke cookies ze accepteren.
+3: ik gebruik eigenlijk altijd gewoon de cookies maar sinds de les niet meer
+
 
 ### ws 2 - 23 september
 
@@ -128,14 +140,14 @@ Ik gebruik alleen cookies als ze echt nodig zijn. Eerst dacht ik er minder over 
 <img width="499" height="577" alt="Scherm­afbeelding 2026-10-01 om 20 39 55" src="https://github.com/user-attachments/assets/9e236ddd-a9de-40ca-8c78-d61c2061e8d6" />
 checkout
 <br>
-Wireflow: Een wireflow is een combinatie van wireframes en een flow. Je ziet hoe schermen eruitzien én hoe de gebruiker ertussen navigeert. Het helpt om de gebruikersflow en structuur te testen.
+1: Een wireflow is een combinatie van wireframes en een flow. Je ziet hoe schermen eruitzien én hoe de gebruiker ertussen navigeert. Het helpt om de gebruikersflow en structuur te testen.
 <br>
-Dark UX patterns: Ontwerpkeuzes die gebruikers onbewust of misleidend sturen naar iets wat ze misschien niet willen.
+2: Ontwerpkeuzes die gebruikers onbewust of misleidend sturen naar iets wat ze misschien niet willen.
 Een abonnement moeilijk kunnen opzeggen
 Een vooraf aangevinkt vakje voor reclame
 Een grote knop voor accepteren en een kleine/verstopte knop voor weigeren
 <br>
-Human consent component: Zorg dat de gebruiker duidelijk begrijpt waar hij toestemming voor geeft, zelf een keuze kan maken en die keuze ook makkelijk kan wijzigen of intrekken.
+3: Zorgen dat de gebruiker duidelijk begrijpt waar hij toestemming voor geeft, zelf een keuze kan maken en die keuze ook makkelijk kan wijzigen of intrekken.
 
 ### ws 3 - 25 september
 
