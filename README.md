@@ -230,7 +230,8 @@ de checks gedaan en genoteerd wat er anders moet, alle checks gedaan en verifië
 <img width="1512" height="982" alt="Scherm­afbeelding 2026-10-02 om 11 49 08" src="https://github.com/user-attachments/assets/8bc81980-aa9f-4d65-bdf2-0956c4287b9c" />
 <img width="1512" height="982" alt="Scherm­afbeelding 2026-10-02 om 11 49 13" src="https://github.com/user-attachments/assets/3124c78c-154f-407c-83bf-c73fc33e9137" />
 colorblindly check
-
+<br>
+ik heb mijn lettergroottes en indeling verder afgestemd op verschillende schermformaten. met clamp() en media queries kan ik grote typografie behouden, terwijl de tekst zich aanpast aan de beschikbare ruimte.
 <br>
 voor mijn Digital Garden heb ik verschillende lettertypes verzameld en gebruikt, ik wil dat de verschillende tijdperken een eigen karakter krijgen in plaats van dat de hele website dezelfde typografische uitstraling heeft. ik heb de lettertypes verdeeld over verschillende tijdperken, van de jaren 70 tot nu. Hiermee wil ik de ontwikkeling van retrostijlen visueel laten zien. het lettertype is daardoor niet alleen decoratie, maar helpt ook om de verschillende periodes van elkaar te onderscheiden.
 <br>
@@ -308,14 +309,19 @@ checkout
 
 <img width="1512" height="982" alt="Scherm­afbeelding 2026-10-16 om 16 19 20" src="https://github.com/user-attachments/assets/a9c73f8a-e302-4c25-9cf3-6b4407be9ff9" />
 <img width="1512" height="982" alt="Scherm­afbeelding 2026-10-16 om 16 19 24" src="https://github.com/user-attachments/assets/8d57c68e-9cd9-45be-b888-dabbffa91b7f" />
+ik heb gezorgd dat de songtekst responsive is zodat het mee schaalt op klein scherm
+
+<br>
 in het liedje: <br>
-Ik heb verschillende letterdiktes, groottes en vormen gecombineerd. Ik wil dat de tekst beweeglijk en experimenteel aanvoelt, passend bij het ritme en de sfeer van het nummer.
+ik heb verschillende letterdiktes, groottes en vormen gecombineerd. Ik wil dat de tekst beweeglijk en experimenteel aanvoelt, passend bij het ritme en de sfeer van het nummer.
 <br>
 
 ik heb geëxperimenteerd met een titel waarvan de tekstkleur verandert wanneer je door de pagina scrolt. hierdoor verandert de vormgeving tijdens het bekijken van de website en voelt de pagina minder statisch aan.
 <br>
 checkout
 geen checkout
+
+<br>
 ### ws 5 - 21 oktober 
 
 <img width="1512" height="982" alt="Scherm­afbeelding 2026-10-19 om 11 03 59" src="https://github.com/user-attachments/assets/56b5d08f-11a6-43d0-996f-dffef2dbddb3" />
