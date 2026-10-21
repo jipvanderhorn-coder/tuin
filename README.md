@@ -190,6 +190,11 @@ naar GitHub sturen stopte alleen helaas met werken
 
 ### ws 3 - 9 oktober 
 
+<img width="3024" height="4032" alt="IMG_1110 2" src="https://github.com/user-attachments/assets/6813f27f-a428-45fe-8ffe-dc942d174104" />
+<img width="3024" height="4032" alt="IMG_1111 2" src="https://github.com/user-attachments/assets/57433886-7fc6-4305-8490-175b2ec606c6" />
+<img width="3024" height="4032" alt="IMG_1123 2" src="https://github.com/user-attachments/assets/fd8cf9b4-9936-40db-94df-d7983b9e8ef4" />
+<img width="3024" height="4032" alt="IMG_1112 2" src="https://github.com/user-attachments/assets/a7be62d1-c9b1-4ec5-942c-c1ac925b19e5" />
+<img width="3024" height="4032" alt="IMG_1158" src="https://github.com/user-attachments/assets/b23ae532-2a89-4d07-856f-a2ef6bc1f827" />
 
 
 
