@@ -346,10 +346,7 @@ main figure {
     filter: saturate(0.8);
     opacity: 0.5;
     transform: scale(0.9);
-    transition:
-      transform 0.3s ease-out,
-      opacity 0.3s ease-out,
-      filter 0.3s ease-out;
+    transition: 0.3s;
 
     animation: --grow;
     animation-timeline: view();
@@ -371,7 +368,7 @@ main figure {
 
     align-self: center;
 
-    transition: transform 0.3s ease;
+    transition: 0.3s;
 
     @media (width < 48em) {
       animation: --growcaption;
@@ -422,7 +419,7 @@ footer button {
 
   cursor: pointer;
 
-  transition: 0.2s ease;
+  transition: 0.2s;
   border: 2px solid white;
 }
 
@@ -554,7 +551,7 @@ footer button:focus-visible {
 
 section:has(img:hover) {
   @media (width > 48em) {
-    transition: transform 0.3s ease-out;
+    transition: 0.3s;
     opacity: 1;
     transform: scale(1.3);
     filter: saturate(1.5);
@@ -569,7 +566,7 @@ section:has(img:hover) {
 }
 
 section:has(button:active) {
-  transition: transform 0.1s ease-out;
+  transition: 0.1s;
   background-color: rgb(200 122 5);
 }
 
@@ -872,32 +869,103 @@ body > a:active {
 /* MARK: reduced motion en higher contrast */
 
 @media (prefers-reduced-motion: reduce), (prefers-contrast: more) {
-  * {
-    animation: none;
-    transition: none;
+  html {
     scroll-behavior: auto;
   }
 
+  *,
+  *::before,
+  *::after {
+    animation: none;
+    animation-timeline: auto;
+    transition: none;
+  }
+
+  h1 em,
+  main,
+  main button,
+  main figure img,
+  main figure figcaption,
+  section,
+  footer nav {
+    animation: none;
+    animation-timeline: auto;
+    animation-range: normal;
+  }
+
+  main {
+    translate: none;
+  }
+
+  main figure img {
+    scale: 1;
+    opacity: 1;
+    filter: none;
+  }
+
+  main figure figcaption {
+    opacity: 1;
+  }
+
+  footer nav {
+    transform: none;
+    rotate: none;
+  }
+
+  section:has(img:hover) {
+    transform: none;
+    filter: none;
+  }
+
+  section:has(img:hover) figcaption {
+    transform: none;
+    letter-spacing: 0.07em;
+  }
+
+  footer {
+    margin-left: 5em;
+  }
+
+  footer button {
+    transition: 0.2s;
+    background: transparent;
+    color: white;
+  }
+
+  footer button:hover {
+    background-color: white;
+    color: black;
+    border-color: white;
+  }
+
+  #cookieModal button:hover {
+    transform: none;
+    scale: 1;
+  }
+
   body {
+    transition: 0.3s;
     color: white;
     background: black;
   }
 
+  body > a:hover {
+    background-color: white;
+    color: black;
+    border-color: white;
+  }
+
   h1 em {
-    margin-bottom: 6em;
-
+    margin-bottom: 3em;
     text-shadow:
-      0px 120px 3px rgb(228, 241, 196),
-      0px 240px 3px rgb(79, 153, 98),
-      0px 360px 3px rgb(216, 216, 101),
-      0px 480px 3px rgb(62, 62, 167),
-      0px 600px 3px rgb(231, 81, 26);
+      0 120px 3px rgb(228, 241, 196),
+      0 240px 3px rgb(79, 153, 98),
+      0 360px 3px rgb(216, 216, 101),
+      0 480px 3px rgb(62, 62, 167),
+      0 600px 3px rgb(231, 81, 26);
   }
 
-  figcaption {
-    opacity: 1;
-  }
-
+  figcaption,
   img {
     opacity: 1;
   }
@@ -928,16 +996,170 @@ body > a:active {
 
   main section:nth-of-type(7) button {
     text-shadow: 5px 5px 0 rgb(245, 114, 6);
+
+    animation: none;
+    animation-timeline: auto;
+    animation-range: normal;
   }
 
   #cookieModal button {
     font-family: seraphs;
   }
+
   footer span {
     font-family: seraphs;
   }
 
   body > a {
     font-family: seraphs;
+    margin-top: -10em;
+  }
+}
+
+body.deny-mode {
+  html {
+    scroll-behavior: auto;
+  }
+
+  *,
+  *::before,
+  *::after {
+    animation: none;
+    animation-timeline: auto;
+    transition: none;
+  }
+
+  h1 em,
+  main,
+  main button,
+  main figure img,
+  main figure figcaption,
+  section,
+  footer nav {
+    animation: none;
+    animation-timeline: auto;
+    animation-range: normal;
+  }
+
+  main {
+    translate: none;
+  }
+
+  main figure img {
+    scale: 1;
+    opacity: 1;
+    filter: none;
+  }
+
+  main figure figcaption {
+    opacity: 1;
+  }
+
+  footer nav {
+    transform: none;
+    rotate: none;
+  }
+
+  section:has(img:hover) {
+    transform: none;
+    filter: none;
+  }
+
+  section:has(img:hover) figcaption {
+    transform: none;
+    letter-spacing: 0.07em;
+  }
+
+  footer {
+    margin-left: 5em;
+  }
+
+  footer button {
+    transition: 0.2s;
+    background: transparent;
+    color: white;
+  }
+
+  footer button:hover {
+    background-color: white;
+    color: black;
+    border-color: white;
+  }
+
+  #cookieModal button:hover {
+    transform: none;
+    scale: 1;
+  }
+
+  body {
+    transition: 0.3s;
+    color: white;
+    background: black;
+  }
+
+  body > a:hover {
+    background-color: white;
+    color: black;
+    border-color: white;
+  }
+
+  h1 em {
+    margin-bottom: 3em;
+    text-shadow:
+      0 120px 3px rgb(228, 241, 196),
+      0 240px 3px rgb(79, 153, 98),
+      0 360px 3px rgb(216, 216, 101),
+      0 480px 3px rgb(62, 62, 167),
+      0 600px 3px rgb(231, 81, 26);
+  }
+
+  figcaption,
+  img {
+    opacity: 1;
+  }
+
+  main section:nth-of-type(1) button {
+    text-shadow: 5px 5px 0 rgb(19, 224, 29);
+  }
+
+  main section:nth-of-type(2) button {
+    text-shadow: 5px 5px 0 rgb(185, 86, 43);
+  }
+
+  main section:nth-of-type(3) button {
+    text-shadow: 5px 5px 0 rgb(35, 154, 205);
+  }
+
+  main section:nth-of-type(4) button {
+    text-shadow: 5px 5px 0 rgb(235, 52, 20);
+  }
+
+  main section:nth-of-type(5) button {
+    text-shadow: 5px 5px 0 rgb(158, 80, 58);
+  }
+
+  main section:nth-of-type(6) button {
+    text-shadow: 5px 5px 0 rgb(59, 164, 194);
+  }
+
+  main section:nth-of-type(7) button {
+    text-shadow: 5px 5px 0 rgb(245, 114, 6);
+
+    animation: none;
+    animation-timeline: auto;
+    animation-range: normal;
+  }
+
+  #cookieModal button {
+    font-family: seraphs;
+  }
+
+  footer span {
+    font-family: seraphs;
+  }
+
+  body > a {
+    font-family: seraphs;
+    margin-top: -10em;
   }
 }
