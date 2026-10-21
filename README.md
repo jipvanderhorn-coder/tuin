@@ -101,7 +101,7 @@ vandaag de code afgemaakt, als ik meer tijd had zou ik willen dat je horizontaal
 ### ws 1 - 21 september
 
 <img width="440" height="709" alt="Scherm­afbeelding 2026-10-01 om 20 46 31" src="https://github.com/user-attachments/assets/8ef021ef-033e-4025-b65a-5f75dfcdb6dc" />
-
+checkout
 Wat zijn HTML landmark role elements?
 Dit zijn elementen die belangrijke onderdelen van een pagina aangeven, zoals header, nav, main, section en footer. Ze helpen vooral screenreaders om de pagina beter te begrijpen.
 Wat zijn heading elementen en hoe horen deze 'genest' te worden?
@@ -116,7 +116,12 @@ Ik gebruik alleen cookies als ze echt nodig zijn. Eerst dacht ik er minder over 
 <img width="1037" height="677" alt="Scherm­afbeelding 2026-10-01 om 20 54 25" src="https://github.com/user-attachments/assets/165e279a-568e-4294-a968-db3919998976" />
 
 <img width="499" height="577" alt="Scherm­afbeelding 2026-10-01 om 20 39 55" src="https://github.com/user-attachments/assets/9e236ddd-a9de-40ca-8c78-d61c2061e8d6" />
-
+checkout
+1: het is een opeenvolging van getekende/ geschetste schermen, je kan interactie al testen ermee
+<br>
+2: hidden costs, misleidende knoppen en iets wat moeilijk op te zeggen is
+<br>
+3: je moet zorgen dat wat je maakt dat dat duidelijk is
 ### ws 3 - 25 september
 
 <img width="1468" height="724" alt="Scherm­afbeelding 2026-09-23 om 12 21 56" src="https://github.com/user-attachments/assets/39eb1546-f7e4-4831-a25d-0d8ee4394ab3" />
