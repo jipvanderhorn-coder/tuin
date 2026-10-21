@@ -98,14 +98,18 @@ vandaag de code afgemaakt, als ik meer tijd had zou ik willen dat je horizontaal
 
 <img width="949" height="733" alt="Scherm­afbeelding 2026-10-01 om 20 33 31" src="https://github.com/user-attachments/assets/2dfbad6c-7256-4adc-b8dc-a8e265f1bb43" />
 
+bron voor de afbeeldingen binnen de website: unsplash
+
 ### ws 1 - 21 september
 
 <img width="440" height="709" alt="Scherm­afbeelding 2026-10-01 om 20 46 31" src="https://github.com/user-attachments/assets/8ef021ef-033e-4025-b65a-5f75dfcdb6dc" />
 checkout
 Wat zijn HTML landmark role elements?
 Dit zijn elementen die belangrijke onderdelen van een pagina aangeven, zoals header, nav, main, section en footer. Ze helpen vooral screenreaders om de pagina beter te begrijpen.
+<br>
 Wat zijn heading elementen en hoe horen deze 'genest' te worden?
 Heading elementen zijn h1 t/m h6 en geven de structuur van een pagina aan. Je begint met één h1 en gebruikt daarna h2, h3 enzovoort in een logische volgorde. Je hoort niet zomaar van h2 naar h4 te springen.
+<br>
 Hoe ga jij met cookies om? Beschrijf jouw beweegredenen en of die zijn veranderd na het volgen van dit college.
 Ik gebruik alleen cookies als ze echt nodig zijn. Eerst dacht ik er minder over na, maar door de les let ik meer op privacy en wil ik gebruikers zelf laten kiezen welke cookies ze accepteren.
 
@@ -117,13 +121,14 @@ Ik gebruik alleen cookies als ze echt nodig zijn. Eerst dacht ik er minder over 
 
 <img width="499" height="577" alt="Scherm­afbeelding 2026-10-01 om 20 39 55" src="https://github.com/user-attachments/assets/9e236ddd-a9de-40ca-8c78-d61c2061e8d6" />
 checkout
+<br>
 Wireflow: Een wireflow is een combinatie van wireframes en een flow. Je ziet hoe schermen eruitzien én hoe de gebruiker ertussen navigeert. Het helpt om de gebruikersflow en structuur te testen.
-
+<br>
 Dark UX patterns: Ontwerpkeuzes die gebruikers onbewust of misleidend sturen naar iets wat ze misschien niet willen.
 Een abonnement moeilijk kunnen opzeggen
 Een vooraf aangevinkt vakje voor reclame
 Een grote knop voor accepteren en een kleine/verstopte knop voor weigeren
-
+<br>
 Human consent component: Zorg dat de gebruiker duidelijk begrijpt waar hij toestemming voor geeft, zelf een keuze kan maken en die keuze ook makkelijk kan wijzigen of intrekken.
 
 ### ws 3 - 25 september
@@ -157,13 +162,14 @@ checkout
 
 <img width="1103" height="722" alt="Scherm­afbeelding 2026-09-25 om 12 13 26" src="https://github.com/user-attachments/assets/b5283fde-32ac-4bcb-b71e-9e1a673cda74" />
 <img width="1118" height="780" alt="Scherm­afbeelding 2026-09-25 om 12 13 36" src="https://github.com/user-attachments/assets/a8a08995-9f68-43ba-b9fe-6b2ec3d3b707" />
-
+checkout
+<br>
 Wat bedoelt Vasilis met de uitspraak: Semantiek doet mij niet zo veel, ik ben liever bezig met de UX van HTML?
 Het maakt hem minder uit wat het betekent en meer wat het doet. Dat is veel belangrijker volgens hem.
-
+<br>
 Wat voor type beperkingen hebben invloed op het gebruiken van websites?
 Visueel, auditief, cognitief en motorisch
-
+<br>
 Noem drie manieren om door een website te navigeren met jouw screenreader.
 Door je pijltjes, tab en enter.
 
@@ -238,6 +244,8 @@ naar GitHub sturen stopte alleen helaas met werken
 <img width="465" height="540" alt="Scherm­afbeelding 2026-10-19 om 14 32 38" src="https://github.com/user-attachments/assets/2895d38e-7902-48a5-9926-36b4d7c9023a" />
 <img width="1114" height="747" alt="Scherm­afbeelding 2026-10-20 om 12 23 50" src="https://github.com/user-attachments/assets/a445f4a0-eb64-4f7a-8c63-201be8e98b59" />
 <img width="1067" height="680" alt="Scherm­afbeelding 2026-10-20 om 12 29 27" src="https://github.com/user-attachments/assets/83ef8f9b-4c4e-466b-800f-bf8e745a0233" />
+
+bron voor de javascript: chatgpt
 
 
 
