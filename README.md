@@ -221,8 +221,12 @@ colorblindly check
 
 <br>
 <br>
+
 ### HIER MOET EEN RETROSPECT!!!!
+
 <br><br>
+
+
 ### ws 1 - 5 oktober en ws 2 - 7 oktober
 
 deze dag was ik ziek maar heb op dinsdag ingehaald wat ik gemist heb <br/><br>
@@ -232,14 +236,30 @@ deze dag was ik ziek maar heb op dinsdag ingehaald wat ik gemist heb <br/><br>
 <img width="1512" height="845" alt="Scherm­afbeelding 2026-10-06 om 13 07 12" src="https://github.com/user-attachments/assets/f6a7e4d2-802e-49ca-8b19-a9f0d210f7c0" />
 <img width="1512" height="913" alt="Scherm­afbeelding 2026-10-06 om 13 05 47" src="https://github.com/user-attachments/assets/ba0eaa0f-86fa-48e2-94c3-32ba1e484ff8" />
 <br>
+
+
+
 ik wou met een YouTube video de letters in een rondje laten gaan, door middel van text path maar dit lukte niet. met hulp van Sanne was dit later wel gelukt
 <br>
 
 <img width="1512" height="982" alt="Scherm­afbeelding 2026-10-02 om 11 49 22" src="https://github.com/user-attachments/assets/86406f8a-ae13-4d42-829d-70711bf0e881" />
 <img width="1512" height="887" alt="Scherm­afbeelding 2026-10-07 om 14 04 32" src="https://github.com/user-attachments/assets/0cbb7ff4-aede-4587-a28b-0a719d81336c" />
 naar GitHub sturen stopte alleen helaas met werken
-
-
+<br>
+checkout  5 okt
+1: 
+<br>
+2: 40/ 45 em vind ik het fijnste om te lezen
+<br>
+3: grootte of plaatsing vind ik het belangrijkste
+<br>
+checkout. 7 okt
+1: Ontwerper: Werkt overzichtelijker. Bezoeker: Kan informatie makkelijker vinden
+<br>
+2:Werk met een grid, beperk het aantal kleuren en zorg voor een duidelijke hiërarchie
+<br>
+3:Genoeg om op te vallen, maar niet zoveel dat het onoverzichtelijk wordt
+<br>
 ### ws 3 - 9 oktober 
 
 <img width="3024" height="4032" alt="IMG_1110 2" src="https://github.com/user-attachments/assets/6813f27f-a428-45fe-8ffe-dc942d174104" />
@@ -255,13 +275,21 @@ schetsen voor de songtekst
 
 Webby checklist uitgebreid ingevuld
 
+checkout
+1: best veel soorten, dikte en variaties
+<br>
+2: dat het eruit springt is belangrijk
+<br>
+3: ik heb hover gebruikt en een rondje met tekst die al geanimeerd is
+
+
 ### ws 4 - 19 oktober 
 
 <img width="1512" height="982" alt="Scherm­afbeelding 2026-10-16 om 16 19 20" src="https://github.com/user-attachments/assets/a9c73f8a-e302-4c25-9cf3-6b4407be9ff9" />
 <img width="1512" height="982" alt="Scherm­afbeelding 2026-10-16 om 16 19 24" src="https://github.com/user-attachments/assets/8d57c68e-9cd9-45be-b888-dabbffa91b7f" />
 
-
-
+checkout
+geen checkout
 ### ws 5 - 21 oktober 
 
 <img width="1512" height="982" alt="Scherm­afbeelding 2026-10-19 om 11 03 59" src="https://github.com/user-attachments/assets/56b5d08f-11a6-43d0-996f-dffef2dbddb3" />
@@ -275,9 +303,17 @@ Webby checklist uitgebreid ingevuld
 bron voor de javascript: chatgpt
 
 
+<img width="3024" height="4032" alt="IMG_1166" src="https://github.com/user-attachments/assets/c7a3e784-a65b-46d5-bd1f-562c53c8fad8" />
+<img width="4032" height="3024" alt="IMG_1165" src="https://github.com/user-attachments/assets/f7e0c79a-2b1e-41ea-bf7b-04c58d884a89" />
+
+bi weekly geek
+<br>
+<br>
+<br>
+checkout
+geen check out
 
 ### ws 6 - 23 oktober 
 
-<img width="3024" height="4032" alt="IMG_1166" src="https://github.com/user-attachments/assets/c7a3e784-a65b-46d5-bd1f-562c53c8fad8" />
-<img width="4032" height="3024" alt="IMG_1165" src="https://github.com/user-attachments/assets/f7e0c79a-2b1e-41ea-bf7b-04c58d884a89" />
+
 
