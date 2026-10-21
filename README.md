@@ -200,11 +200,20 @@ naar GitHub sturen stopte alleen helaas met werken
 
 ### ws 4 - 19 oktober 
 
+<img width="1512" height="982" alt="Scherm­afbeelding 2026-10-16 om 16 19 20" src="https://github.com/user-attachments/assets/a9c73f8a-e302-4c25-9cf3-6b4407be9ff9" />
+<img width="1512" height="982" alt="Scherm­afbeelding 2026-10-16 om 16 19 24" src="https://github.com/user-attachments/assets/8d57c68e-9cd9-45be-b888-dabbffa91b7f" />
 
 
 
 ### ws 5 - 21 oktober 
 
+<img width="1512" height="982" alt="Scherm­afbeelding 2026-10-19 om 11 03 59" src="https://github.com/user-attachments/assets/56b5d08f-11a6-43d0-996f-dffef2dbddb3" />
+<img width="582" height="410" alt="Scherm­afbeelding 2026-10-19 om 11 04 36" src="https://github.com/user-attachments/assets/e3cb9921-291c-49c0-9575-536b6fff389a" />
+<img width="579" height="722" alt="Scherm­afbeelding 2026-10-19 om 11 05 38" src="https://github.com/user-attachments/assets/cc0c6f88-5993-4435-bde3-05ec004b4bc6" />
+<img width="572" height="416" alt="Scherm­afbeelding 2026-10-19 om 13 17 44" src="https://github.com/user-attachments/assets/3cd64b0a-ad25-406e-ab0e-1f03b3839448" />
+<img width="465" height="540" alt="Scherm­afbeelding 2026-10-19 om 14 32 38" src="https://github.com/user-attachments/assets/2895d38e-7902-48a5-9926-36b4d7c9023a" />
+<img width="1114" height="747" alt="Scherm­afbeelding 2026-10-20 om 12 23 50" src="https://github.com/user-attachments/assets/a445f4a0-eb64-4f7a-8c63-201be8e98b59" />
+<img width="1067" height="680" alt="Scherm­afbeelding 2026-10-20 om 12 29 27" src="https://github.com/user-attachments/assets/83ef8f9b-4c4e-466b-800f-bf8e745a0233" />
 
 
 
