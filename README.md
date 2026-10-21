@@ -60,7 +60,7 @@ checkout
 
 ### WS 3 - 11 September
 
-vandaag ben ik tot de conclusie gekomen dat ik mij moet gaan focussen op de retro stijl in posters visueel te maken in plaats van bij alles, dit is wel jammer maar dit maakt mijn concept iets haalbaarder.
+vandaag ben ik tot de conclusie gekomen dat ik mij moet gaan focussen op de retro stijl in posters visueel te maken in plaats van bij alles, dit is wel jammer maar dit maakt mijn concept iets haalbaarder. hierdoor kan ik mijn ontwerp gerichter uitwerken en de stijl van verschillende tijdperken duidelijker laten zien.
 
 <img width="209" height="498" alt="Scherm­afbeelding 2026-09-17 om 20 33 36" src="https://github.com/user-attachments/assets/00906945-de53-42e0-bd20-0634da263044" />
 een schets van hoe het eruit moet gaan zien ongeveer, lange scroll en veel bewegende en verassende elementen 
@@ -74,7 +74,7 @@ checkout
 
 ### ws 4 - 14 september
 
-vandaag heb ik mijn website responsive gemaakt, grid responsive met media query en clamp op de letters. nu is het mobile first
+vandaag heb ik mijn website responsive gemaakt, grid responsive met media query en clamp op de letters. nu is het mobile first, dit is belangrijk want de meeste websites worden het meest op telefoons bekeken tegenwoordig.
 <img width="1436" height="778" alt="Scherm­afbeelding 2026-09-11 om 14 26 35" src="https://github.com/user-attachments/assets/72cf8c9c-5dae-47c2-b32c-b0ec26e86449" />
 <img width="1512" height="982" alt="Scherm­afbeelding 2026-09-11 om 14 43 26" src="https://github.com/user-attachments/assets/cad21c7e-e71d-432b-ba97-610d47a7a906" />
 <img width="1512" height="982" alt="Scherm­afbeelding 2026-09-11 om 14 43 32" src="https://github.com/user-attachments/assets/9a5b9dc3-d54b-4dde-9b2c-445544856775" />
