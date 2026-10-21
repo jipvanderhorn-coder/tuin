@@ -117,11 +117,15 @@ Ik gebruik alleen cookies als ze echt nodig zijn. Eerst dacht ik er minder over 
 
 <img width="499" height="577" alt="Scherm­afbeelding 2026-10-01 om 20 39 55" src="https://github.com/user-attachments/assets/9e236ddd-a9de-40ca-8c78-d61c2061e8d6" />
 checkout
-1: het is een opeenvolging van getekende/ geschetste schermen, je kan interactie al testen ermee
-<br>
-2: hidden costs, misleidende knoppen en iets wat moeilijk op te zeggen is
-<br>
-3: je moet zorgen dat wat je maakt dat dat duidelijk is
+Wireflow: Een wireflow is een combinatie van wireframes en een flow. Je ziet hoe schermen eruitzien én hoe de gebruiker ertussen navigeert. Het helpt om de gebruikersflow en structuur te testen.
+
+Dark UX patterns: Ontwerpkeuzes die gebruikers onbewust of misleidend sturen naar iets wat ze misschien niet willen.
+Een abonnement moeilijk kunnen opzeggen
+Een vooraf aangevinkt vakje voor reclame
+Een grote knop voor accepteren en een kleine/verstopte knop voor weigeren
+
+Human consent component: Zorg dat de gebruiker duidelijk begrijpt waar hij toestemming voor geeft, zelf een keuze kan maken en die keuze ook makkelijk kan wijzigen of intrekken.
+
 ### ws 3 - 25 september
 
 <img width="1468" height="724" alt="Scherm­afbeelding 2026-09-23 om 12 21 56" src="https://github.com/user-attachments/assets/39eb1546-f7e4-4831-a25d-0d8ee4394ab3" />
@@ -136,14 +140,12 @@ checkout
 
 <img width="1463" height="789" alt="Scherm­afbeelding 2026-09-23 om 12 20 36" src="https://github.com/user-attachments/assets/f0412581-d1b3-4ed4-823b-73795204f2a5" />
 
-Wireflow: Een wireflow is een combinatie van wireframes en een flow. Je ziet hoe schermen eruitzien én hoe de gebruiker ertussen navigeert. Het helpt om de gebruikersflow en structuur te testen.
-
-Dark UX patterns: Ontwerpkeuzes die gebruikers onbewust of misleidend sturen naar iets wat ze misschien niet willen.
-Een abonnement moeilijk kunnen opzeggen
-Een vooraf aangevinkt vakje voor reclame
-Een grote knop voor accepteren en een kleine/verstopte knop voor weigeren
-
-Human consent component: Zorg dat de gebruiker duidelijk begrijpt waar hij toestemming voor geeft, zelf een keuze kan maken en die keuze ook makkelijk kan wijzigen of intrekken.
+checkout
+1: het checkt of je html net is en het is belangrijk want dit is wettelijk verplicht
+<br>
+2: weinig fout, 1 alert dat ik h2 in mn section moest doen
+<br>
+3: eigenlijk was alles wel prima en moest ik zo doorgaan, een paar kleine tips op typografie en kleur bij de light mode
 
 ### ws 4 - 28 september
 
