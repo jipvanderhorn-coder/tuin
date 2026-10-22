@@ -237,7 +237,8 @@ voor mijn Digital Garden heb ik verschillende lettertypes verzameld en gebruikt,
 <br>
 <br>
 
-### HIER MOET EEN RETROSPECT!!!!
+<img width="829" height="553" alt="Scherm­afbeelding 2026-10-22 om 12 35 01" src="https://github.com/user-attachments/assets/45ecd3b9-69f3-4d1b-a03d-2b4cd05045b2" />
+
 
 <br><br>
 
