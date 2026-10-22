@@ -90,6 +90,15 @@ vandaag heb ik mijn website responsive gemaakt, grid responsive met media query 
 
 grid deepdive was lastig maar wel handig
 
+<br><br><br>
+
+<img width="3024" height="4032" alt="IMG_0870 2" src="https://github.com/user-attachments/assets/53083224-3a30-4d41-b061-be280f463b94" />
+<img width="3024" height="4032" alt="IMG_0871 2" src="https://github.com/user-attachments/assets/e5a6fd81-5f84-4415-bce9-dbedf3941221" />
+
+
+bi weekly geek 1
+
+
 <br>
 checkout 
 1: het wordt lelijk als het niet leesbaar is en als er geen visuele hiërarchie is
@@ -193,7 +202,7 @@ checkout
 <img width="520" height="715" alt="Scherm­afbeelding 2026-10-01 om 23 13 21" src="https://github.com/user-attachments/assets/528ae551-b18f-458f-9669-864af7bf28cd" />
 <img width="489" height="713" alt="Scherm­afbeelding 2026-10-01 om 23 13 41" src="https://github.com/user-attachments/assets/a4f5f69b-132b-4470-95b8-80094ecf7de2" />
 
-de bi weekly geek
+de bi weekly geek 2
 
 <img width="1512" height="982" alt="Scherm­afbeelding 2026-09-28 om 14 45 19" src="https://github.com/user-attachments/assets/47e1a63d-1e4e-4770-9666-9c62fc7a4e32" />
 <img width="1512" height="982" alt="Scherm­afbeelding 2026-09-28 om 14 45 44" src="https://github.com/user-attachments/assets/387cebb2-014a-4102-b874-3f95d266d0b5" />
@@ -274,7 +283,7 @@ voor mijn Digital Garden heb ik verschillende lettertypes verzameld en gebruikt,
 
 ### ws 1 - 5 oktober en ws 2 - 7 oktober
 
-deze dag was ik ziek maar heb op dinsdag ingehaald wat ik gemist heb <br/><br>
+maandag 5 oktober was ik ziek maar heb op dinsdag ingehaald wat ik gemist heb <br><br>
 <img width="365" height="235" alt="Scherm­afbeelding 2026-10-07 om 10 47 23" src="https://github.com/user-attachments/assets/070fc5d8-15af-4936-99d0-0af0b6958813" />
 <img width="888" height="661" alt="Scherm­afbeelding 2026-10-06 om 13 03 30" src="https://github.com/user-attachments/assets/ae381800-8f32-4512-9e3b-71f1947a0e52" />
 <img width="1512" height="857" alt="Scherm­afbeelding 2026-10-06 om 13 09 41" src="https://github.com/user-attachments/assets/b645a737-cd85-4e70-b836-2594cc046fac" />
@@ -291,13 +300,16 @@ ik wou met een YouTube video de letters in een rondje laten gaan, door middel va
 <img width="1512" height="887" alt="Scherm­afbeelding 2026-10-07 om 14 04 32" src="https://github.com/user-attachments/assets/0cbb7ff4-aede-4587-a28b-0a719d81336c" />
 naar GitHub sturen stopte alleen helaas met werken
 <br>
+
 checkout  5 okt
 1: 
 <br>
 2: 40/ 45 em vind ik het fijnste om te lezen
 <br>
 3: grootte of plaatsing vind ik het belangrijkste
-<br>
+
+<br><br><br>
+
 checkout. 7 okt
 1: Ontwerper: Werkt overzichtelijker. Bezoeker: Kan informatie makkelijker vinden
 <br>
@@ -321,6 +333,7 @@ schetsen voor de songtekst
 <img width="3024" height="4032" alt="IMG_1158" src="https://github.com/user-attachments/assets/b23ae532-2a89-4d07-856f-a2ef6bc1f827" />
 <br>
 Webby checklist uitgebreid ingevuld
+
 <br><br><br>
 
 
@@ -370,7 +383,7 @@ bron voor de javascript: chatgpt
 <img width="3024" height="4032" alt="IMG_1166" src="https://github.com/user-attachments/assets/c7a3e784-a65b-46d5-bd1f-562c53c8fad8" />
 <img width="4032" height="3024" alt="IMG_1165" src="https://github.com/user-attachments/assets/f7e0c79a-2b1e-41ea-bf7b-04c58d884a89" />
 <br>
-bi weekly geek
+bi weekly geek 3
 
 
 <br>
