@@ -1016,6 +1016,8 @@ body > a:active {
   }
 }
 
+/* MARK: deny mode */
+
 body.deny-mode {
   html {
     scroll-behavior: auto;
