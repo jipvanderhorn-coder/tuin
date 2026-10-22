@@ -319,7 +319,7 @@ ik heb verschillende letterdiktes, groottes en vormen gecombineerd. Ik wil dat d
 ik heb geëxperimenteerd met een titel waarvan de tekstkleur verandert wanneer je door de pagina scrolt. hierdoor verandert de vormgeving tijdens het bekijken van de website en voelt de pagina minder statisch aan.
 <br>
 checkout
-geen checkout
+geen checkout vandaag
 
 <br>
 ### ws 5 - 21 oktober 
@@ -343,9 +343,10 @@ bi weekly geek
 <br>
 <br>
 checkout
-geen check out
+geen check out vandaag
 
 ### ws 6 - 23 oktober 
 
+<img width="1365" height="264" alt="Scherm­afbeelding 2026-10-22 om 12 07 32" src="https://github.com/user-attachments/assets/284341a9-c267-434e-bd63-6b90cd0fd0b1" />
 
-
+deze nog even gefixt, spaties mag niet in de href en in de bestandsnaam
