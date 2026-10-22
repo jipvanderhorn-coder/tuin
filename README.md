@@ -399,8 +399,15 @@ geen check out vandaag
 ### ws 6 - 23 oktober 
 
 <img width="1365" height="264" alt="Scherm­afbeelding 2026-10-22 om 12 07 32" src="https://github.com/user-attachments/assets/284341a9-c267-434e-bd63-6b90cd0fd0b1" />
-
 deze nog even gefixt, spaties mag niet in de href en in de bestandsnaam
+
+
+<br><br><br>
+
+<img width="560" height="635" alt="Scherm­afbeelding 2026-10-22 om 14 25 04" src="https://github.com/user-attachments/assets/9d6cb847-58d6-44f7-9fca-5ce0814aaf23" />
+
+
+de planning helemaal af, wat eventuele dingen nog niet kunnen doen. als ik meer tijd had gehad zou ik die graag nog toevoegen aan mijn website. ik ben over het algemeen best tevreden met wat ik heb geleerd dit blok, ik voel nu dat ik genoeg kennis heb opgedaan over html css om een eigen werkende portfotlio website te maken dus dat ga ik na het officiële einde van dit blok ook meteen doen en ik denk daar heel veel in te kunnen toepassen wat ik afgelopen weken heb geleerd.
 
 
 
