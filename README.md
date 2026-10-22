@@ -149,7 +149,13 @@ checkout
 
 <img width="1037" height="677" alt="Scherm­afbeelding 2026-10-01 om 20 54 25" src="https://github.com/user-attachments/assets/165e279a-568e-4294-a968-db3919998976" />
 
-<img width="499" height="577" alt="Scherm­afbeelding 2026-10-01 om 20 39 55" src="https://github.com/user-attachments/assets/9e236ddd-a9de-40ca-8c78-d61c2061e8d6" />
+
+
+<img width="3024" height="4032" alt="IMG_1171" src="https://github.com/user-attachments/assets/8b3991b5-ed3c-4c81-a8cb-02df7f96fea8" />
+<img width="3024" height="4032" alt="IMG_1170" src="https://github.com/user-attachments/assets/d63e782e-46d6-495e-aeac-37946bb48419" />
+<br>
+met Katey en lina nieuwe ideeën gebrainstormd 
+<br>
 checkout
 <br>
 1: Een wireflow is een combinatie van wireframes en een flow. Je ziet hoe schermen eruitzien én hoe de gebruiker ertussen navigeert. Het helpt om de gebruikersflow en structuur te testen.
@@ -233,8 +239,6 @@ Welke beperking rekening houden vind je het meest lastig?cognitief vind ik het l
 
 de checks gedaan en genoteerd wat er anders moet, alle checks gedaan en verifiëren dat alles werkt naar behoren.
 
-<img width="1200" height="1600" alt="2e025020-9e20-4d9e-b711-a0488fb2bd4f" src="https://github.com/user-attachments/assets/ed44649f-b2be-4aee-9ac5-b9be47a17d8b" />
-<img width="1200" height="1600" alt="21a2d47a-7278-4e8a-b2bd-df19615c8205" src="https://github.com/user-attachments/assets/d638b5f1-9c5a-422e-b8ae-241b13675b27" />
 <img width="520" height="715" alt="Scherm­afbeelding 2026-10-01 om 23 13 21" src="https://github.com/user-attachments/assets/2173a05f-2bb4-453e-8911-d309eeeff7ce" />
 <img width="489" height="713" alt="Scherm­afbeelding 2026-10-01 om 23 13 41" src="https://github.com/user-attachments/assets/0aa6d8d1-2880-4840-950f-b620f7572e5c" />
 <img width="1512" height="982" alt="Scherm­afbeelding 2026-10-02 om 11 49 02" src="https://github.com/user-attachments/assets/dd5e3fb5-0c9c-4e27-ac02-7a39b2af8f1e" />
@@ -242,6 +246,19 @@ de checks gedaan en genoteerd wat er anders moet, alle checks gedaan en verifië
 <img width="1512" height="982" alt="Scherm­afbeelding 2026-10-02 om 11 49 08" src="https://github.com/user-attachments/assets/8bc81980-aa9f-4d65-bdf2-0956c4287b9c" />
 <img width="1512" height="982" alt="Scherm­afbeelding 2026-10-02 om 11 49 13" src="https://github.com/user-attachments/assets/3124c78c-154f-407c-83bf-c73fc33e9137" />
 colorblindly check
+
+
+<br><br><br>
+<img width="3024" height="4032" alt="IMG_1178" src="https://github.com/user-attachments/assets/76e57008-5d5b-4681-9774-02642cf60206" />
+<img width="3024" height="4032" alt="IMG_1177" src="https://github.com/user-attachments/assets/a8dade55-3835-4c80-8535-c238a8bfa930" />
+<img width="3024" height="4032" alt="IMG_1174" src="https://github.com/user-attachments/assets/2bade757-e793-4db5-b0e9-133b930a1875" />
+
+<img width="3024" height="4032" alt="IMG_1175" src="https://github.com/user-attachments/assets/4f169b45-9e5e-4855-9012-0333e6955963" />
+<img width="3024" height="4032" alt="IMG_1176" src="https://github.com/user-attachments/assets/f816541d-7d04-4263-a66b-7fa9866591df" />
+<br>
+
+checklist: woensdag heb ik gezien wat er allemaal nog anders moet en ervoor gezorgd dat vandaag bijna alles ook werkt volgens de lijst
+
 <br>
 ik heb mijn lettergroottes en indeling verder afgestemd op verschillende schermformaten. met clamp() en media queries kan ik grote typografie behouden, terwijl de tekst zich aanpast aan de beschikbare ruimte.
 <br>
@@ -373,19 +390,4 @@ geen check out vandaag
 deze nog even gefixt, spaties mag niet in de href en in de bestandsnaam
 
 
-
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-
-<img width="3024" height="4032" alt="IMG_1178" src="https://github.com/user-attachments/assets/76e57008-5d5b-4681-9774-02642cf60206" />
-<img width="3024" height="4032" alt="IMG_1177" src="https://github.com/user-attachments/assets/a8dade55-3835-4c80-8535-c238a8bfa930" />
-<img width="3024" height="4032" alt="IMG_1171" src="https://github.com/user-attachments/assets/8b3991b5-ed3c-4c81-a8cb-02df7f96fea8" />
-<img width="3024" height="4032" alt="IMG_1174" src="https://github.com/user-attachments/assets/2bade757-e793-4db5-b0e9-133b930a1875" />
-
-
-
-<img width="3024" height="4032" alt="IMG_1170" src="https://github.com/user-attachments/assets/d63e782e-46d6-495e-aeac-37946bb48419" />
-
-<img width="3024" height="4032" alt="IMG_1175" src="https://github.com/user-attachments/assets/4f169b45-9e5e-4855-9012-0333e6955963" />
-
-<img width="3024" height="4032" alt="IMG_1176" src="https://github.com/user-attachments/assets/f816541d-7d04-4263-a66b-7fa9866591df" />
 
