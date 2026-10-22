@@ -3,6 +3,9 @@
 Een fork van de model repository gemaakt en gepubliceerd via mijn eigen Github omgeving.
 
 <img width="1512" height="982" alt="Scherm­afbeelding 2026-08-31 om 13 18 20" src="https://github.com/user-attachments/assets/2fa049fd-fe67-4fb7-8f9b-00993d3a8c3e" />
+
+<img width="3024" height="4032" alt="IMG_1172" src="https://github.com/user-attachments/assets/de7afe1a-5df2-4bac-a480-785cb4315811" />
+<img width="3024" height="4032" alt="IMG_1173" src="https://github.com/user-attachments/assets/a742b731-be0a-415e-b929-7f56e580f6c4" />
 checkout
 vraag 1: ik heb visual studio code gekozen, het is een programma waarin je je website op de GitHub server kan aanpassen. <br>
 vraag 2: de domeinnaam is: jipvdhorn.nl en die heb ik gekoppeld via de DNS server aan GitHub. <br>
@@ -381,8 +384,8 @@ deze nog even gefixt, spaties mag niet in de href en in de bestandsnaam
 
 
 <img width="3024" height="4032" alt="IMG_1170" src="https://github.com/user-attachments/assets/d63e782e-46d6-495e-aeac-37946bb48419" />
-<img width="3024" height="4032" alt="IMG_1173" src="https://github.com/user-attachments/assets/a742b731-be0a-415e-b929-7f56e580f6c4" />
+
 <img width="3024" height="4032" alt="IMG_1175" src="https://github.com/user-attachments/assets/4f169b45-9e5e-4855-9012-0333e6955963" />
-<img width="3024" height="4032" alt="IMG_1172" src="https://github.com/user-attachments/assets/de7afe1a-5df2-4bac-a480-785cb4315811" />
+
 <img width="3024" height="4032" alt="IMG_1176" src="https://github.com/user-attachments/assets/f816541d-7d04-4263-a66b-7fa9866591df" />
 
