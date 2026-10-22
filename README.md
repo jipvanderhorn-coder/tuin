@@ -123,7 +123,16 @@ bron voor de afbeeldingen binnen de website: unsplash
 ### ws 1 - 21 september
 
 <img width="440" height="709" alt="Scherm­afbeelding 2026-10-01 om 20 46 31" src="https://github.com/user-attachments/assets/8ef021ef-033e-4025-b65a-5f75dfcdb6dc" />
+<br>
+een opdracht over cookies
+<br>
+<img width="3024" height="4032" alt="IMG_1169" src="https://github.com/user-attachments/assets/747eef55-0534-49a4-af2f-0b343da957d6" />
+
+<br>
+aantekeningen
+<br>
 checkout
+<br>
 1: HTML landmark role elements zijn elementen die belangrijke onderdelen van een pagina aangeven, zoals header, nav, main, section en footer.
 <br>
 2: heading elementen zijn h1 t/m h6 Je begint met één h1 en gebruikt daarna h2, h3 enzovoort je mag niet zomaar van h2 naar h4 te springen.
@@ -276,6 +285,8 @@ checkout. 7 okt
 <br>
 3:Genoeg om op te vallen, maar niet zoveel dat het onoverzichtelijk wordt
 <br>
+
+
 ### ws 3 - 9 oktober 
 
 <img width="3024" height="4032" alt="IMG_1110 2" src="https://github.com/user-attachments/assets/6813f27f-a428-45fe-8ffe-dc942d174104" />
@@ -338,10 +349,16 @@ bron voor de javascript: chatgpt
 
 <img width="3024" height="4032" alt="IMG_1166" src="https://github.com/user-attachments/assets/c7a3e784-a65b-46d5-bd1f-562c53c8fad8" />
 <img width="4032" height="3024" alt="IMG_1165" src="https://github.com/user-attachments/assets/f7e0c79a-2b1e-41ea-bf7b-04c58d884a89" />
-
+<br>
 bi weekly geek
+
+
 <br>
-<br>
+
+<img width="3024" height="4032" alt="IMG_1167" src="https://github.com/user-attachments/assets/253a734b-3e53-42f5-be48-e92006736315" />
+
+<img width="3024" height="4032" alt="IMG_1168" src="https://github.com/user-attachments/assets/c2c89690-446a-441d-bdbe-5b8241dcf799" />
+
 <br>
 checkout
 geen check out vandaag
@@ -351,3 +368,21 @@ geen check out vandaag
 <img width="1365" height="264" alt="Scherm­afbeelding 2026-10-22 om 12 07 32" src="https://github.com/user-attachments/assets/284341a9-c267-434e-bd63-6b90cd0fd0b1" />
 
 deze nog even gefixt, spaties mag niet in de href en in de bestandsnaam
+
+
+
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+<img width="3024" height="4032" alt="IMG_1178" src="https://github.com/user-attachments/assets/76e57008-5d5b-4681-9774-02642cf60206" />
+<img width="3024" height="4032" alt="IMG_1177" src="https://github.com/user-attachments/assets/a8dade55-3835-4c80-8535-c238a8bfa930" />
+<img width="3024" height="4032" alt="IMG_1171" src="https://github.com/user-attachments/assets/8b3991b5-ed3c-4c81-a8cb-02df7f96fea8" />
+<img width="3024" height="4032" alt="IMG_1174" src="https://github.com/user-attachments/assets/2bade757-e793-4db5-b0e9-133b930a1875" />
+
+
+
+<img width="3024" height="4032" alt="IMG_1170" src="https://github.com/user-attachments/assets/d63e782e-46d6-495e-aeac-37946bb48419" />
+<img width="3024" height="4032" alt="IMG_1173" src="https://github.com/user-attachments/assets/a742b731-be0a-415e-b929-7f56e580f6c4" />
+<img width="3024" height="4032" alt="IMG_1175" src="https://github.com/user-attachments/assets/4f169b45-9e5e-4855-9012-0333e6955963" />
+<img width="3024" height="4032" alt="IMG_1172" src="https://github.com/user-attachments/assets/de7afe1a-5df2-4bac-a480-785cb4315811" />
+<img width="3024" height="4032" alt="IMG_1176" src="https://github.com/user-attachments/assets/f816541d-7d04-4263-a66b-7fa9866591df" />
+
