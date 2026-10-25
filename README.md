@@ -410,4 +410,11 @@ deze nog even gefixt, spaties mag niet in de href en in de bestandsnaam
 de planning helemaal af, wat eventuele dingen nog niet kunnen doen. als ik meer tijd had gehad zou ik die graag nog toevoegen aan mijn website. ik ben over het algemeen best tevreden met wat ik heb geleerd dit blok, ik voel nu dat ik genoeg kennis heb opgedaan over html css om een eigen werkende portfotlio website te maken dus dat ga ik na het officiële einde van dit blok ook meteen doen en ik denk daar heel veel in te kunnen toepassen wat ik afgelopen weken heb geleerd.
 
 
+### ws 7 - 26 oktober 
+selector voor focus state via chat gpt op moeten zoeken want ik had eerst alleen het paarse lijntje om de checkbox
+<img width="822" height="205" alt="Scherm­afbeelding 2026-10-25 om 20 39 08" src="https://github.com/user-attachments/assets/9d51a2d7-69e6-41c0-b8a4-340f2b6e9776" />
+
+
+
+
 
