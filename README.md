@@ -418,6 +418,8 @@ selector voor focus state via chat gpt op moeten zoeken want ik had eerst alleen
 de deepdive over light dark gevolgd voor de knoppen met achtergrond kleuren
 
 
+<img width="507" height="183" alt="Scherm­afbeelding 2026-10-25 om 21 38 06" src="https://github.com/user-attachments/assets/2fcfc101-fecc-410c-8c39-85b79783ae4d" />
+
 
 
 
