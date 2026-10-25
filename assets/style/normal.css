@@ -91,6 +91,92 @@ html {
 
 /* MARK: ALGEMENE STYLING */
 
+/* MARK: achtergrondkleuren */
+
+html:has([value="auto"]:checked) {
+  color-scheme: light dark;
+  --bg: light-dark(rgb(96, 94, 91), rgb(0, 0, 0));
+  color: white;
+}
+
+html:has([value="zwart"]:checked) {
+  --bg: rgb(0, 0, 0);
+  color: white;
+}
+
+html:has([value="grijs"]:checked) {
+  --bg: rgb(96, 94, 91);
+  color: white;
+}
+
+html:has([value="roze"]:checked) {
+  --bg: rgb(231, 134, 160);
+  color: white;
+}
+
+html:has([value="blauw"]:checked) {
+  --bg: rgb(65, 110, 180);
+  color: white;
+}
+
+html:has([value="oranje"]:checked) {
+  --bg: rgb(224, 139, 54);
+  color: white;
+}
+
+/* MARK: thema knoppen */
+
+form {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 1em;
+  margin: 2em;
+}
+
+form label {
+  border: 2px solid white;
+  padding: 1em;
+  cursor: pointer;
+  font-family: monoton;
+  text-shadow:
+    0px 0px 0 rgb(235, 20, 20),
+    0px 0px 0 rgb(19, 185, 210);
+
+  transition: 0.5s;
+}
+
+form label:hover {
+  background-color: white;
+  color: black;
+  border-color: rgb(235, 20, 20);
+  rotate: -3deg;
+
+  text-shadow:
+    3px 3px 0 rgb(235, 20, 20),
+    7px 7px 0 rgb(19, 185, 210);
+
+  scale: 1.3;
+}
+
+form label:has(input:checked) {
+  background: rgba(235, 20, 20, 0.5);
+}
+
+form input {
+  accent-color: rgb(235, 20, 20);
+}
+
+form label:has(input:focus-visible) {
+  outline: 4px dashed rgb(210, 14, 228);
+  outline-offset: 5px;
+  background-color: white;
+  color: black;
+  scale: 1.2;
+  z-index: 2;
+  rotate: 5deg;
+}
+
 p {
   font-family: seraphs;
 
@@ -250,6 +336,7 @@ section {
   grid-template-columns: auto;
   padding-right: 2em;
   padding-left: 2em;
+  transition: 0.3s;
 }
 
 main section:nth-of-type(1) button {
@@ -522,6 +609,7 @@ footer button:focus-visible {
     font-size: clamp(1rem, 0.8rem + 1vw, 1.5rem);
     margin: 1em;
     border: 1px dashed rgb(66, 125, 17);
+    transition: 0.5s;
   }
 
   button:hover {
@@ -551,7 +639,6 @@ footer button:focus-visible {
 
 section:has(img:hover) {
   @media (width > 48em) {
-    transition: 0.3s;
     opacity: 1;
     transform: scale(1.3);
     filter: saturate(1.5);
@@ -1012,7 +1099,6 @@ body > a:active {
 
   body > a {
     font-family: seraphs;
-    margin-top: -10em;
   }
 }
 
@@ -1029,6 +1115,10 @@ body.deny-mode {
     animation: none;
     animation-timeline: auto;
     transition: none;
+  }
+
+  h2 {
+    transform: scaleY(2);
   }
 
   h1 em,
@@ -1050,11 +1140,12 @@ body.deny-mode {
   main figure img {
     scale: 1;
     opacity: 1;
-    filter: none;
+    filter: grayscale(1);
   }
 
   main figure figcaption {
     opacity: 1;
+    transform: scaleY(4);
   }
 
   footer nav {
@@ -1064,7 +1155,6 @@ body.deny-mode {
 
   section:has(img:hover) {
     transform: none;
-    filter: none;
   }
 
   section:has(img:hover) figcaption {
@@ -1074,9 +1164,8 @@ body.deny-mode {
   footer {
     margin-left: 5em;
   }
-
   footer button {
-    transition: 0.2s;
+    transition: none;
     background: transparent;
     color: white;
   }
@@ -1093,7 +1182,7 @@ body.deny-mode {
   }
 
   body {
-    transition: 0.3s;
+    transition: none;
     color: white;
     background: black;
   }
@@ -1153,12 +1242,8 @@ body.deny-mode {
     font-family: seraphs;
   }
 
-  footer span {
-    font-family: seraphs;
-  }
-
   body > a {
     font-family: seraphs;
-    margin-top: -10em;
+    margin-top: 0em;
   }
 }
