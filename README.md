@@ -124,11 +124,15 @@ vandaag de code afgemaakt, als ik meer tijd had zou ik willen dat je horizontaal
 <br>
 <img width="469" height="505" alt="Scherm­afbeelding 2026-09-17 om 21 34 20" src="https://github.com/user-attachments/assets/de015e0a-73d9-4a81-adb8-a624d02fe654" />
 
-<img width="531" height="742" alt="Scherm­afbeelding 2026-10-01 om 20 45 36" src="https://github.com/user-attachments/assets/096a3493-ec51-453f-9ac4-3973155ac75d" />
+
 
 <img width="853" height="620" alt="Scherm­afbeelding 2026-10-01 om 20 46 00" src="https://github.com/user-attachments/assets/dbb69c22-427a-47c7-972d-9e850ad32a58" />
 
-<img width="561" height="775" alt="Scherm­afbeelding 2026-10-01 om 20 46 18" src="https://github.com/user-attachments/assets/0cc88af7-e0ef-41ee-93de-0806c15db6b0" />
+
+<img width="4032" height="3024" alt="IMG_1008 2" src="https://github.com/user-attachments/assets/5e0d70ec-a289-4197-9b74-0cc9da223204" />
+
+
+<img width="4032" height="3024" alt="IMG_1010 2" src="https://github.com/user-attachments/assets/a0c63e8a-7261-4996-abbd-15407d0f4b16" />
 
 <img width="949" height="733" alt="Scherm­afbeelding 2026-10-01 om 20 33 31" src="https://github.com/user-attachments/assets/2dfbad6c-7256-4adc-b8dc-a8e265f1bb43" />
 repository sprint1
@@ -165,8 +169,8 @@ checkout
 
 
 
-<img width="3024" height="4032" alt="IMG_1171" src="https://github.com/user-attachments/assets/8b3991b5-ed3c-4c81-a8cb-02df7f96fea8" />
-<img width="3024" height="4032" alt="IMG_1170" src="https://github.com/user-attachments/assets/d63e782e-46d6-495e-aeac-37946bb48419" />
+<img width="4032" height="3024" alt="IMG_0945 2" src="https://github.com/user-attachments/assets/0c3eace8-5a27-4fe5-be81-47536d660d23" />
+<img width="4032" height="3024" alt="IMG_1170 2" src="https://github.com/user-attachments/assets/022708b3-0501-43be-9f77-ee446393eb3b" />
 <br>
 met Katey en lina nieuwe ideeën gebrainstormd 
 <br>
@@ -256,9 +260,6 @@ Welke beperking rekening houden vind je het meest lastig?cognitief vind ik het l
 
 
 de checks gedaan en genoteerd wat er anders moet, alle checks gedaan en verifiëren dat alles werkt naar behoren.
-
-<img width="520" height="715" alt="Scherm­afbeelding 2026-10-01 om 23 13 21" src="https://github.com/user-attachments/assets/2173a05f-2bb4-453e-8911-d309eeeff7ce" />
-<img width="489" height="713" alt="Scherm­afbeelding 2026-10-01 om 23 13 41" src="https://github.com/user-attachments/assets/0aa6d8d1-2880-4840-950f-b620f7572e5c" />
 <img width="1512" height="982" alt="Scherm­afbeelding 2026-10-02 om 11 49 02" src="https://github.com/user-attachments/assets/dd5e3fb5-0c9c-4e27-ac02-7a39b2af8f1e" />
 <img width="1512" height="982" alt="Scherm­afbeelding 2026-10-02 om 11 49 05" src="https://github.com/user-attachments/assets/73f94e7d-e4ac-4584-b1ff-057a2b1ca84b" />
 <img width="1512" height="982" alt="Scherm­afbeelding 2026-10-02 om 11 49 08" src="https://github.com/user-attachments/assets/8bc81980-aa9f-4d65-bdf2-0956c4287b9c" />
@@ -267,6 +268,20 @@ colorblindly check
 
 
 <br><br><br>
+
+
+
+<img width="4032" height="3024" alt="IMG_1110 2 2" src="https://github.com/user-attachments/assets/ea788b05-a356-4e57-b0cb-7bd3aa3910c0" />
+
+
+<img width="4032" height="3024" alt="IMG_1111 2 2" src="https://github.com/user-attachments/assets/dcae0ca7-090a-4c6b-a960-1b271225d819" />
+
+
+<img width="4032" height="3024" alt="IMG_1112 3" src="https://github.com/user-attachments/assets/eee93492-3745-4c61-bd58-f2f840555485" />
+
+
+<br><br><br>
+
 <img width="3024" height="4032" alt="IMG_1178" src="https://github.com/user-attachments/assets/76e57008-5d5b-4681-9774-02642cf60206" />
 <img width="3024" height="4032" alt="IMG_1177" src="https://github.com/user-attachments/assets/a8dade55-3835-4c80-8535-c238a8bfa930" />
 <img width="3024" height="4032" alt="IMG_1174" src="https://github.com/user-attachments/assets/2bade757-e793-4db5-b0e9-133b930a1875" />
@@ -330,15 +345,12 @@ checkout. 7 okt
 
 ### ws 3 - 9 oktober 
 
-<img width="3024" height="4032" alt="IMG_1110 2" src="https://github.com/user-attachments/assets/6813f27f-a428-45fe-8ffe-dc942d174104" />
-<img width="3024" height="4032" alt="IMG_1111 2" src="https://github.com/user-attachments/assets/57433886-7fc6-4305-8490-175b2ec606c6" />
 na feedback vorige retrospect wil ik de cookie knop heel irritant mee laten bewegen, dit lokt hopelijk uit dat erop geklikt gaat worden. ik wil ook dat als je op "deny" drukt dat er dan iets gebeurt wat vervelend is voor de gebruiker.
 <br>
 schetsen voor de songtekst
 <br>
 
 <img width="3024" height="4032" alt="IMG_1123 2" src="https://github.com/user-attachments/assets/fd8cf9b4-9936-40db-94df-d7983b9e8ef4" />
-<img width="3024" height="4032" alt="IMG_1112 2" src="https://github.com/user-attachments/assets/a7be62d1-c9b1-4ec5-942c-c1ac925b19e5" />
 
 <img width="4032" height="3024" alt="IMG_1158 3" src="https://github.com/user-attachments/assets/0f81a91f-680a-4cd1-98af-1b9fcc78473c" />
 
@@ -423,6 +435,13 @@ deze nog even gefixt, spaties mag niet in de href en in de bestandsnaam
 de planning helemaal af, wat eventuele dingen nog niet kunnen doen. als ik meer tijd had gehad zou ik die graag nog toevoegen aan mijn website. ik ben over het algemeen best tevreden met wat ik heb geleerd dit blok, ik voel nu dat ik genoeg kennis heb opgedaan over html css om een eigen werkende portfotlio website te maken dus dat ga ik na het officiële einde van dit blok ook meteen doen en ik denk daar heel veel in te kunnen toepassen wat ik afgelopen weken heb geleerd.
 
 
+<img width="4032" height="3024" alt="IMG_1180" src="https://github.com/user-attachments/assets/10fb5bb2-f998-43a9-9391-bfc839bbbe12" />
+<img width="4032" height="3024" alt="IMG_1181" src="https://github.com/user-attachments/assets/59dfcd25-864b-4833-9272-59c1c82726ad" />
+<img width="4032" height="3024" alt="IMG_1182 2" src="https://github.com/user-attachments/assets/7c2cda26-53ae-4b58-9558-41fc72aab55e" />
+<img width="4032" height="3024" alt="IMG_1183" src="https://github.com/user-attachments/assets/1b890980-539b-43f4-b4eb-08104152af85" />
+
+
+
 ### ws 7 - 26 oktober 
 selector voor focus state via chat gpt op moeten zoeken want ik had eerst alleen het paarse lijntje om de checkbox
 <img width="822" height="205" alt="Scherm­afbeelding 2026-10-25 om 20 39 08" src="https://github.com/user-attachments/assets/9d51a2d7-69e6-41c0-b8a4-340f2b6e9776" />
@@ -432,6 +451,16 @@ de deepdive over light dark gevolgd voor de knoppen met achtergrond kleuren
 
 
 <img width="507" height="183" alt="Scherm­afbeelding 2026-10-25 om 21 38 06" src="https://github.com/user-attachments/assets/2fcfc101-fecc-410c-8c39-85b79783ae4d" />
+
+
+
+
+
+
+
+
+
+
 
 
 
