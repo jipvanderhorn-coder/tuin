@@ -92,8 +92,11 @@ grid deepdive was lastig maar wel handig
 
 <br><br><br>
 
-<img width="3024" height="4032" alt="IMG_0870 2" src="https://github.com/user-attachments/assets/53083224-3a30-4d41-b061-be280f463b94" />
-<img width="3024" height="4032" alt="IMG_0871 2" src="https://github.com/user-attachments/assets/e5a6fd81-5f84-4415-bce9-dbedf3941221" />
+
+<img width="4032" height="3024" alt="IMG_0871 3" src="https://github.com/user-attachments/assets/ae6f1e61-e01b-4e57-ad83-ff0a77cd5304" />
+
+<img width="3024" height="4032" alt="IMG_0870 3" src="https://github.com/user-attachments/assets/52aed74b-eeea-4dad-bcb5-5bcc98bf1a21" />
+
 
 
 bi weekly geek 1
@@ -199,8 +202,12 @@ checkout
 
 ### ws 4 - 28 september
 
-<img width="520" height="715" alt="Scherm­afbeelding 2026-10-01 om 23 13 21" src="https://github.com/user-attachments/assets/528ae551-b18f-458f-9669-864af7bf28cd" />
-<img width="489" height="713" alt="Scherm­afbeelding 2026-10-01 om 23 13 41" src="https://github.com/user-attachments/assets/a4f5f69b-132b-4470-95b8-80094ecf7de2" />
+
+
+<img width="1600" height="1200" alt="21a2d47a-7278-4e8a-b2bd-df19615c8205 2" src="https://github.com/user-attachments/assets/eedc07a6-8d64-43ad-97a2-ef70b5138bea" />
+
+<img width="1600" height="1200" alt="2e025020-9e20-4d9e-b711-a0488fb2bd4f 2" src="https://github.com/user-attachments/assets/f9c6957d-8e5a-4dad-a571-46f1ba65ae48" />
+
 
 de bi weekly geek 2
 
@@ -380,8 +387,9 @@ geen checkout vandaag
 bron voor de javascript: chatgpt
 
 
-<img width="3024" height="4032" alt="IMG_1166" src="https://github.com/user-attachments/assets/c7a3e784-a65b-46d5-bd1f-562c53c8fad8" />
-<img width="4032" height="3024" alt="IMG_1165" src="https://github.com/user-attachments/assets/f7e0c79a-2b1e-41ea-bf7b-04c58d884a89" />
+<img width="4032" height="3024" alt="IMG_1166 2" src="https://github.com/user-attachments/assets/36255b67-37d2-4632-b7e0-bf5287081c69" />
+
+<img width="4032" height="3024" alt="IMG_1165 2" src="https://github.com/user-attachments/assets/8658aab0-03e8-46e1-9a00-0b0052175406" />
 <br>
 bi weekly geek 3
 
@@ -419,6 +427,16 @@ de deepdive over light dark gevolgd voor de knoppen met achtergrond kleuren
 
 
 <img width="507" height="183" alt="Scherm­afbeelding 2026-10-25 om 21 38 06" src="https://github.com/user-attachments/assets/2fcfc101-fecc-410c-8c39-85b79783ae4d" />
+
+
+
+
+
+
+
+
+
+
 
 
 
