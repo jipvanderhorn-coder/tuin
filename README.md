@@ -457,7 +457,13 @@ de deepdive over light dark gevolgd voor de knoppen met achtergrond kleuren
 
 
 
+<img width="3024" height="4032" alt="IMG_1260" src="https://github.com/user-attachments/assets/76ab5992-737f-487a-bd0e-587c52f1a8ce" />
+<img width="4032" height="3024" alt="IMG_1261" src="https://github.com/user-attachments/assets/ada6c9ad-11cd-4b3f-b0f1-5281733043d0" />
+reflectie: leuk om te zien hoe iedereen zo onder de indruk was van de animaties die ik had gemaakt in mijn pagina. de tip over dat de cookies knop weg moet zijn na accepteren vind ik wel een goed idee maar ik weet niet hoe ik dat zou moeten toevoegen in mijn website want: ik ben van mening dat iemand nog van mening mag veranderen en alsnog op deny mag klikken. misschien zou ik dan de tekst in de knop moeten maken: "changed your mind?" ofzo, dat zou wel een goed idee zijn maar daar heb ik nu geen tijd meer voor om te schetsen en te bedenken hoe ik dat dan precies wil en ook nog te maken.
 
+<img width="4032" height="3024" alt="IMG_1262" src="https://github.com/user-attachments/assets/5857e9ea-8d79-4dd4-bc2d-8727e72b62f8" />
+<img width="4032" height="3024" alt="IMG_1263" src="https://github.com/user-attachments/assets/5aa97262-0c93-446b-b525-5ea54bd78c93" />
+conclusie: mijn website is best Webby, nog een paar kleine tips waarmee ik misschien wel verder zou gaan als ik de tijd ervoor had. vooral nu voor het laaste dagje even focussen op de readme iets meer beschrijven hoe mijn proces is gegaan.
 
 
 
