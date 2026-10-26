@@ -27,7 +27,8 @@ deep Dives eerste dag afgemaakt
 
 Mijn onderwerp voor mijn Digital Garden wordt de terugkeer van retro. Ik vind het interessant dat retro op dit moment weer overal terugkomt, bijvoorbeeld in lettertypes, kleuren, posters, interieur, mode en grafisch ontwerp. Tijdens mijn het onderzoeken kwam ik er eigenlijk achter dat er niet echt websites waren die al deze verschillende vormen van retro bij elkaar brengen. Ik kon alleen maar interieur websites vinden. Daarom leek het me juist leuk om zelf zo’n website te maken. Ik wil verschillende voorbeelden verzamelen en laten zien hoe oude stijlen weer terugkomen, de website wil ik vooral visueel maken met leuke css trucjes erin.
 
-<img width="562" height="732" alt="Scherm­afbeelding 2026-09-17 om 14 26 48" src="https://github.com/user-attachments/assets/b50462fa-6044-4948-8044-8a23b044d2ed" />
+
+<img width="4032" height="3024" alt="IMG_0816 4" src="https://github.com/user-attachments/assets/47b6ca1d-c333-47e5-9cc9-998b91faba14" />
 <br>
 Webby andere tuintjes bekeken
 <br>
@@ -137,7 +138,8 @@ bron voor de afbeeldingen binnen de website: unsplash
 
 ### ws 1 - 21 september
 
-<img width="440" height="709" alt="Scherm­afbeelding 2026-10-01 om 20 46 31" src="https://github.com/user-attachments/assets/8ef021ef-033e-4025-b65a-5f75dfcdb6dc" />
+
+<img width="2208" height="1242" alt="IMG_1029 4" src="https://github.com/user-attachments/assets/58915fe8-13ab-41fa-b86b-cda7b4c58809" />
 <br>
 een opdracht over cookies
 <br>
@@ -337,7 +339,10 @@ schetsen voor de songtekst
 
 <img width="3024" height="4032" alt="IMG_1123 2" src="https://github.com/user-attachments/assets/fd8cf9b4-9936-40db-94df-d7983b9e8ef4" />
 <img width="3024" height="4032" alt="IMG_1112 2" src="https://github.com/user-attachments/assets/a7be62d1-c9b1-4ec5-942c-c1ac925b19e5" />
-<img width="3024" height="4032" alt="IMG_1158" src="https://github.com/user-attachments/assets/b23ae532-2a89-4d07-856f-a2ef6bc1f827" />
+
+<img width="4032" height="3024" alt="IMG_1158 3" src="https://github.com/user-attachments/assets/0f81a91f-680a-4cd1-98af-1b9fcc78473c" />
+
+
 <br>
 Webby checklist uitgebreid ingevuld
 
@@ -427,12 +432,6 @@ de deepdive over light dark gevolgd voor de knoppen met achtergrond kleuren
 
 
 <img width="507" height="183" alt="Scherm­afbeelding 2026-10-25 om 21 38 06" src="https://github.com/user-attachments/assets/2fcfc101-fecc-410c-8c39-85b79783ae4d" />
-
-
-
-
-
-
 
 
 
