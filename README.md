@@ -30,8 +30,7 @@ Mijn onderwerp voor mijn Digital Garden wordt de terugkeer van retro. Ik vind he
 
 <img width="4032" height="3024" alt="IMG_0816 4" src="https://github.com/user-attachments/assets/47b6ca1d-c333-47e5-9cc9-998b91faba14" />
 <br>
-Webby andere tuintjes bekeken
-<br>
+digital gardens van anderen bekeken om inspiratie op te doen. het was leuk om te zien hoeveel verschil er zit tussen de websites en hoeveel vrijheid je hebt in je eigen ontwerp. ik heb hierdoor ook weer ideeën gekregen voor mijn eigen tuintje, het kan heel vrij zoals ik bij anderen zag of juist heel statisch zoals de twee voorbeelden die ik moest bekijken. <br>
 
 checkout
 1: een persoonlijke website die steeds kan veranderen.
@@ -50,7 +49,7 @@ de html presentatie wou niet werken, heb uitgezocht op het internet hoe dit kon 
 
 <img width="323" height="772" alt="Scherm­afbeelding 2026-09-09 om 13 09 36" src="https://github.com/user-attachments/assets/24f11ac5-ae70-4798-8eaf-10003b2d485c" />
 <img width="348" height="657" alt="Scherm­afbeelding 2026-09-09 om 13 09 22" src="https://github.com/user-attachments/assets/d71c07e8-51c6-43cc-81d2-62f51f133f58" />
-online les veel beeldmateriaal verzameld en bekeken waarmee ik door kan gaan, de "40" poster vind ik interessant met die gekleurde schaduwen en hier wil ik mee door
+tijdens de online les heb ik veel beeldmateriaal verzameld en bekeken. vooral de poster met het getal 40 en de gekleurde schaduwen sprak me aan. ik wil kijken of ik zoiets ook in mijn eigen website kan verwerken.
 
 <br>
 
@@ -67,7 +66,7 @@ checkout
 vandaag ben ik tot de conclusie gekomen dat ik mij moet gaan focussen op de retro stijl in posters visueel te maken in plaats van bij alles, dit is wel jammer maar dit maakt mijn concept iets haalbaarder. hierdoor kan ik mijn ontwerp gerichter uitwerken en de stijl van verschillende tijdperken duidelijker laten zien.
 
 <img width="209" height="498" alt="Scherm­afbeelding 2026-09-17 om 20 33 36" src="https://github.com/user-attachments/assets/00906945-de53-42e0-bd20-0634da263044" />
-een schets van hoe het eruit moet gaan zien ongeveer, lange scroll en veel bewegende en verassende elementen 
+dit is een eerste schets van hoe ik de website ongeveer voor me zie. ik wil een lange pagina maken waar je doorheen scrolt en onderweg steeds nieuwe dingen tegenkomt. beweging en verrassende elementen moeten de website interessanter maken dan een gewone pagina met afbeeldingen en tekst. ik moet alleen nog uitzoeken hoe ik dat technisch voor elkaar krijg zonder dat het te druk wordt.
 <br>
 checkout
 1: van inspiratie verzamelen naar een duidelijk visueel concept voor je eigen Garden.
@@ -78,7 +77,7 @@ checkout
 
 ### ws 4 - 14 september
 
-vandaag heb ik mijn website responsive gemaakt, grid responsive met media query en clamp op de letters. nu is het mobile first, dit is belangrijk want de meeste websites worden het meest op telefoons bekeken tegenwoordig.
+vandaag heb ik mijn website responsive gemaakt, grid responsive met media query en clamp op de letters. nu is het mobile first, dit is belangrijk want de meeste websites worden het meest op telefoons bekeken tegenwoordig. vooral CSS Grid vond ik in het begin lastig, maar door ermee te oefenen kreeg ik de indeling beter onder controle. ik heb ook geleerd dat een mobiele website soms een andere indeling nodig heeft dan de desktopversie. 
 <img width="1436" height="778" alt="Scherm­afbeelding 2026-09-11 om 14 26 35" src="https://github.com/user-attachments/assets/72cf8c9c-5dae-47c2-b32c-b0ec26e86449" />
 <img width="1512" height="982" alt="Scherm­afbeelding 2026-09-11 om 14 43 26" src="https://github.com/user-attachments/assets/cad21c7e-e71d-432b-ba97-610d47a7a906" />
 <img width="1512" height="982" alt="Scherm­afbeelding 2026-09-11 om 14 43 32" src="https://github.com/user-attachments/assets/9a5b9dc3-d54b-4dde-9b2c-445544856775" />
@@ -89,7 +88,7 @@ vandaag heb ik mijn website responsive gemaakt, grid responsive met media query 
 <img width="1512" height="982" alt="Scherm­afbeelding 2026-09-11 om 16 12 30" src="https://github.com/user-attachments/assets/87626052-8140-43b5-bc1e-8dfbd6082d84" />
 <img width="1512" height="982" alt="Scherm­afbeelding 2026-09-11 om 16 12 33" src="https://github.com/user-attachments/assets/8e68f72b-46a8-4f68-b430-0c3161a9b3cc" />
 
-grid deepdive was lastig maar wel handig
+de deep dive over css grid vond ik best lastig, vooral omdat ik eerst niet goed begreep hoe ik de onderdelen precies moest verdelen. door ermee te oefenen snapte ik steeds beter hoe de indeling werkt. ik heb dit meteen kunnen gebruiken voor mijn eigen website. het is handig om te weten hoe je elementen netjes kunt plaatsen en de indeling op verschillende schermformaten kunt aanpassen.
 
 <br><br><br>
 
@@ -115,8 +114,8 @@ checkout
 
 <img width="558" height="460" alt="Scherm­afbeelding 2026-09-18 om 08 12 13" src="https://github.com/user-attachments/assets/9f1ad9b4-f89e-4feb-8873-0f9d75c38cca" />
 <br>
-deze design pinciples wil ik meer rekening mee houden, ik denk vooral de hiërarchie en de scale
-<br>
+ik wil bij het verder ontwerpen meer letten op de design principles, vooral hiërarchie en schaal. ik heb geleerd dat de grootte en plaatsing van elementen veel invloed hebben op waar je als eerste naar kijkt. daarom wil ik grote titels gebruiken en de afbeeldingen genoeg ruimte geven. ik wil wel voorkomen dat alles even veel aandacht trekt, want dan wordt het al snel onoverzichtelijk.
+<br><br><br><br>
 vandaag de code afgemaakt, als ik meer tijd had zou ik willen dat je horizontaal kan scrollen door meerdere afbeeldingen per tijdperk, dat is helaas (nog) niet gelukt door het beperkte aantal stockfoto's die er te vinden zijn. ik zou de scrollers dan horizontaal maken zoals de bijgevoegde foto mij heeft uitgelegd hoe dat moet, ook zou ik de horizontale scroller willen laten verlopen met 3 rijen foto's waarvan er twee naar links en de middelste rij naar rechts gaat (of andersom), zoals in de andere foto zichtbaar is en waarvan ik de uitleg ervoor heb gevonden. ook zou ik in achtergrond tekeningen of vormen willen toevoegen zodat het er minder plat uitziet.
 
 <br>
@@ -225,8 +224,7 @@ met screen reader en toetsenbord een reis geboekt
 <img width="1103" height="722" alt="Scherm­afbeelding 2026-09-25 om 12 13 26" src="https://github.com/user-attachments/assets/b5283fde-32ac-4bcb-b71e-9e1a673cda74" />
 <img width="1118" height="780" alt="Scherm­afbeelding 2026-09-25 om 12 13 36" src="https://github.com/user-attachments/assets/a8a08995-9f68-43ba-b9fe-6b2ec3d3b707" />
 <br>
-letterspacing toegepast bij hover
-
+ik heb letterspacing toegevoegd op de hover, daardoor verandert de tekst wanneer je er met je muis overheen gaat
 <br>
 checkout
 <br>
@@ -264,8 +262,7 @@ de checks gedaan en genoteerd wat er anders moet, alle checks gedaan en verifië
 <img width="1512" height="982" alt="Scherm­afbeelding 2026-10-02 om 11 49 05" src="https://github.com/user-attachments/assets/73f94e7d-e4ac-4584-b1ff-057a2b1ca84b" />
 <img width="1512" height="982" alt="Scherm­afbeelding 2026-10-02 om 11 49 08" src="https://github.com/user-attachments/assets/8bc81980-aa9f-4d65-bdf2-0956c4287b9c" />
 <img width="1512" height="982" alt="Scherm­afbeelding 2026-10-02 om 11 49 13" src="https://github.com/user-attachments/assets/3124c78c-154f-407c-83bf-c73fc33e9137" />
-colorblindly check
-
+ik heb colorblindly gebruikt om te controleren hoe mijn kleuren overkomen bij verschillende vormen van kleurenblindheid. omdat ik veel met kleur en opvallende typografie werk, is het belangrijk dat de inhoud ook dan duidelijk blijft.
 
 <br><br><br>
 
@@ -378,7 +375,7 @@ checkout
 
 <img width="1512" height="982" alt="Scherm­afbeelding 2026-10-16 om 16 19 20" src="https://github.com/user-attachments/assets/a9c73f8a-e302-4c25-9cf3-6b4407be9ff9" />
 <img width="1512" height="982" alt="Scherm­afbeelding 2026-10-16 om 16 19 24" src="https://github.com/user-attachments/assets/8d57c68e-9cd9-45be-b888-dabbffa91b7f" />
-ik heb gezorgd dat de songtekst responsive is zodat het mee schaalt op klein scherm
+ik heb gezorgd dat de songtekst responsive is zodat het mee schaalt op klein scherm, ik wil de vormgeving zo veel mogelijk behouden, maar het moet wel leesbaar blijven en niet buiten het scherm vallen.
 
 <br>
 in het liedje: <br>
@@ -443,7 +440,7 @@ de planning helemaal af, wat eventuele dingen nog niet kunnen doen. als ik meer 
 
 
 ### ws 7 - 26 oktober 
-selector voor focus state via chat gpt op moeten zoeken want ik had eerst alleen het paarse lijntje om de checkbox
+ik heb opgezocht hoe ik de focus state van mijn checkbox beter kon aanpassen. eerst kreeg ik alleen een paars lijntje om de checkbox, maar dat was niet het effect dat ik wilde. met hulp van chatgpt heb ik uitgezocht welke selector ik hiervoor kon gebruiken.
 <img width="822" height="205" alt="Scherm­afbeelding 2026-10-25 om 20 39 08" src="https://github.com/user-attachments/assets/9d51a2d7-69e6-41c0-b8a4-340f2b6e9776" />
 
 <img width="1466" height="650" alt="Scherm­afbeelding 2026-10-25 om 21 11 28" src="https://github.com/user-attachments/assets/d6351af9-d366-4e8e-967a-1c3e91fe767a" />
@@ -459,11 +456,11 @@ de deepdive over light dark gevolgd voor de knoppen met achtergrond kleuren
 
 <img width="3024" height="4032" alt="IMG_1260" src="https://github.com/user-attachments/assets/76ab5992-737f-487a-bd0e-587c52f1a8ce" />
 <img width="4032" height="3024" alt="IMG_1261" src="https://github.com/user-attachments/assets/ada6c9ad-11cd-4b3f-b0f1-5281733043d0" />
-reflectie: leuk om te zien hoe iedereen zo onder de indruk was van de animaties die ik had gemaakt in mijn pagina. de tip over dat de cookies knop weg moet zijn na accepteren vind ik wel een goed idee maar ik weet niet hoe ik dat zou moeten toevoegen in mijn website want: ik ben van mening dat iemand nog van mening mag veranderen en alsnog op deny mag klikken. misschien zou ik dan de tekst in de knop moeten maken: "changed your mind?" ofzo, dat zou wel een goed idee zijn maar daar heb ik nu geen tijd meer voor om te schetsen en te bedenken hoe ik dat dan precies wil en ook nog te maken.
+reflectie: ik vond het leuk om te zien dat anderen onder de indruk waren van de animaties op mijn pagina. daar heb ik best veel tijd in gestoken, dus het was fijn om te merken dat ze opvielen. ik kreeg ook de tip dat de cookieknop na het accepteren zou moeten verdwijnen. daar snap ik het idee achter, maar ik vind het zelf ook belangrijk dat iemand later nog van mening kan veranderen en alsnog op deny kan klikken. misschien zou ik de tekst kunnen veranderen naar 'changed your mind?' zodat duidelijk blijft dat je de keuze kunt aanpassen. dat zou wel een goed idee zijn maar daar heb ik nu geen tijd meer voor om te schetsen en te bedenken hoe ik dat dan precies wil en ook nog te maken.
 
 <img width="4032" height="3024" alt="IMG_1262" src="https://github.com/user-attachments/assets/5857e9ea-8d79-4dd4-bc2d-8727e72b62f8" />
 <img width="4032" height="3024" alt="IMG_1263" src="https://github.com/user-attachments/assets/5aa97262-0c93-446b-b525-5ea54bd78c93" />
-conclusie: mijn website is best Webby, nog een paar kleine tips waarmee ik misschien wel verder zou gaan als ik de tijd ervoor had. vooral nu voor het laaste dagje even focussen op de readme iets meer beschrijven hoe mijn proces is gegaan.
+conclusie: mijn website is best Webby, nog een paar kleine tips waarmee ik misschien wel verder zou gaan als ik de tijd ervoor had. over het algemeen ben ik best tevreden met mijn website en met wat ik deze periode heb geleerd. ik heb veel geoefend met html, css, responsive design en toegankelijkheid. vooral nu voor het laaste dagje: even focussen op de readme iets meer beschrijven hoe mijn proces is gegaan. de kennis die ik heb opgedaan wil ik hierna gebruiken om mijn eigen portfolio-website te maken.
 
 
 
