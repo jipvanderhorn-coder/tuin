@@ -418,27 +418,42 @@ geen checkout vandaag
 ### ws 5 - 21 oktober 
 
 
-<img width="582" height="410" alt="Scherm­afbeelding 2026-10-19 om 11 04 36" src="https://github.com/user-attachments/assets/e3cb9921-291c-49c0-9575-536b6fff389a" />
-<img width="579" height="722" alt="Scherm­afbeelding 2026-10-19 om 11 05 38" src="https://github.com/user-attachments/assets/cc0c6f88-5993-4435-bde3-05ec004b4bc6" />
-<img width="572" height="416" alt="Scherm­afbeelding 2026-10-19 om 13 17 44" src="https://github.com/user-attachments/assets/3cd64b0a-ad25-406e-ab0e-1f03b3839448" />
-<img width="465" height="540" alt="Scherm­afbeelding 2026-10-19 om 14 32 38" src="https://github.com/user-attachments/assets/2895d38e-7902-48a5-9926-36b4d7c9023a" />
-<img width="1114" height="747" alt="Scherm­afbeelding 2026-10-20 om 12 23 50" src="https://github.com/user-attachments/assets/a445f4a0-eb64-4f7a-8c63-201be8e98b59" />
-<img width="1067" height="680" alt="Scherm­afbeelding 2026-10-20 om 12 29 27" src="https://github.com/user-attachments/assets/83ef8f9b-4c4e-466b-800f-bf8e745a0233" />
 
+<img width="579" height="722" alt="Scherm­afbeelding 2026-10-19 om 11 05 38" src="https://github.com/user-attachments/assets/cc0c6f88-5993-4435-bde3-05ec004b4bc6" />
+
+na de feedback vorige week heb ik het zo gedaan dat de p te lezen is voor het scrollen en dat als je door scroll dat je dan de animaties pas ziet 
+<br>
+<br>
+<br>
+
+<img width="572" height="416" alt="Scherm­afbeelding 2026-10-19 om 13 17 44" src="https://github.com/user-attachments/assets/3cd64b0a-ad25-406e-ab0e-1f03b3839448" />
+ik heb uitgezocht vanaf welke breedte je geen hover meer hoeft te hebben en dat is rond de 48/ 51 em, dit is nuttig voor mijn website
+<br><br><br>
+
+
+
+<img width="465" height="540" alt="Scherm­afbeelding 2026-10-19 om 14 32 38" src="https://github.com/user-attachments/assets/2895d38e-7902-48a5-9926-36b4d7c9023a" />
+
+bijna alles af voor vrijdag
+<br><br><br>
+<img width="1114" height="747" alt="Scherm­afbeelding 2026-10-20 om 12 23 50" src="https://github.com/user-attachments/assets/a445f4a0-eb64-4f7a-8c63-201be8e98b59" /> 
+<img width="1067" height="680" alt="Scherm­afbeelding 2026-10-20 om 12 29 27" src="https://github.com/user-attachments/assets/83ef8f9b-4c4e-466b-800f-bf8e745a0233" />
+de code in java, ik heb zelf geen verstand van javascript dus heb het zo opgelost
+<br><br><br>
 
 <img width="4032" height="3024" alt="IMG_1166 2" src="https://github.com/user-attachments/assets/36255b67-37d2-4632-b7e0-bf5287081c69" />
 
 <img width="4032" height="3024" alt="IMG_1165 2" src="https://github.com/user-attachments/assets/8658aab0-03e8-46e1-9a00-0b0052175406" />
 <br>
 bi weekly geek 3
-
+<br><br><br>
 
 <br>
 
 <img width="3024" height="4032" alt="IMG_1167" src="https://github.com/user-attachments/assets/253a734b-3e53-42f5-be48-e92006736315" />
 
 <img width="3024" height="4032" alt="IMG_1168" src="https://github.com/user-attachments/assets/c2c89690-446a-441d-bdbe-5b8241dcf799" />
-
+heel veel was goed, aandacht geven aan: readme en de bronnen vermelden
 <br>
 checkout
 geen check out vandaag
@@ -461,28 +476,38 @@ de planning helemaal af, wat eventuele dingen nog niet kunnen doen. als ik meer 
 <img width="4032" height="3024" alt="IMG_1181" src="https://github.com/user-attachments/assets/59dfcd25-864b-4833-9272-59c1c82726ad" />
 <img width="4032" height="3024" alt="IMG_1182 2" src="https://github.com/user-attachments/assets/7c2cda26-53ae-4b58-9558-41fc72aab55e" />
 <img width="4032" height="3024" alt="IMG_1183" src="https://github.com/user-attachments/assets/1b890980-539b-43f4-b4eb-08104152af85" />
+retrospect 3
+<br><br><br>
 
+feedback vandaag:
+<img width="539" height="194" alt="Scherm­afbeelding 2026-10-26 om 21 03 43" src="https://github.com/user-attachments/assets/507191da-d7b1-4db7-91c6-fad49fe624fc" />
 
 
 ### ws 7 - 26 oktober 
-ik heb opgezocht hoe ik de focus state van mijn checkbox beter kon aanpassen. eerst kreeg ik alleen een paars lijntje om de checkbox, maar dat was niet het effect dat ik wilde. met hulp van chatgpt heb ik uitgezocht welke selector ik hiervoor kon gebruiken.
+
+<img width="754" height="505" alt="Scherm­afbeelding 2026-10-26 om 20 59 37" src="https://github.com/user-attachments/assets/279fdab9-76e4-4f0f-bc8e-2faba0fe15da" />
+na de feedback over een klein verschil in light dark en dat knoppen ervoor nog leuk zouden zijn heb ik dit gemaakt 
+
+<br><br><br>
+
 <img width="822" height="205" alt="Scherm­afbeelding 2026-10-25 om 20 39 08" src="https://github.com/user-attachments/assets/9d51a2d7-69e6-41c0-b8a4-340f2b6e9776" />
 
+ik heb opgezocht hoe ik de focus state van mijn checkbox beter kon aanpassen. eerst kreeg ik alleen een paars lijntje om de checkbox, maar dat was niet het effect dat ik wilde. met hulp van chatgpt heb ik uitgezocht welke selector ik hiervoor kon gebruiken.
+<br><br><br>
 <img width="1466" height="650" alt="Scherm­afbeelding 2026-10-25 om 21 11 28" src="https://github.com/user-attachments/assets/d6351af9-d366-4e8e-967a-1c3e91fe767a" />
 de deepdive over light dark gevolgd voor de knoppen met achtergrond kleuren
 
-
-<img width="507" height="183" alt="Scherm­afbeelding 2026-10-25 om 21 38 06" src="https://github.com/user-attachments/assets/2fcfc101-fecc-410c-8c39-85b79783ae4d" />
-
-
-
+<br><br><br>
+<img width="488" height="222" alt="Scherm­afbeelding 2026-10-26 om 21 05 22" src="https://github.com/user-attachments/assets/6ab5584f-bfaa-440b-bf6a-385069077bd6" />
+alle feedback van vrijdag nog verwerkt
 
 
 
+<br><br><br>
 <img width="3024" height="4032" alt="IMG_1260" src="https://github.com/user-attachments/assets/76ab5992-737f-487a-bd0e-587c52f1a8ce" />
 <img width="4032" height="3024" alt="IMG_1261" src="https://github.com/user-attachments/assets/ada6c9ad-11cd-4b3f-b0f1-5281733043d0" />
 reflectie: ik vond het leuk om te zien dat anderen onder de indruk waren van de animaties op mijn pagina. daar heb ik best veel tijd in gestoken, dus het was fijn om te merken dat ze opvielen. ik kreeg ook de tip dat de cookieknop na het accepteren zou moeten verdwijnen. daar snap ik het idee achter, maar ik vind het zelf ook belangrijk dat iemand later nog van mening kan veranderen en alsnog op deny kan klikken. misschien zou ik de tekst kunnen veranderen naar 'changed your mind?' zodat duidelijk blijft dat je de keuze kunt aanpassen. dat zou wel een goed idee zijn maar daar heb ik nu geen tijd meer voor om te schetsen en te bedenken hoe ik dat dan precies wil en ook nog te maken.
-
+<br><br><br>
 <img width="4032" height="3024" alt="IMG_1262" src="https://github.com/user-attachments/assets/5857e9ea-8d79-4dd4-bc2d-8727e72b62f8" />
 <img width="4032" height="3024" alt="IMG_1263" src="https://github.com/user-attachments/assets/5aa97262-0c93-446b-b525-5ea54bd78c93" />
 conclusie: mijn website is best Webby, nog een paar kleine tips waarmee ik misschien wel verder zou gaan als ik de tijd ervoor had. over het algemeen ben ik best tevreden met mijn website en met wat ik deze periode heb geleerd. ik heb veel geoefend met html, css, responsive design en toegankelijkheid. vooral nu voor het laaste dagje: even focussen op de readme iets meer beschrijven hoe mijn proces is gegaan. de kennis die ik heb opgedaan wil ik hierna gebruiken om mijn eigen portfolio-website te maken.
@@ -505,4 +530,7 @@ alle afbeeldingen in mijn tuintje: https://unsplash.com
 de letters in een rondje in mijn experiment: https://codepen.io/editor/shooft/pen/01a11591-95f0-72eb-97b9-0c4f621666e0
 <br>
 <br>
-bron voor de javascript: chatgpt
+bron voor de javascript: https://chatgpt.com
+<br>
+<br>
+bron waarvan ik fonts heb gedownload: https://www.1001fonts.com
